@@ -22,7 +22,7 @@ function itemSort(a: DashboardItem, b: DashboardItem): number {
   return (a.price_eur ?? Number.MAX_SAFE_INTEGER) - (b.price_eur ?? Number.MAX_SAFE_INTEGER);
 }
 
-export default function App(): JSX.Element {
+export default function App() {
   const [payload, setPayload] = useState<DashboardPayload | null>(null);
   const [query, setQuery] = useState("");
   const [selectedInterest, setSelectedInterest] = useState("all");

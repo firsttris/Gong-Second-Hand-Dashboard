@@ -10,8 +10,8 @@
   body {
     @apply m-0 min-h-screen text-zinc-900;
     background:
-      radial-gradient(circle at 10% 10%, rgba(239, 98, 43, 0.18), transparent 40%),
-      radial-gradient(circle at 85% 8%, rgba(10, 139, 217, 0.13), transparent 45%),
-      linear-gradient(150deg, #fff7ec, #ffe9c9);
+      radial-gradient(circle at 8% 10%, rgba(14, 116, 144, 0.12), transparent 36%),
+      radial-gradient(circle at 90% 8%, rgba(71, 85, 105, 0.12), transparent 42%),
+      linear-gradient(160deg, #f5f7fb, #e8edf5);
   }
 }

@@ -68,6 +68,7 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
 
     for collection in collections:
         collection_name = collection.get("name", "Unknown")
+        collection_type = collection.get("type", "other")
         json_url = collection.get("json_url")
         if not json_url:
             continue
@@ -111,6 +112,7 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
                     "url": product_url,
                     "image_url": image_url,
                     "collection": collection_name,
+                    "item_type": collection_type,
                     "product_type": product.get("product_type", ""),
                     "tags": tags if isinstance(tags, list) else [],
                     "updated_at": product.get("updated_at"),

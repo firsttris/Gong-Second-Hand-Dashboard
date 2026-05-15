@@ -22,8 +22,8 @@ function itemSort(a: DashboardItem, b: DashboardItem): number {
 export default function App() {
   const [payload, setPayload] = useState<DashboardPayload | null>(null);
   const [query, setQuery] = useState("");
+  const [selectedType, setSelectedType] = useState<"all" | DashboardItem["item_type"]>("all");
   const [onlyNew, setOnlyNew] = useState(false);
-  const [maxPrice, setMaxPrice] = useState<number>(1200);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
@@ -41,6 +41,13 @@ export default function App() {
       });
   }, []);
 
+  const typeOptions = useMemo(() => {
+    if (!payload) {
+      return [] as DashboardItem["item_type"][];
+    }
+    return Array.from(new Set(payload.items.map((item) => item.item_type))).sort();
+  }, [payload]);
+
   const filtered = useMemo(() => {
     if (!payload) {
       return [] as DashboardItem[];
@@ -50,10 +57,10 @@ export default function App() {
 
     return payload.items
       .filter((item) => {
-        if (onlyNew && !item.is_new) {
+        if (selectedType !== "all" && item.item_type !== selectedType) {
           return false;
         }
-        if (item.price_eur !== null && item.price_eur > maxPrice) {
+        if (onlyNew && !item.is_new) {
           return false;
         }
         if (!normalizedQuery) {
@@ -63,7 +70,7 @@ export default function App() {
         return text.includes(normalizedQuery);
       })
       .sort(itemSort);
-  }, [payload, query, onlyNew, maxPrice]);
+  }, [payload, query, selectedType, onlyNew]);
 
   const stats = useMemo(() => {
     const total = filtered.length;
@@ -78,9 +85,34 @@ export default function App() {
   }, [filtered]);
 
   const panelClass =
-    "rounded-2xl border border-zinc-900/15 bg-white/75 backdrop-blur-sm";
+    "rounded-2xl border border-slate-300 bg-white shadow-[0_1px_2px_rgba(15,23,42,0.04)]";
   const controlClass =
     "w-full rounded-xl border border-zinc-900/15 bg-white/85 px-3 py-2 text-sm text-zinc-900 outline-none transition focus:border-zinc-900/30 focus:ring-2 focus:ring-orange-500/30";
+
+  function typeLabel(value: DashboardItem["item_type"]): string {
+    if (value === "wing") {
+      return "Wings";
+    }
+    if (value === "rigid_board") {
+      return "Rigid Boards";
+    }
+    if (value === "front_wing") {
+      return "Front Wings";
+    }
+    if (value === "stab") {
+      return "Stabs";
+    }
+    if (value === "mast") {
+      return "Masts";
+    }
+    if (value === "fuselage") {
+      return "Fuselages";
+    }
+    if (value === "lowkite") {
+      return "Lowkites";
+    }
+    return "Other";
+  }
 
   return (
     <div className="mx-auto w-[min(1200px,94vw)] px-0 py-8 md:py-10">
@@ -94,9 +126,7 @@ export default function App() {
         </p>
       </header>
 
-      <section
-        className={`${panelClass} grid grid-cols-1 gap-3 p-4 md:grid-cols-2 xl:grid-cols-3`}
-      >
+      <section className={`${panelClass} grid grid-cols-1 gap-3 p-4 md:grid-cols-2 xl:grid-cols-3`}>
         <div className="flex flex-col gap-2">
           <label htmlFor="search" className="font-mono text-xs">
             Search
@@ -112,19 +142,22 @@ export default function App() {
         </div>
 
         <div className="flex flex-col gap-2">
-          <label htmlFor="max-price" className="font-mono text-xs">
-            Max price: {eur(maxPrice)}
+          <label htmlFor="type" className="font-mono text-xs">
+            Type
           </label>
-          <input
-            id="max-price"
-            type="range"
-            min={100}
-            max={2000}
-            step={10}
-            value={maxPrice}
-            onChange={(e) => setMaxPrice(Number(e.target.value))}
-            className="h-10 w-full accent-orange-500"
-          />
+          <select
+            id="type"
+            value={selectedType}
+            onChange={(e) => setSelectedType(e.target.value as "all" | DashboardItem["item_type"])}
+            className={controlClass}
+          >
+            <option value="all">All</option>
+            {typeOptions.map((type) => (
+              <option key={type} value={type}>
+                {typeLabel(type)}
+              </option>
+            ))}
+          </select>
         </div>
 
         <div className="flex flex-col justify-end gap-3 sm:flex-row sm:items-center xl:flex-col xl:items-start xl:justify-center">
@@ -182,6 +215,9 @@ export default function App() {
               <div className="flex flex-wrap gap-1.5">
                 <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
                   {item.collection}
+                </span>
+                <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
+                  {typeLabel(item.item_type)}
                 </span>
                 {item.is_new && (
                   <span className="rounded-full bg-sky-500/15 px-2 py-1 font-mono text-[11px] text-sky-700">

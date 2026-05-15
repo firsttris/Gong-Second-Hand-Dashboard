@@ -3,7 +3,38 @@
   "collections": [
     {
       "name": "Wings",
+      "type": "wing",
       "json_url": "https://www.gong-galaxy.com/en/collections/occasions-wings/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Rigid Wingboards",
+      "type": "rigid_board",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-planches-rigides-wingboard/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Front Wings",
+      "type": "front_wing",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-frontwing/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Stabs",
+      "type": "stab",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-stabs/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Masts",
+      "type": "mast",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-mats/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Fuselages",
+      "type": "fuselage",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-fuselages/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Lowkites",
+      "type": "lowkite",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-lowkite/products.json?limit=250&filter.v.availability=1"
     }
   ]
 }

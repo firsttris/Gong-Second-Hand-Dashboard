@@ -3,7 +3,7 @@ name: Manual Build And Deploy Dashboard
 on:
   workflow_dispatch:
   schedule:
-    # Runs daily at 06:00 UTC 
+    # Runs daily at 06:00 UTC
     - cron: "0 6 * * *"
 
 permissions:
@@ -36,6 +36,37 @@ jobs:
             --config config/preferences.json \
             --output web/public/data/items.json \
             --history data/history.json
+
+      - name: Detect new items
+        id: new_items
+        run: |
+          python scripts/detect_new_items.py \
+            --items-json web/public/data/items.json \
+            --github-output "$GITHUB_OUTPUT"
+
+      - name: Send email notification
+        if: steps.new_items.outputs.has_new == 'true' && secrets.SMTP_SERVER != '' && secrets.SMTP_PORT != '' && secrets.SMTP_USERNAME != '' && secrets.SMTP_PASSWORD != '' && secrets.EMAIL_FROM != '' && secrets.EMAIL_TO != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: ${{ steps.new_items.outputs.new_items }} neue Gong Second-Hand Items
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.EMAIL_FROM }}
+          body: |
+            Es wurden ${{ steps.new_items.outputs.new_items }} neue Gong Second-Hand Items gefunden.
+
+            Dashboard:
+            https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+
+            Diese Nachricht wurde automatisch durch den GitHub Actions Workflow versendet.
+
+      - name: Warn when email secrets are missing
+        if: steps.new_items.outputs.has_new == 'true' && (secrets.SMTP_SERVER == '' || secrets.SMTP_PORT == '' || secrets.SMTP_USERNAME == '' || secrets.SMTP_PASSWORD == '' || secrets.EMAIL_FROM == '' || secrets.EMAIL_TO == '')
+        run: |
+          echo "New items found (${{ steps.new_items.outputs.new_items }}), but email SMTP secrets are not fully configured."
 
       - name: Commit refreshed data
         run: |

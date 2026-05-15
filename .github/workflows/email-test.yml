@@ -1,0 +1,41 @@
+name: SMTP Email Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  email-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send SMTP test email
+        if: secrets.SMTP_SERVER != '' && secrets.SMTP_PORT != '' && secrets.SMTP_USERNAME != '' && secrets.SMTP_PASSWORD != '' && secrets.EMAIL_FROM != '' && secrets.EMAIL_TO != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: SMTP Test erfolgreich - Gong Dashboard
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.EMAIL_FROM }}
+          body: |
+            Das ist eine Test-Mail vom GitHub Actions Workflow "SMTP Email Test".
+
+            Repository:
+            ${{ github.repository }}
+
+            Trigger:
+            ${{ github.triggering_actor }}
+
+            Run:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+      - name: Fail when SMTP secrets are missing
+        if: secrets.SMTP_SERVER == '' || secrets.SMTP_PORT == '' || secrets.SMTP_USERNAME == '' || secrets.SMTP_PASSWORD == '' || secrets.EMAIL_FROM == '' || secrets.EMAIL_TO == ''
+        run: |
+          echo "SMTP secrets are missing. Configure SMTP_SERVER, SMTP_PORT, SMTP_USERNAME, SMTP_PASSWORD, EMAIL_FROM and EMAIL_TO."
+          exit 1

@@ -17,6 +17,13 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
 
     steps:
       - name: Checkout
@@ -45,16 +52,16 @@ jobs:
             --github-output "$GITHUB_OUTPUT"
 
       - name: Send email notification
-        if: steps.new_items.outputs.has_new == 'true' && secrets.SMTP_SERVER != '' && secrets.SMTP_PORT != '' && secrets.SMTP_USERNAME != '' && secrets.SMTP_PASSWORD != '' && secrets.EMAIL_FROM != '' && secrets.EMAIL_TO != ''
+        if: steps.new_items.outputs.has_new == 'true' && env.SMTP_SERVER != '' && env.SMTP_PORT != '' && env.SMTP_USERNAME != '' && env.SMTP_PASSWORD != '' && env.EMAIL_FROM != '' && env.EMAIL_TO != ''
         uses: dawidd6/action-send-mail@v3
         with:
-          server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
+          server_address: ${{ env.SMTP_SERVER }}
+          server_port: ${{ env.SMTP_PORT }}
+          username: ${{ env.SMTP_USERNAME }}
+          password: ${{ env.SMTP_PASSWORD }}
           subject: ${{ steps.new_items.outputs.new_items }} neue Gong Second-Hand Items
-          to: ${{ secrets.EMAIL_TO }}
-          from: ${{ secrets.EMAIL_FROM }}
+          to: ${{ env.EMAIL_TO }}
+          from: ${{ env.EMAIL_FROM }}
           body: |
             Es wurden ${{ steps.new_items.outputs.new_items }} neue Gong Second-Hand Items gefunden.
 
@@ -64,7 +71,7 @@ jobs:
             Diese Nachricht wurde automatisch durch den GitHub Actions Workflow versendet.
 
       - name: Warn when email secrets are missing
-        if: steps.new_items.outputs.has_new == 'true' && (secrets.SMTP_SERVER == '' || secrets.SMTP_PORT == '' || secrets.SMTP_USERNAME == '' || secrets.SMTP_PASSWORD == '' || secrets.EMAIL_FROM == '' || secrets.EMAIL_TO == '')
+        if: steps.new_items.outputs.has_new == 'true' && (env.SMTP_SERVER == '' || env.SMTP_PORT == '' || env.SMTP_USERNAME == '' || env.SMTP_PASSWORD == '' || env.EMAIL_FROM == '' || env.EMAIL_TO == '')
         run: |
           echo "New items found (${{ steps.new_items.outputs.new_items }}), but email SMTP secrets are not fully configured."
 

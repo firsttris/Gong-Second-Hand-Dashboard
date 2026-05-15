@@ -13,9 +13,6 @@ function eur(value: number | null): string {
 }
 
 function itemSort(a: DashboardItem, b: DashboardItem): number {
-  if (a.is_relevant !== b.is_relevant) {
-    return a.is_relevant ? -1 : 1;
-  }
   if (a.is_new !== b.is_new) {
     return a.is_new ? -1 : 1;
   }
@@ -25,8 +22,6 @@ function itemSort(a: DashboardItem, b: DashboardItem): number {
 export default function App() {
   const [payload, setPayload] = useState<DashboardPayload | null>(null);
   const [query, setQuery] = useState("");
-  const [selectedInterest, setSelectedInterest] = useState("all");
-  const [onlyRelevant, setOnlyRelevant] = useState(true);
   const [onlyNew, setOnlyNew] = useState(false);
   const [maxPrice, setMaxPrice] = useState<number>(1200);
   const [error, setError] = useState<string | null>(null);
@@ -46,17 +41,6 @@ export default function App() {
       });
   }, []);
 
-  const interestOptions = useMemo(() => {
-    if (!payload) {
-      return [] as string[];
-    }
-    const all = new Set<string>();
-    payload.items.forEach((item) => {
-      item.matched_interests.forEach((label) => all.add(label));
-    });
-    return Array.from(all).sort((a, b) => a.localeCompare(b));
-  }, [payload]);
-
   const filtered = useMemo(() => {
     if (!payload) {
       return [] as DashboardItem[];
@@ -66,13 +50,7 @@ export default function App() {
 
     return payload.items
       .filter((item) => {
-        if (onlyRelevant && !item.is_relevant) {
-          return false;
-        }
         if (onlyNew && !item.is_new) {
-          return false;
-        }
-        if (selectedInterest !== "all" && !item.matched_interests.includes(selectedInterest)) {
           return false;
         }
         if (item.price_eur !== null && item.price_eur > maxPrice) {
@@ -85,13 +63,18 @@ export default function App() {
         return text.includes(normalizedQuery);
       })
       .sort(itemSort);
-  }, [payload, query, selectedInterest, onlyRelevant, onlyNew, maxPrice]);
+  }, [payload, query, onlyNew, maxPrice]);
 
   const stats = useMemo(() => {
     const total = filtered.length;
-    const relevant = filtered.filter((item) => item.is_relevant).length;
+    const discounted = filtered.filter(
+      (item) =>
+        item.compare_at_price_eur !== null &&
+        item.price_eur !== null &&
+        item.compare_at_price_eur > item.price_eur
+    ).length;
     const fresh = filtered.filter((item) => item.is_new).length;
-    return { total, relevant, fresh };
+    return { total, discounted, fresh };
   }, [filtered]);
 
   const panelClass =
@@ -112,7 +95,7 @@ export default function App() {
       </header>
 
       <section
-        className={`${panelClass} grid grid-cols-1 gap-3 p-4 md:grid-cols-2 xl:grid-cols-4`}
+        className={`${panelClass} grid grid-cols-1 gap-3 p-4 md:grid-cols-2 xl:grid-cols-3`}
       >
         <div className="flex flex-col gap-2">
           <label htmlFor="search" className="font-mono text-xs">
@@ -126,25 +109,6 @@ export default function App() {
             placeholder="pulse race 3.5"
             className={controlClass}
           />
-        </div>
-
-        <div className="flex flex-col gap-2">
-          <label htmlFor="interest" className="font-mono text-xs">
-            Interest
-          </label>
-          <select
-            id="interest"
-            value={selectedInterest}
-            onChange={(e) => setSelectedInterest(e.target.value)}
-            className={controlClass}
-          >
-            <option value="all">All</option>
-            {interestOptions.map((label) => (
-              <option key={label} value={label}>
-                {label}
-              </option>
-            ))}
-          </select>
         </div>
 
         <div className="flex flex-col gap-2">
@@ -167,15 +131,6 @@ export default function App() {
           <label className="flex items-center gap-2 font-mono text-xs">
             <input
               type="checkbox"
-              checked={onlyRelevant}
-              onChange={(e) => setOnlyRelevant(e.target.checked)}
-              className="size-4 accent-orange-500"
-            />
-            Relevant only
-          </label>
-          <label className="flex items-center gap-2 font-mono text-xs">
-            <input
-              type="checkbox"
               checked={onlyNew}
               onChange={(e) => setOnlyNew(e.target.checked)}
               className="size-4 accent-sky-500"
@@ -191,8 +146,8 @@ export default function App() {
           <p className="text-zinc-700">Visible items</p>
         </article>
         <article className={`${panelClass} px-4 py-3`}>
-          <h2 className="text-4xl font-bold">{stats.relevant}</h2>
-          <p className="text-zinc-700">Relevant matches</p>
+          <h2 className="text-4xl font-bold">{stats.discounted}</h2>
+          <p className="text-zinc-700">Discounted items</p>
         </article>
         <article className={`${panelClass} px-4 py-3`}>
           <h2 className="text-4xl font-bold">{stats.fresh}</h2>
@@ -228,11 +183,6 @@ export default function App() {
                 <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
                   {item.collection}
                 </span>
-                {item.is_relevant && (
-                  <span className="rounded-full bg-emerald-600/15 px-2 py-1 font-mono text-[11px] text-emerald-700">
-                    Relevant
-                  </span>
-                )}
                 {item.is_new && (
                   <span className="rounded-full bg-sky-500/15 px-2 py-1 font-mono text-[11px] text-sky-700">
                     New
@@ -254,12 +204,6 @@ export default function App() {
                   <span className="font-mono text-sm text-orange-600">-{item.discount_percent}%</span>
                 )}
               </div>
-
-              {item.matched_interests.length > 0 && (
-                <p className="mt-1 text-sm text-zinc-700">
-                  Matches: {item.matched_interests.join(", ")}
-                </p>
-              )}
 
               <a
                 href={item.url}

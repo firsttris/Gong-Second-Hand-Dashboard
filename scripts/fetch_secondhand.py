@@ -2,19 +2,11 @@
 import argparse
 import json
 import re
-import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
 import requests
-
-
-def normalize_text(value: str) -> str:
-    lowered = value.lower()
-    normalized = unicodedata.normalize("NFKD", lowered)
-    ascii_only = normalized.encode("ascii", "ignore").decode("ascii")
-    return re.sub(r"\s+", " ", ascii_only).strip()
 
 
 def money_to_eur(value: Any) -> float | None:
@@ -67,26 +59,8 @@ def fetch_collection_products(json_url: str) -> list[dict[str, Any]]:
     return data.get("products", [])
 
 
-def interest_matches(item_text: str, item_price_eur: float | None, interest: dict[str, Any]) -> bool:
-    includes = [normalize_text(k) for k in interest.get("include_keywords", [])]
-    excludes = [normalize_text(k) for k in interest.get("exclude_keywords", [])]
-    max_price = interest.get("max_price_eur")
-
-    if includes and not any(keyword in item_text for keyword in includes):
-        return False
-
-    if excludes and any(keyword in item_text for keyword in excludes):
-        return False
-
-    if max_price is not None and item_price_eur is not None and item_price_eur > float(max_price):
-        return False
-
-    return True
-
-
 def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, Any]]:
     site_base = config.get("site_base_url", "https://www.gong-galaxy.com").rstrip("/")
-    interests = config.get("interests", [])
     collections = config.get("collections", [])
 
     items: list[dict[str, Any]] = []
@@ -121,17 +95,10 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
                 title = product.get("title", "Untitled")
                 variant_title = variant.get("title", "")
                 tags = product.get("tags", [])
-                tags_text = " ".join(tags) if isinstance(tags, list) else str(tags)
-                searchable = normalize_text(f"{title} {variant_title} {tags_text}")
 
                 price_eur = money_to_eur(variant.get("price"))
                 compare_eur = money_to_eur(variant.get("compare_at_price"))
                 discount = discount_percent(price_eur, compare_eur)
-
-                matched_labels: list[str] = []
-                for interest in interests:
-                    if interest_matches(searchable, price_eur, interest):
-                        matched_labels.append(interest.get("label", interest.get("id", "match")))
 
                 item = {
                     "id": item_id,
@@ -147,18 +114,16 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
                     "product_type": product.get("product_type", ""),
                     "tags": tags if isinstance(tags, list) else [],
                     "updated_at": product.get("updated_at"),
-                    "matched_interests": matched_labels,
-                    "is_relevant": len(matched_labels) > 0,
                     "is_new": item_id not in seen_ids,
                 }
                 items.append(item)
 
-    items.sort(key=lambda x: (not x["is_relevant"], x["price_eur"] is None, x["price_eur"] or 0))
+    items.sort(key=lambda x: (not x["is_new"], x["price_eur"] is None, x["price_eur"] or 0))
     return items
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Fetch and filter Gong second-hand items")
+    parser = argparse.ArgumentParser(description="Fetch Gong second-hand items")
     parser.add_argument("--config", required=True, help="Path to preferences JSON")
     parser.add_argument("--output", required=True, help="Output items JSON file")
     parser.add_argument("--history", required=True, help="History JSON file to track new items")
@@ -182,7 +147,7 @@ def main() -> None:
         "generated_at": now,
         "source": "gong-galaxy",
         "total_items": len(items),
-        "relevant_items": sum(1 for i in items if i["is_relevant"]),
+        "interests": config.get("interests", []),
         "new_items": sum(1 for i in items if i["is_new"]),
         "items": items,
     }
@@ -193,7 +158,7 @@ def main() -> None:
     save_json(history_path, {"seen_ids": updated_seen, "updated_at": now})
 
     print(f"Wrote {len(items)} items to {output_path}")
-    print(f"Relevant items: {payload['relevant_items']} | New items: {payload['new_items']}")
+    print(f"New items: {payload['new_items']}")
 
 
 if __name__ == "__main__":

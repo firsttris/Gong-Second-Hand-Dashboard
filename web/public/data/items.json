@@ -1,10 +1,50 @@
 {
-  "generated_at": "2026-05-15T18:56:51.884845+00:00",
+  "generated_at": "2026-05-15T19:10:03.623001+00:00",
   "source": "gong-galaxy",
   "total_items": 8,
-  "relevant_items": 5,
+  "interests": [],
   "new_items": 0,
   "items": [
+    {
+      "id": "15476163936631-57081337938295",
+      "title": "Wing Neutra - 5 m\u00b2 Black / Blue Second Hand 13763",
+      "variant_title": "5 m\u00b2 / Black / Blue",
+      "price_eur": 335.0,
+      "compare_at_price_eur": 689.0,
+      "discount_percent": 51.4,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-oc13763",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-PERF_SERIES_V2-NEUTRA-BLACK-5M-GONGWING-01_239f9166-aaf9-463d-9f2f-a26615e4272a.png?v=1778487947",
+      "collection": "Wings",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingintermediaire",
+        "dropzone2026",
+        "great-deals-30",
+        "great-deals-40",
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-05-15T20:56:51+02:00",
+      "is_new": false
+    },
+    {
+      "id": "15436931137911-56952078303607",
+      "title": "Wing Plus - Dacron 5 m\u00b2 / Navy Occasion 13418",
+      "variant_title": "Dacron / 5 m\u00b2 / Navy",
+      "price_eur": 499.0,
+      "compare_at_price_eur": 689.0,
+      "discount_percent": 27.6,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc13418",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-NAVY-GONGWING-01_8e7c0613-1506-4909-afc3-7407d67bfb16.png?v=1774878794",
+      "collection": "Wings",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-05-15T20:56:51+02:00",
+      "is_new": false
+    },
     {
       "id": "15413605892471-56859023638903",
       "title": "Wing Pulse Race Aramid CZ - Aramid CZ 3,5 m\u00b2 / Sky blue Second Hand 13073",
@@ -25,10 +65,6 @@
         "main_collection:occasions-wings"
       ],
       "updated_at": "2026-05-15T20:56:51+02:00",
-      "matched_interests": [
-        "Race wings around 3.5m"
-      ],
-      "is_relevant": true,
       "is_new": false
     },
     {
@@ -51,10 +87,6 @@
         "main_collection:occasions-wings"
       ],
       "updated_at": "2026-05-15T20:56:51+02:00",
-      "matched_interests": [
-        "Race wings around 3.5m"
-      ],
-      "is_relevant": true,
       "is_new": false
     },
     {
@@ -77,10 +109,6 @@
         "main_collection:occasions-wings"
       ],
       "updated_at": "2026-05-15T20:56:51+02:00",
-      "matched_interests": [
-        "Race wings around 3.5m"
-      ],
-      "is_relevant": true,
       "is_new": false
     },
     {
@@ -103,10 +131,6 @@
         "main_collection:occasions-wings"
       ],
       "updated_at": "2026-05-15T20:56:51+02:00",
-      "matched_interests": [
-        "Race wings around 3.5m"
-      ],
-      "is_relevant": true,
       "is_new": false
     },
     {
@@ -129,54 +153,6 @@
         "main_collection:occasions-wings"
       ],
       "updated_at": "2026-05-15T20:56:51+02:00",
-      "matched_interests": [
-        "Race wings around 3.5m"
-      ],
-      "is_relevant": true,
-      "is_new": false
-    },
-    {
-      "id": "15476163936631-57081337938295",
-      "title": "Wing Neutra - 5 m\u00b2 Black / Blue Second Hand 13763",
-      "variant_title": "5 m\u00b2 / Black / Blue",
-      "price_eur": 335.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 51.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-oc13763",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-PERF_SERIES_V2-NEUTRA-BLACK-5M-GONGWING-01_239f9166-aaf9-463d-9f2f-a26615e4272a.png?v=1778487947",
-      "collection": "Wings",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingintermediaire",
-        "dropzone2026",
-        "great-deals-30",
-        "great-deals-40",
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-05-15T20:56:51+02:00",
-      "matched_interests": [],
-      "is_relevant": false,
-      "is_new": false
-    },
-    {
-      "id": "15436931137911-56952078303607",
-      "title": "Wing Plus - Dacron 5 m\u00b2 / Navy Occasion 13418",
-      "variant_title": "Dacron / 5 m\u00b2 / Navy",
-      "price_eur": 499.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 27.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc13418",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-NAVY-GONGWING-01_8e7c0613-1506-4909-afc3-7407d67bfb16.png?v=1774878794",
-      "collection": "Wings",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-05-15T20:56:51+02:00",
-      "matched_interests": [],
-      "is_relevant": false,
       "is_new": false
     },
     {
@@ -195,8 +171,6 @@
         "main_collection:occasions-wings"
       ],
       "updated_at": "2026-05-15T20:56:51+02:00",
-      "matched_interests": [],
-      "is_relevant": false,
       "is_new": false
     }
   ]

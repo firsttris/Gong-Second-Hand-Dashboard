@@ -1,3 +1,11 @@
+export type InterestRule = {
+  id: string;
+  label: string;
+  include_keywords: string[];
+  exclude_keywords?: string[];
+  max_price_eur?: number;
+};
+
 export type DashboardItem = {
   id: string;
   title: string;
@@ -12,8 +20,6 @@ export type DashboardItem = {
   product_type: string;
   tags: string[];
   updated_at: string;
-  matched_interests: string[];
-  is_relevant: boolean;
   is_new: boolean;
 };
 
@@ -21,7 +27,7 @@ export type DashboardPayload = {
   generated_at: string;
   source: string;
   total_items: number;
-  relevant_items: number;
+  interests?: InterestRule[];
   new_items: number;
   items: DashboardItem[];
 };

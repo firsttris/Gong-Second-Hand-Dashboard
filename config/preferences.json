@@ -1,0 +1,25 @@
+{
+  "site_base_url": "https://www.gong-galaxy.com",
+  "collections": [
+    {
+      "name": "Wings",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-wings/products.json?limit=250&filter.v.availability=1"
+    }
+  ],
+  "interests": [
+    {
+      "id": "race-35",
+      "label": "Race wings around 3.5m",
+      "include_keywords": ["pulse race", "3,5", "3.5"],
+      "exclude_keywords": ["2,5", "2.5", "6,0", "6.0"],
+      "max_price_eur": 750
+    },
+    {
+      "id": "droid-25",
+      "label": "Droid 2.5m options",
+      "include_keywords": ["droid", "2,5", "2.5"],
+      "exclude_keywords": ["3,5", "3.5"],
+      "max_price_eur": 650
+    }
+  ]
+}

@@ -94,34 +94,49 @@ export default function App() {
     return { total, relevant, fresh };
   }, [filtered]);
 
+  const panelClass =
+    "rounded-2xl border border-zinc-900/15 bg-white/75 backdrop-blur-sm";
+  const controlClass =
+    "w-full rounded-xl border border-zinc-900/15 bg-white/85 px-3 py-2 text-sm text-zinc-900 outline-none transition focus:border-zinc-900/30 focus:ring-2 focus:ring-orange-500/30";
+
   return (
-    <div className="page">
-      <header className="hero">
-        <p className="eyebrow">GONG TRACKER</p>
-        <h1>Second Hand Dashboard</h1>
-        <p className="subline">
+    <div className="mx-auto w-[min(1200px,94vw)] px-0 py-8 md:py-10">
+      <header className="mb-4">
+        <p className="font-mono text-xs tracking-[0.12em]">GONG TRACKER</p>
+        <h1 className="mt-1 text-4xl leading-none font-bold sm:text-5xl md:text-6xl">
+          Second Hand Dashboard
+        </h1>
+        <p className="mt-1 max-w-[680px] text-zinc-700">
           Focus on your target wings, detect new listings fast, and keep your buying window short.
         </p>
       </header>
 
-      <section className="panel controls">
-        <div className="control">
-          <label htmlFor="search">Search</label>
+      <section
+        className={`${panelClass} grid grid-cols-1 gap-3 p-4 md:grid-cols-2 xl:grid-cols-4`}
+      >
+        <div className="flex flex-col gap-2">
+          <label htmlFor="search" className="font-mono text-xs">
+            Search
+          </label>
           <input
             id="search"
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="pulse race 3.5"
+            className={controlClass}
           />
         </div>
 
-        <div className="control">
-          <label htmlFor="interest">Interest</label>
+        <div className="flex flex-col gap-2">
+          <label htmlFor="interest" className="font-mono text-xs">
+            Interest
+          </label>
           <select
             id="interest"
             value={selectedInterest}
             onChange={(e) => setSelectedInterest(e.target.value)}
+            className={controlClass}
           >
             <option value="all">All</option>
             {interestOptions.map((label) => (
@@ -132,8 +147,10 @@ export default function App() {
           </select>
         </div>
 
-        <div className="control">
-          <label htmlFor="max-price">Max price: {eur(maxPrice)}</label>
+        <div className="flex flex-col gap-2">
+          <label htmlFor="max-price" className="font-mono text-xs">
+            Max price: {eur(maxPrice)}
+          </label>
           <input
             id="max-price"
             type="range"
@@ -142,73 +159,114 @@ export default function App() {
             step={10}
             value={maxPrice}
             onChange={(e) => setMaxPrice(Number(e.target.value))}
+            className="h-10 w-full accent-orange-500"
           />
         </div>
 
-        <div className="control switch-row">
-          <label>
+        <div className="flex flex-col justify-end gap-3 sm:flex-row sm:items-center xl:flex-col xl:items-start xl:justify-center">
+          <label className="flex items-center gap-2 font-mono text-xs">
             <input
               type="checkbox"
               checked={onlyRelevant}
               onChange={(e) => setOnlyRelevant(e.target.checked)}
+              className="size-4 accent-orange-500"
             />
             Relevant only
           </label>
-          <label>
-            <input type="checkbox" checked={onlyNew} onChange={(e) => setOnlyNew(e.target.checked)} />
+          <label className="flex items-center gap-2 font-mono text-xs">
+            <input
+              type="checkbox"
+              checked={onlyNew}
+              onChange={(e) => setOnlyNew(e.target.checked)}
+              className="size-4 accent-sky-500"
+            />
             New only
           </label>
         </div>
       </section>
 
-      <section className="stats-grid">
-        <article className="panel stat">
-          <h2>{stats.total}</h2>
-          <p>Visible items</p>
+      <section className="my-4 grid grid-cols-1 gap-3 sm:grid-cols-3">
+        <article className={`${panelClass} px-4 py-3`}>
+          <h2 className="text-4xl font-bold">{stats.total}</h2>
+          <p className="text-zinc-700">Visible items</p>
         </article>
-        <article className="panel stat">
-          <h2>{stats.relevant}</h2>
-          <p>Relevant matches</p>
+        <article className={`${panelClass} px-4 py-3`}>
+          <h2 className="text-4xl font-bold">{stats.relevant}</h2>
+          <p className="text-zinc-700">Relevant matches</p>
         </article>
-        <article className="panel stat">
-          <h2>{stats.fresh}</h2>
-          <p>New since last fetch</p>
+        <article className={`${panelClass} px-4 py-3`}>
+          <h2 className="text-4xl font-bold">{stats.fresh}</h2>
+          <p className="text-zinc-700">New since last fetch</p>
         </article>
       </section>
 
-      <section className="list">
-        {error && <p className="panel error">Cannot load data: {error}</p>}
-        {!payload && !error && <p className="panel">Loading data...</p>}
+      <section className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {error && (
+          <p className={`${panelClass} border-red-700/40 px-4 py-3 text-sm text-red-900`}>
+            Cannot load data: {error}
+          </p>
+        )}
+        {!payload && !error && <p className={`${panelClass} px-4 py-3`}>Loading data...</p>}
 
-        {payload && filtered.length === 0 && <p className="panel">No items match current filters.</p>}
+        {payload && filtered.length === 0 && (
+          <p className={`${panelClass} px-4 py-3`}>No items match current filters.</p>
+        )}
 
         {filtered.map((item) => (
-          <article key={item.id} className={`panel card ${item.is_new ? "new" : ""}`}>
-            {item.image_url && <img src={item.image_url} alt={item.title} loading="lazy" />}
+          <article
+            key={item.id}
+            className={`${panelClass} overflow-hidden transition duration-200 hover:-translate-y-1 hover:shadow-[0_16px_35px_rgba(20,20,20,0.12)] ${
+              item.is_new ? "border-sky-500/50" : ""
+            }`}
+          >
+            {item.image_url && (
+              <img src={item.image_url} alt={item.title} loading="lazy" className="h-52 w-full object-cover" />
+            )}
 
-            <div className="card-content">
-              <div className="chips">
-                <span className="chip">{item.collection}</span>
-                {item.is_relevant && <span className="chip chip-good">Relevant</span>}
-                {item.is_new && <span className="chip chip-new">New</span>}
+            <div className="p-3">
+              <div className="flex flex-wrap gap-1.5">
+                <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
+                  {item.collection}
+                </span>
+                {item.is_relevant && (
+                  <span className="rounded-full bg-emerald-600/15 px-2 py-1 font-mono text-[11px] text-emerald-700">
+                    Relevant
+                  </span>
+                )}
+                {item.is_new && (
+                  <span className="rounded-full bg-sky-500/15 px-2 py-1 font-mono text-[11px] text-sky-700">
+                    New
+                  </span>
+                )}
               </div>
 
-              <h3>{item.title}</h3>
-              {item.variant_title && <p className="variant">{item.variant_title}</p>}
+              <h3 className="mt-2 text-lg leading-snug font-semibold">{item.title}</h3>
+              {item.variant_title && (
+                <p className="mt-1 text-sm text-zinc-700">{item.variant_title}</p>
+              )}
 
-              <div className="price-row">
+              <div className="mt-2 flex items-baseline gap-2">
                 <strong>{eur(item.price_eur)}</strong>
                 {item.compare_at_price_eur && (
-                  <span className="old-price">{eur(item.compare_at_price_eur)}</span>
+                  <span className="text-sm text-zinc-500 line-through">{eur(item.compare_at_price_eur)}</span>
                 )}
-                {item.discount_percent && <span className="discount">-{item.discount_percent}%</span>}
+                {item.discount_percent && (
+                  <span className="font-mono text-sm text-orange-600">-{item.discount_percent}%</span>
+                )}
               </div>
 
               {item.matched_interests.length > 0 && (
-                <p className="matches">Matches: {item.matched_interests.join(", ")}</p>
+                <p className="mt-1 text-sm text-zinc-700">
+                  Matches: {item.matched_interests.join(", ")}
+                </p>
               )}
 
-              <a href={item.url} target="_blank" rel="noreferrer">
+              <a
+                href={item.url}
+                target="_blank"
+                rel="noreferrer"
+                className="mt-3 inline-block font-semibold text-blue-700 hover:text-blue-900"
+              >
                 Open product page
               </a>
             </div>
@@ -216,7 +274,7 @@ export default function App() {
         ))}
       </section>
 
-      <footer>
+      <footer className="mt-4 font-mono text-xs text-zinc-700">
         Last update: {payload ? new Date(payload.generated_at).toLocaleString("de-DE") : "-"}
       </footer>
     </div>

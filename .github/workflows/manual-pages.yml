@@ -18,12 +18,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     env:
-      SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
-      SMTP_PORT: ${{ secrets.SMTP_PORT }}
-      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_SERVER: ${{ vars.SMTP_SERVER }}
+      SMTP_PORT: ${{ vars.SMTP_PORT }}
+      SMTP_USERNAME: ${{ vars.SMTP_USERNAME }}
       SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      EMAIL_FROM: ${{ vars.EMAIL_FROM }}
+      EMAIL_TO: ${{ vars.EMAIL_TO }}
 
     steps:
       - name: Checkout
@@ -70,10 +70,10 @@ jobs:
 
             Diese Nachricht wurde automatisch durch den GitHub Actions Workflow versendet.
 
-      - name: Warn when email secrets are missing
+      - name: Warn when email configuration is missing
         if: steps.new_items.outputs.has_new == 'true' && (env.SMTP_SERVER == '' || env.SMTP_PORT == '' || env.SMTP_USERNAME == '' || env.SMTP_PASSWORD == '' || env.EMAIL_FROM == '' || env.EMAIL_TO == '')
         run: |
-          echo "New items found (${{ steps.new_items.outputs.new_items }}), but email SMTP secrets are not fully configured."
+          echo "New items found (${{ steps.new_items.outputs.new_items }}), but email SMTP configuration is incomplete (vars + secret)."
 
       - name: Commit refreshed data
         run: |

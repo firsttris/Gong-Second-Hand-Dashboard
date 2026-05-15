@@ -55,12 +55,14 @@ The workflow can send an email notification via SMTP when new items are found (`
 
 In GitHub repository settings, add these Actions secrets:
 
-- `SMTP_SERVER`
-- `SMTP_PORT`
-- `SMTP_USERNAME`
-- `SMTP_PASSWORD`
-- `EMAIL_FROM`
-- `EMAIL_TO` (one or multiple recipients, separated by commas)
+- Repository variables:
+  - `SMTP_SERVER`
+  - `SMTP_PORT`
+  - `SMTP_USERNAME`
+  - `EMAIL_FROM`
+  - `EMAIL_TO` (one or multiple recipients, separated by commas)
+- Repository secret:
+  - `SMTP_PASSWORD`
 
 Common setup example (Gmail):
 

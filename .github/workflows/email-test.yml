@@ -10,12 +10,12 @@ jobs:
   email-test:
     runs-on: ubuntu-latest
     env:
-      SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
-      SMTP_PORT: ${{ secrets.SMTP_PORT }}
-      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_SERVER: ${{ vars.SMTP_SERVER }}
+      SMTP_PORT: ${{ vars.SMTP_PORT }}
+      SMTP_USERNAME: ${{ vars.SMTP_USERNAME }}
       SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      EMAIL_FROM: ${{ vars.EMAIL_FROM }}
+      EMAIL_TO: ${{ vars.EMAIL_TO }}
 
     steps:
       - name: Send SMTP test email
@@ -44,5 +44,5 @@ jobs:
       - name: Fail when SMTP secrets are missing
         if: env.SMTP_SERVER == '' || env.SMTP_PORT == '' || env.SMTP_USERNAME == '' || env.SMTP_PASSWORD == '' || env.EMAIL_FROM == '' || env.EMAIL_TO == ''
         run: |
-          echo "SMTP secrets are missing. Configure SMTP_SERVER, SMTP_PORT, SMTP_USERNAME, SMTP_PASSWORD, EMAIL_FROM and EMAIL_TO."
+          echo "SMTP configuration is missing. Configure repository variables SMTP_SERVER, SMTP_PORT, SMTP_USERNAME, EMAIL_FROM, EMAIL_TO and repository secret SMTP_PASSWORD."
           exit 1

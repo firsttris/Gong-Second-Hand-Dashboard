@@ -21,6 +21,7 @@ export default function App() {
   const [isUnlocked, setIsUnlocked] = useState(() => window.sessionStorage.getItem(AUTH_SESSION_KEY) === "1");
   const [passwordInput, setPasswordInput] = useState("");
   const [authError, setAuthError] = useState("");
+  const [sharedItemId, setSharedItemId] = useState<string | null>(null);
 
   const configuredPassword = useMemo(() => {
     const value = import.meta.env.VITE_DASHBOARD_PASSWORD;
@@ -54,6 +55,34 @@ export default function App() {
   function lockDashboard() {
     window.sessionStorage.removeItem(AUTH_SESSION_KEY);
     setIsUnlocked(false);
+  }
+
+  async function shareItem(item: DashboardItem) {
+    const shareData = {
+      title: item.title,
+      text: `${item.title} (${item.collection})`,
+      url: item.url,
+    };
+
+    try {
+      if (navigator.share) {
+        await navigator.share(shareData);
+      } else if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(item.url);
+      } else {
+        throw new Error("Share not supported");
+      }
+
+      setSharedItemId(item.id);
+      window.setTimeout(() => {
+        setSharedItemId((current) => (current === item.id ? null : current));
+      }, 1600);
+    } catch (err) {
+      // Ignore canceled native share dialogs, only surface real failures.
+      if (!(err instanceof Error && err.name === "AbortError")) {
+        window.alert("Sharing failed on this device.");
+      }
+    }
   }
 
   function typeLabel(value: DashboardItem["item_type"]): string {
@@ -219,7 +248,7 @@ export default function App() {
         {filtered.map((item) => (
           <article
             key={item.id}
-            className={`${panelClass} overflow-hidden transition duration-200 hover:-translate-y-1 hover:shadow-[0_16px_35px_rgba(20,20,20,0.12)] ${
+            className={`${panelClass} flex flex-col overflow-hidden transition duration-200 hover:-translate-y-1 hover:shadow-[0_16px_35px_rgba(20,20,20,0.12)] ${
               item.is_new ? "border-sky-500/50" : ""
             }`}
           >
@@ -227,7 +256,7 @@ export default function App() {
               <img src={item.image_url} alt={item.title} loading="lazy" className="h-52 w-full object-cover" />
             )}
 
-            <div className="p-3">
+            <div className="flex flex-1 flex-col p-3">
               <div className="flex flex-wrap gap-1.5">
                 <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
                   {item.collection}
@@ -254,14 +283,29 @@ export default function App() {
                 )}
               </div>
 
-              <a
-                href={item.url}
-                target="_blank"
-                rel="noreferrer"
-                className="mt-3 inline-block font-semibold text-blue-700 hover:text-blue-900"
-              >
-                Open product page
-              </a>
+              <div className="mt-auto pt-3">
+                <div>
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="inline-block font-semibold text-blue-700 hover:text-blue-900"
+                  >
+                    Open product page
+                  </a>
+                </div>
+
+                <div className="mt-2 flex items-center gap-3">
+                  <button
+                    type="button"
+                    onClick={() => shareItem(item)}
+                    className="rounded-md border border-zinc-300 px-2.5 py-1 text-xs font-semibold text-zinc-700 transition hover:bg-zinc-100"
+                  >
+                    Share
+                  </button>
+                  {sharedItemId === item.id && <span className="text-xs text-emerald-700">Shared</span>}
+                </div>
+              </div>
             </div>
           </article>
         ))}

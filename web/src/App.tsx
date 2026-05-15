@@ -1,3 +1,4 @@
+import { type FormEvent, useMemo, useState } from "react";
 import { DashboardItem } from "./types";
 import { useDashboardData } from "./hooks/useDashboardData";
 import { useDashboardFilters } from "./hooks/useDashboardFilters";
@@ -14,7 +15,21 @@ function eur(value: number | null): string {
   }).format(value);
 }
 
+const AUTH_SESSION_KEY = "gong_dashboard_auth";
+
 export default function App() {
+  const [isUnlocked, setIsUnlocked] = useState(() => window.sessionStorage.getItem(AUTH_SESSION_KEY) === "1");
+  const [passwordInput, setPasswordInput] = useState("");
+  const [authError, setAuthError] = useState("");
+
+  const configuredPassword = useMemo(() => {
+    const value = import.meta.env.VITE_DASHBOARD_PASSWORD;
+    if (typeof value === "string" && value.trim().length > 0) {
+      return value.trim();
+    }
+    return "gong123";
+  }, []);
+
   const { payload, error } = useDashboardData();
   const { query, setQuery, selectedType, setSelectedType, onlyNew, setOnlyNew } = useDashboardFilters();
   const { typeOptions, filtered, stats } = useDashboardItems(payload, query, selectedType, onlyNew);
@@ -23,6 +38,23 @@ export default function App() {
     "rounded-2xl border border-slate-300 bg-white shadow-[0_1px_2px_rgba(15,23,42,0.04)]";
   const controlClass =
     "w-full rounded-xl border border-zinc-900/15 bg-white/85 px-3 py-2 text-sm text-zinc-900 outline-none transition focus:border-zinc-900/30 focus:ring-2 focus:ring-orange-500/30";
+
+  function onUnlockSubmit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    if (passwordInput === configuredPassword) {
+      window.sessionStorage.setItem(AUTH_SESSION_KEY, "1");
+      setIsUnlocked(true);
+      setPasswordInput("");
+      setAuthError("");
+      return;
+    }
+    setAuthError("Wrong password.");
+  }
+
+  function lockDashboard() {
+    window.sessionStorage.removeItem(AUTH_SESSION_KEY);
+    setIsUnlocked(false);
+  }
 
   function typeLabel(value: DashboardItem["item_type"]): string {
     if (value === "wing") {
@@ -49,10 +81,59 @@ export default function App() {
     return "Other";
   }
 
+  if (!isUnlocked) {
+    return (
+      <div className="mx-auto grid min-h-screen w-[min(520px,92vw)] place-items-center py-10">
+        <section className={`${panelClass} w-full p-6 sm:p-8`}>
+          <p className="font-mono text-xs tracking-[0.12em]">GONG TRACKER</p>
+          <h1 className="mt-2 text-3xl leading-none font-bold sm:text-4xl">Protected Dashboard</h1>
+          <p className="mt-2 text-sm text-zinc-700">
+            Enter the password to access the second-hand dashboard.
+          </p>
+
+          <form className="mt-5 space-y-3" onSubmit={onUnlockSubmit}>
+            <label htmlFor="dashboard-password" className="block font-mono text-xs">
+              Password
+            </label>
+            <input
+              id="dashboard-password"
+              type="password"
+              value={passwordInput}
+              onChange={(e) => setPasswordInput(e.target.value)}
+              className={controlClass}
+              autoComplete="current-password"
+              placeholder="Enter password"
+            />
+            {authError && <p className="text-sm text-red-700">{authError}</p>}
+            <button
+              type="submit"
+              className="inline-flex items-center rounded-xl bg-zinc-900 px-4 py-2 text-sm font-semibold text-white transition hover:bg-zinc-700"
+            >
+              Unlock
+            </button>
+          </form>
+
+          <p className="mt-4 text-xs text-zinc-500">
+            This is a simple frontend gate. Set `VITE_DASHBOARD_PASSWORD` to change the password.
+          </p>
+        </section>
+      </div>
+    );
+  }
+
   return (
     <div className="mx-auto w-[min(1200px,94vw)] px-0 py-8 md:py-10">
       <header className="mb-4">
-        <p className="font-mono text-xs tracking-[0.12em]">GONG TRACKER</p>
+        <div className="flex items-start justify-between gap-3">
+          <p className="font-mono text-xs tracking-[0.12em]">GONG TRACKER</p>
+          <button
+            type="button"
+            onClick={lockDashboard}
+            className="rounded-lg border border-zinc-300 px-3 py-1.5 text-xs font-semibold text-zinc-700 transition hover:bg-zinc-100"
+          >
+            Lock
+          </button>
+        </div>
         <h1 className="mt-1 text-4xl leading-none font-bold sm:text-5xl md:text-6xl">
           Second Hand Dashboard
         </h1>

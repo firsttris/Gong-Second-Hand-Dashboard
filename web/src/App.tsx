@@ -1,5 +1,7 @@
-import { useEffect, useMemo, useState } from "react";
-import { DashboardItem, DashboardPayload } from "./types";
+import { DashboardItem } from "./types";
+import { useDashboardData } from "./hooks/useDashboardData";
+import { useDashboardFilters } from "./hooks/useDashboardFilters";
+import { useDashboardItems } from "./hooks/useDashboardItems";
 
 function eur(value: number | null): string {
   if (value === null || Number.isNaN(value)) {
@@ -12,77 +14,10 @@ function eur(value: number | null): string {
   }).format(value);
 }
 
-function itemSort(a: DashboardItem, b: DashboardItem): number {
-  if (a.is_new !== b.is_new) {
-    return a.is_new ? -1 : 1;
-  }
-  return (a.price_eur ?? Number.MAX_SAFE_INTEGER) - (b.price_eur ?? Number.MAX_SAFE_INTEGER);
-}
-
 export default function App() {
-  const [payload, setPayload] = useState<DashboardPayload | null>(null);
-  const [query, setQuery] = useState("");
-  const [selectedType, setSelectedType] = useState<"all" | DashboardItem["item_type"]>("all");
-  const [onlyNew, setOnlyNew] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    const dataUrl = `${import.meta.env.BASE_URL}data/items.json`;
-    fetch(dataUrl)
-      .then((res) => {
-        if (!res.ok) {
-          throw new Error(`HTTP ${res.status}`);
-        }
-        return res.json();
-      })
-      .then((data: DashboardPayload) => setPayload(data))
-      .catch((err: unknown) => {
-        setError(err instanceof Error ? err.message : "Unknown error");
-      });
-  }, []);
-
-  const typeOptions = useMemo(() => {
-    if (!payload) {
-      return [] as DashboardItem["item_type"][];
-    }
-    return Array.from(new Set(payload.items.map((item) => item.item_type))).sort();
-  }, [payload]);
-
-  const filtered = useMemo(() => {
-    if (!payload) {
-      return [] as DashboardItem[];
-    }
-
-    const normalizedQuery = query.trim().toLowerCase();
-
-    return payload.items
-      .filter((item) => {
-        if (selectedType !== "all" && item.item_type !== selectedType) {
-          return false;
-        }
-        if (onlyNew && !item.is_new) {
-          return false;
-        }
-        if (!normalizedQuery) {
-          return true;
-        }
-        const text = `${item.title} ${item.variant_title} ${item.tags.join(" ")}`.toLowerCase();
-        return text.includes(normalizedQuery);
-      })
-      .sort(itemSort);
-  }, [payload, query, selectedType, onlyNew]);
-
-  const stats = useMemo(() => {
-    const total = filtered.length;
-    const discounted = filtered.filter(
-      (item) =>
-        item.compare_at_price_eur !== null &&
-        item.price_eur !== null &&
-        item.compare_at_price_eur > item.price_eur
-    ).length;
-    const fresh = filtered.filter((item) => item.is_new).length;
-    return { total, discounted, fresh };
-  }, [filtered]);
+  const { payload, error } = useDashboardData();
+  const { query, setQuery, selectedType, setSelectedType, onlyNew, setOnlyNew } = useDashboardFilters();
+  const { typeOptions, filtered, stats } = useDashboardItems(payload, query, selectedType, onlyNew);
 
   const panelClass =
     "rounded-2xl border border-slate-300 bg-white shadow-[0_1px_2px_rgba(15,23,42,0.04)]";

@@ -15,6 +15,13 @@ function eur(value: number | null): string {
   }).format(value);
 }
 
+function withoutFrenchVat(value: number | null): number | null {
+  if (value === null || Number.isNaN(value)) {
+    return null;
+  }
+  return Number((value / 1.2).toFixed(2));
+}
+
 const AUTH_SESSION_KEY = "gong_dashboard_auth";
 
 export default function App() {
@@ -245,70 +252,78 @@ export default function App() {
           <p className={`${panelClass} px-4 py-3`}>No items match current filters.</p>
         )}
 
-        {filtered.map((item) => (
-          <article
-            key={item.id}
-            className={`${panelClass} flex flex-col overflow-hidden transition duration-200 hover:-translate-y-1 hover:shadow-[0_16px_35px_rgba(20,20,20,0.12)] ${
-              item.is_new ? "border-sky-500/50" : ""
-            }`}
-          >
-            {item.image_url && (
-              <img src={item.image_url} alt={item.title} loading="lazy" className="h-52 w-full object-cover" />
-            )}
+        {filtered.map((item) => {
+          const netPrice = withoutFrenchVat(item.price_eur);
 
-            <div className="flex flex-1 flex-col p-3">
-              <div className="flex flex-wrap gap-1.5">
-                <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
-                  {item.collection}
-                </span>
-                {item.is_new && (
-                  <span className="rounded-full bg-sky-500/15 px-2 py-1 font-mono text-[11px] text-sky-700">
-                    New
-                  </span>
-                )}
-              </div>
-
-              <h3 className="mt-2 text-lg leading-snug font-semibold">{item.title}</h3>
-              {item.variant_title && (
-                <p className="mt-1 text-sm text-zinc-700">{item.variant_title}</p>
+          return (
+            <article
+              key={item.id}
+              className={`${panelClass} flex flex-col overflow-hidden transition duration-200 hover:-translate-y-1 hover:shadow-[0_16px_35px_rgba(20,20,20,0.12)] ${
+                item.is_new ? "border-sky-500/50" : ""
+              }`}
+            >
+              {item.image_url && (
+                <img src={item.image_url} alt={item.title} loading="lazy" className="h-52 w-full object-cover" />
               )}
 
-              <div className="mt-2 flex items-baseline gap-2">
-                <strong>{eur(item.price_eur)}</strong>
-                {item.compare_at_price_eur && (
-                  <span className="text-sm text-zinc-500 line-through">{eur(item.compare_at_price_eur)}</span>
-                )}
-                {item.discount_percent && (
-                  <span className="font-mono text-sm text-orange-600">-{item.discount_percent}%</span>
-                )}
-              </div>
-
-              <div className="mt-auto pt-3">
-                <div>
-                  <a
-                    href={item.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="inline-block font-semibold text-blue-700 hover:text-blue-900"
-                  >
-                    Open product page
-                  </a>
+              <div className="flex flex-1 flex-col p-3">
+                <div className="flex flex-wrap gap-1.5">
+                  <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
+                    {item.collection}
+                  </span>
+                  {item.is_new && (
+                    <span className="rounded-full bg-sky-500/15 px-2 py-1 font-mono text-[11px] text-sky-700">
+                      New
+                    </span>
+                  )}
                 </div>
 
-                <div className="mt-2 flex items-center gap-3">
-                  <button
-                    type="button"
-                    onClick={() => shareItem(item)}
-                    className="rounded-md border border-zinc-300 px-2.5 py-1 text-xs font-semibold text-zinc-700 transition hover:bg-zinc-100"
-                  >
-                    Share
-                  </button>
-                  {sharedItemId === item.id && <span className="text-xs text-emerald-700">Shared</span>}
+                <h3 className="mt-2 text-lg leading-snug font-semibold">{item.title}</h3>
+                {item.variant_title && <p className="mt-1 text-sm text-zinc-700">{item.variant_title}</p>}
+
+                <div className="mt-3">
+                  <p className="text-2xl leading-none font-bold text-zinc-900">{eur(netPrice)} ex MwSt</p>
+
+                  <div className="mt-2 space-y-1 text-xs text-zinc-600">
+                    <p>
+                      Rabattpreis: <span className="font-semibold text-zinc-800">{eur(item.price_eur)}</span>
+                    </p>
+                    {item.compare_at_price_eur && (
+                      <p>
+                        Listenpreis: <span className="text-zinc-500 line-through">{eur(item.compare_at_price_eur)}</span>
+                      </p>
+                    )}
+                    {item.discount_percent && <p className="font-mono text-orange-600">Rabatt: -{item.discount_percent}%</p>}
+                  </div>
+                </div>
+
+                <div className="mt-auto pt-3">
+                  <div>
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="inline-block font-semibold text-blue-700 hover:text-blue-900"
+                    >
+                      Open product page
+                    </a>
+                  </div>
+
+                  <div className="mt-2 flex items-center gap-3">
+                    <button
+                      type="button"
+                      onClick={() => shareItem(item)}
+                      className="rounded-md border border-zinc-300 px-2.5 py-1 text-xs font-semibold text-zinc-700 transition hover:bg-zinc-100"
+                    >
+                      Share
+                    </button>
+                    {sharedItemId === item.id && <span className="text-xs text-emerald-700">Shared</span>}
+                  </div>
                 </div>
               </div>
-            </div>
-          </article>
-        ))}
+            </article>
+          );
+        })}
       </section>
 
       <footer className="mt-4 font-mono text-xs text-zinc-700">

@@ -1,52 +1,10 @@
 {
-  "generated_at": "2026-05-15T19:25:01.556781+00:00",
+  "generated_at": "2026-05-15T19:37:46.428356+00:00",
   "source": "gong-galaxy",
   "total_items": 46,
   "interests": [],
-  "new_items": 2,
+  "new_items": 0,
   "items": [
-    {
-      "id": "15455266013559-57008221684087",
-      "title": "Lowkite Pulse - 4 m\u00b2 White Second Hand 13553",
-      "variant_title": "4 m\u00b2 / White",
-      "price_eur": 395.0,
-      "compare_at_price_eur": 569.0,
-      "discount_percent": 30.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-pulse-oc13553",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-PULSE-5-WHITE-GONGLOWKITE-01_c5e56cca-fa91-481b-84a6-784d378606ef.jpg?v=1776176926",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "crm_lowkite",
-        "main_ collection:lowkite-lowkite",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
-      "is_new": true
-    },
-    {
-      "id": "15455265456503-57008220995959",
-      "title": "Lowkite Pulse - 8 m\u00b2 White Second Hand 13552",
-      "variant_title": "8 m\u00b2 / White",
-      "price_eur": 499.0,
-      "compare_at_price_eur": 809.0,
-      "discount_percent": 38.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-pulse-oc13552",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-PULSE-5-WHITE-GONGLOWKITE-01_f6adcf72-fcab-4d8e-b69c-833c0a9d99fa.jpg?v=1776176895",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "crm_lowkite",
-        "main_ collection:lowkite-lowkite",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
-      "is_new": true
-    },
     {
       "id": "15468867682679-57054529519991",
       "title": "Foil Alu Mast 77 cm V3 - 17 mm Second Rate 13687",
@@ -64,7 +22,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -87,7 +45,7 @@
         "great-deals-50",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -107,7 +65,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -127,7 +85,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -148,7 +106,7 @@
         "great-deals-30",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -168,7 +126,7 @@
         "great-deals-over-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -187,7 +145,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -207,7 +165,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -226,7 +184,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -245,7 +203,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -265,7 +223,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -284,7 +242,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -304,7 +262,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -323,7 +281,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -343,7 +301,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -363,7 +321,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -383,7 +341,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -403,7 +361,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -423,7 +381,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -443,7 +401,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
+      "updated_at": "2026-05-15T21:37:46+02:00",
       "is_new": false
     },
     {
@@ -462,7 +420,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -482,7 +440,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -501,7 +459,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -521,7 +479,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -540,7 +498,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -559,7 +517,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -578,7 +536,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -601,7 +559,28 @@
         "great-deals-40",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-15T21:24:59+02:00",
+      "updated_at": "2026-05-15T21:37:44+02:00",
+      "is_new": false
+    },
+    {
+      "id": "15455266013559-57008221684087",
+      "title": "Lowkite Pulse - 4 m\u00b2 White Second Hand 13553",
+      "variant_title": "4 m\u00b2 / White",
+      "price_eur": 395.0,
+      "compare_at_price_eur": 569.0,
+      "discount_percent": 30.6,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-pulse-oc13553",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-PULSE-5-WHITE-GONGLOWKITE-01_c5e56cca-fa91-481b-84a6-784d378606ef.jpg?v=1776176926",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "crm_lowkite",
+        "main_ collection:lowkite-lowkite",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-05-15T21:37:46+02:00",
       "is_new": false
     },
     {
@@ -620,7 +599,28 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-15T21:24:59+02:00",
+      "updated_at": "2026-05-15T21:37:44+02:00",
+      "is_new": false
+    },
+    {
+      "id": "15455265456503-57008220995959",
+      "title": "Lowkite Pulse - 8 m\u00b2 White Second Hand 13552",
+      "variant_title": "8 m\u00b2 / White",
+      "price_eur": 499.0,
+      "compare_at_price_eur": 809.0,
+      "discount_percent": 38.3,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-pulse-oc13552",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-PULSE-5-WHITE-GONGLOWKITE-01_f6adcf72-fcab-4d8e-b69c-833c0a9d99fa.jpg?v=1776176895",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "crm_lowkite",
+        "main_ collection:lowkite-lowkite",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-05-15T21:37:46+02:00",
       "is_new": false
     },
     {
@@ -639,7 +639,7 @@
       "tags": [
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -662,7 +662,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-15T21:24:59+02:00",
+      "updated_at": "2026-05-15T21:37:44+02:00",
       "is_new": false
     },
     {
@@ -685,7 +685,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-15T21:24:59+02:00",
+      "updated_at": "2026-05-15T21:37:44+02:00",
       "is_new": false
     },
     {
@@ -708,7 +708,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-15T21:24:59+02:00",
+      "updated_at": "2026-05-15T21:37:44+02:00",
       "is_new": false
     },
     {
@@ -731,7 +731,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-15T21:24:59+02:00",
+      "updated_at": "2026-05-15T21:37:44+02:00",
       "is_new": false
     },
     {
@@ -752,7 +752,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -773,7 +773,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -796,7 +796,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-15T21:24:59+02:00",
+      "updated_at": "2026-05-15T21:37:44+02:00",
       "is_new": false
     },
     {
@@ -817,7 +817,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -838,7 +838,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-15T21:25:00+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -858,7 +858,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -879,7 +879,7 @@
         "dropzone2026",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -899,7 +899,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     },
     {
@@ -918,7 +918,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-15T21:24:59+02:00",
+      "updated_at": "2026-05-15T21:37:44+02:00",
       "is_new": false
     },
     {
@@ -938,7 +938,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-15T21:25:01+02:00",
+      "updated_at": "2026-05-15T21:37:45+02:00",
       "is_new": false
     }
   ]

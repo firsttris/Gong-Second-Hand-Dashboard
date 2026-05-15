@@ -151,9 +151,6 @@ export default function App() {
                 <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
                   {item.collection}
                 </span>
-                <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
-                  {typeLabel(item.item_type)}
-                </span>
                 {item.is_new && (
                   <span className="rounded-full bg-sky-500/15 px-2 py-1 font-mono text-[11px] text-sky-700">
                     New

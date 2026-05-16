@@ -17,7 +17,18 @@ export type DashboardItem = {
   url: string;
   image_url: string | null;
   collection: string;
-  item_type: "wing" | "rigid_board" | "front_wing" | "stab" | "mast" | "fuselage" | "lowkite" | "other";
+  item_type:
+    | "wing"
+    | "rigid_board"
+    | "front_wing"
+    | "stab"
+    | "mast"
+    | "fuselage"
+    | "lowkite"
+    | "surf_foil_board"
+    | "inflatable_wing_board"
+    | "wing_accessory"
+    | "other";
   product_type: string;
   tags: string[];
   updated_at: string;

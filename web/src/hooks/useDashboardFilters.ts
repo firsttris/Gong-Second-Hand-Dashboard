@@ -5,9 +5,19 @@ const SEARCH_PARAM = "q";
 const TYPE_PARAM = "type";
 
 function isDashboardItemType(value: string): value is DashboardItem["item_type"] {
-  return ["wing", "rigid_board", "front_wing", "stab", "mast", "fuselage", "lowkite", "other"].includes(
-    value
-  );
+  return [
+    "wing",
+    "rigid_board",
+    "front_wing",
+    "stab",
+    "mast",
+    "fuselage",
+    "lowkite",
+    "surf_foil_board",
+    "inflatable_wing_board",
+    "wing_accessory",
+    "other",
+  ].includes(value);
 }
 
 function readFiltersFromUrl(): { query: string; selectedType: "all" | DashboardItem["item_type"] } {

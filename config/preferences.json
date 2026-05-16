@@ -35,6 +35,21 @@
       "name": "Lowkites",
       "type": "lowkite",
       "json_url": "https://www.gong-galaxy.com/en/collections/occasions-lowkite/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Surf Foil Boards",
+      "type": "surf_foil_board",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-planche-surffoil/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Inflatable Wing Boards",
+      "type": "inflatable_wing_board",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-planches-gonflables-wingboard/products.json?limit=250&filter.v.availability=1"
+    },
+    {
+      "name": "Wing Accessories",
+      "type": "wing_accessory",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-accessoires-wing/products.json?limit=250&filter.v.availability=1"
     }
   ]
 }

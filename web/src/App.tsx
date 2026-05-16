@@ -114,6 +114,15 @@ export default function App() {
     if (value === "lowkite") {
       return "Lowkites";
     }
+    if (value === "surf_foil_board") {
+      return "Surf Foil Boards";
+    }
+    if (value === "inflatable_wing_board") {
+      return "Inflatable Wing Boards";
+    }
+    if (value === "wing_accessory") {
+      return "Wing Accessories";
+    }
     return "Other";
   }
 

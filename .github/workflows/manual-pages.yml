@@ -24,6 +24,8 @@ jobs:
       SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
       EMAIL_FROM: ${{ vars.EMAIL_FROM }}
       EMAIL_TO: ${{ vars.EMAIL_TO }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
 
     steps:
       - name: Checkout
@@ -74,6 +76,21 @@ jobs:
         if: steps.new_items.outputs.has_new == 'true' && (env.SMTP_SERVER == '' || env.SMTP_PORT == '' || env.SMTP_USERNAME == '' || env.SMTP_PASSWORD == '' || env.EMAIL_FROM == '' || env.EMAIL_TO == '')
         run: |
           echo "New items found (${{ steps.new_items.outputs.new_items }}), but email SMTP configuration is incomplete (vars + secret)."
+
+      - name: Send Telegram notification
+        if: steps.new_items.outputs.has_new == 'true' && env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
+        run: |
+          DASHBOARD_URL="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+          MESSAGE="${{ steps.new_items.outputs.new_items }} neue Gong Second-Hand Items gefunden.%0A${DASHBOARD_URL}"
+          curl -sS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d text="${MESSAGE}" \
+            -d disable_web_page_preview=true
+
+      - name: Warn when Telegram configuration is missing
+        if: steps.new_items.outputs.has_new == 'true' && (env.TELEGRAM_BOT_TOKEN == '' || env.TELEGRAM_CHAT_ID == '')
+        run: |
+          echo "New items found (${{ steps.new_items.outputs.new_items }}), but Telegram configuration is incomplete (vars + secret)."
 
       - name: Commit refreshed data
         run: |

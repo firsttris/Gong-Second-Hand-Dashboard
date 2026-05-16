@@ -53,6 +53,8 @@ npm run dev
 
 The workflow can send an email notification via SMTP when new items are found (`new_items > 0`).
 
+It can also send an optional Telegram notification when new items are found.
+
 In GitHub repository settings, add these Actions secrets:
 
 - Repository variables:
@@ -74,11 +76,41 @@ Common setup example (Gmail):
 
 If no new items are found, no notification is sent.
 
+### Optional Telegram setup
+
+In GitHub repository settings, add these Actions variables/secrets for Telegram:
+
+- Repository variable:
+  - `TELEGRAM_CHAT_ID`
+- Repository secret:
+  - `TELEGRAM_BOT_TOKEN`
+
+How to get values:
+
+- Create a bot with BotFather and copy the bot token.
+- Start a chat with your bot and send one message.
+- Get your `chat_id` via API:
+
+```bash
+curl -s "https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/getUpdates"
+```
+
+Then use the number in `message.chat.id` as `TELEGRAM_CHAT_ID`.
+
+If the Telegram config is incomplete, the workflow logs a warning and continues.
+
 ## Test email job
 
 You can manually trigger an SMTP test without waiting for new items:
 
 1. Open the workflow `SMTP Email Test`.
+2. Click `Run workflow`.
+
+## Test Telegram job
+
+You can manually trigger a Telegram test message:
+
+1. Open the workflow `Telegram Test`.
 2. Click `Run workflow`.
 
 ## Customize your interests

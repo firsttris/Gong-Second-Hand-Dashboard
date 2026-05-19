@@ -1,29 +1,10 @@
 {
-  "generated_at": "2026-05-18T07:41:36.628853+00:00",
+  "generated_at": "2026-05-19T07:28:47.028621+00:00",
   "source": "gong-galaxy",
-  "total_items": 62,
+  "total_items": 56,
   "interests": [],
-  "new_items": 1,
+  "new_items": 0,
   "items": [
-    {
-      "id": "15456404832631-57011845890423",
-      "title": "Wing Neutra Boom - Dacron 3 m\u00b2 / Black Occasion 13567",
-      "variant_title": "Dacron / 3 m\u00b2 / Black",
-      "price_eur": 539.0,
-      "compare_at_price_eur": 599.0,
-      "discount_percent": 10.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-boom-26nhnb-oc13567",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_BOOM-4_5-BLACK-GONGWING-NHNB-01_675719ba-ae87-40ae-996d-0af5b43fd1b2.png?v=1776257993",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
-      "is_new": true
-    },
     {
       "id": "15454336254327-57004703285623",
       "title": "Casque De Protection - XS Blue profond Second Rate 13487",
@@ -43,7 +24,7 @@
         "promotions-accessoires-sup",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -65,7 +46,7 @@
         "promotions-accessoires-sup",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -87,7 +68,7 @@
         "promotions-accessoires-sup",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -109,7 +90,7 @@
         "promotions-accessoires-surf",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -131,27 +112,7 @@
         "promotions-accessoires-surf",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15468867682679-57054529519991",
-      "title": "Foil Alu Mast 77 cm V3 - 17 mm Second Rate 13687",
-      "variant_title": "17 mm",
-      "price_eur": 69.0,
-      "compare_at_price_eur": 75.0,
-      "discount_percent": 8.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-alu-mast-v3-77cm-sc13687",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-MAST_V3-ALU-PERF_SERIES-17-77-01_2596cf43-edce-432a-9346-c1779b1fb666.jpg?v=1777450583",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingintermediaire",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -171,7 +132,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
       "is_new": false
     },
     {
@@ -191,7 +152,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -212,7 +173,7 @@
         "great-deals-30",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -232,7 +193,7 @@
         "great-deals-over-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -251,7 +212,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -271,7 +232,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -290,7 +251,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -309,7 +270,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -329,7 +290,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -348,27 +309,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15477740208503-57087048810871",
-      "title": "Foil Stab Fluid H V3 - XL Second Hand 13820",
-      "variant_title": "XL",
-      "price_eur": 119.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 29.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-fluid-h-oc13820",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-STAB-FLUID-H-M35-04-2_fb609d48-520f-4b09-971c-cb8ca0050193.jpg?v=1778659601",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -387,7 +328,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -407,7 +348,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -427,7 +368,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -447,7 +388,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -467,7 +408,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -487,7 +428,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -507,7 +448,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
       "is_new": false
     },
     {
@@ -526,7 +467,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -546,7 +487,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -565,7 +506,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -585,7 +526,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -604,7 +545,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -623,7 +564,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -644,7 +585,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -667,7 +608,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -686,30 +627,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15476163936631-57081337938295",
-      "title": "Wing Neutra - 5 m\u00b2 Black / Blue Second Hand 13763",
-      "variant_title": "5 m\u00b2 / Black / Blue",
-      "price_eur": 335.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 51.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-oc13763",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-PERF_SERIES_V2-NEUTRA-BLACK-5M-GONGWING-01_239f9166-aaf9-463d-9f2f-a26615e4272a.png?v=1778487947",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingintermediaire",
-        "dropzone2026",
-        "great-deals-30",
-        "great-deals-40",
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:44+02:00",
       "is_new": false
     },
     {
@@ -733,31 +651,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15412342096247-56853056815479",
-      "title": "Surf Foil Board Lemon FSP Pro - 4'3 Second Hand 13140",
-      "variant_title": "4'3",
-      "price_eur": 349.0,
-      "compare_at_price_eur": 699.0,
-      "discount_percent": 50.1,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-surf-foil-board-lemon-fsp-pro-1-oc13140",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-SURF_FOIL-FSP_PRO-LEMON-4_5-02_69ab18c7-845e-44ae-92ff-52ffc81c85b2.jpg?v=1773150456",
-      "collection": "Surf Foil Boards",
-      "item_type": "surf_foil_board",
-      "product_type": "second_life",
-      "tags": [
-        "board_rigide",
-        "crm_surfoil",
-        "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-planche-surffoil",
-        "OVERSIZE"
-      ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -780,7 +674,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -804,7 +698,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -828,7 +722,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -849,28 +743,7 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15476227801463-57082320290167",
-      "title": "Wing Neutra Boom - 3,5 m\u00b2 White Second Hand 13804",
-      "variant_title": "3,5 m\u00b2 / White",
-      "price_eur": 399.0,
-      "compare_at_price_eur": 695.0,
-      "discount_percent": 42.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-boom-5-oc13804",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-WING-PERF_SERIES-NEUTRA_BOOM-5-WHITE-GONGWING-01_d72d59cd-7b90-44fc-819c-ec8ab13bf829.jpg?v=1778494646",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingintermediaire",
-        "dropzone2026",
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
       "is_new": false
     },
     {
@@ -894,7 +767,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -918,7 +791,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -942,26 +815,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:36+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15436931137911-56952078303607",
-      "title": "Wing Plus - Dacron 5 m\u00b2 / Navy Occasion 13418",
-      "variant_title": "Dacron / 5 m\u00b2 / Navy",
-      "price_eur": 499.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 27.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc13418",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-NAVY-GONGWING-01_8e7c0613-1506-4909-afc3-7407d67bfb16.png?v=1774878794",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:46+02:00",
       "is_new": false
     },
     {
@@ -982,7 +836,26 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
+      "is_new": false
+    },
+    {
+      "id": "15456404832631-57011845890423",
+      "title": "Wing Neutra Boom - Dacron 3 m\u00b2 / Black Occasion 13567",
+      "variant_title": "Dacron / 3 m\u00b2 / Black",
+      "price_eur": 539.0,
+      "compare_at_price_eur": 599.0,
+      "discount_percent": 10.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-boom-26nhnb-oc13567",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_BOOM-4_5-BLACK-GONGWING-NHNB-01_675719ba-ae87-40ae-996d-0af5b43fd1b2.png?v=1776257993",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1001,7 +874,7 @@
       "tags": [
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
       "is_new": false
     },
     {
@@ -1024,7 +897,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1047,7 +920,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1070,7 +943,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1093,7 +966,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1114,7 +987,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1135,7 +1008,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1158,7 +1031,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1179,7 +1052,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1200,7 +1073,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1220,7 +1093,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
       "is_new": false
     },
     {
@@ -1241,7 +1114,7 @@
         "dropzone2026",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
       "is_new": false
     },
     {
@@ -1261,7 +1134,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
       "is_new": false
     },
     {
@@ -1280,7 +1153,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-18T09:41:34+02:00",
+      "updated_at": "2026-05-19T09:28:43+02:00",
       "is_new": false
     },
     {
@@ -1300,7 +1173,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-18T09:41:35+02:00",
+      "updated_at": "2026-05-19T09:28:45+02:00",
       "is_new": false
     }
   ]

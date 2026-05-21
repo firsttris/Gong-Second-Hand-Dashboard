@@ -1,10 +1,141 @@
 {
-  "generated_at": "2026-05-20T07:28:59.918011+00:00",
+  "generated_at": "2026-05-21T07:32:49.037779+00:00",
   "source": "gong-galaxy",
-  "total_items": 53,
+  "total_items": 59,
   "interests": [],
-  "new_items": 0,
+  "new_items": 6,
   "items": [
+    {
+      "id": "15483146568055-57105993990519",
+      "title": "Foil Carbon Mast V2 - 85 cm Second Hand 13822",
+      "variant_title": "85 cm",
+      "price_eur": 275.0,
+      "compare_at_price_eur": 549.0,
+      "discount_percent": 49.9,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-allvator-carbon-mast-oc13822",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-21-CARBON_MAST_V2-85-GONGFOIL-01_e098e0c3-e90a-4dbe-958a-2fe4c00f63e6.png?v=1779264037",
+      "collection": "Masts",
+      "item_type": "mast",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "dropzone2026",
+        "great-deals-20",
+        "great-deals-40",
+        "main_collection:occasions-mats"
+      ],
+      "updated_at": "2026-05-21T09:32:48+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15483147616631-57105995989367",
+      "title": "Foil Carbon Mast HM 85 cm V2 - 85 cm Second Hand 13824",
+      "variant_title": "85 cm",
+      "price_eur": 359.0,
+      "compare_at_price_eur": 799.0,
+      "discount_percent": 55.1,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-allvator-carbon-mast-hm-85cm-oc13824",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/gong-foil-allvator-carbon-mast-hm-85cm_IMG_1_1f8bb8de-c969-4eb0-bec5-dc51f37a35f6.png?v=1779264186",
+      "collection": "Masts",
+      "item_type": "mast",
+      "product_type": "second_life",
+      "tags": [
+        "dropzone2026",
+        "great-deals-40",
+        "main_collection:occasions-mats"
+      ],
+      "updated_at": "2026-05-21T09:32:48+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15483177992567-57106103206263",
+      "title": "Wing foil Board Inflatable HIPE Stunt - 5'3 WHITE Second Rate 13829",
+      "variant_title": "5'3 / WHITE",
+      "price_eur": 369.0,
+      "compare_at_price_eur": 679.0,
+      "discount_percent": 45.7,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-stunt-5-sc13829",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-BOARD-INFLATABLE-HIPE_STUNT-GONGWING-01_acb29ded-5c6c-49ca-a4ef-ddedb63f74dd.jpg?v=1779268154",
+      "collection": "Inflatable Wing Boards",
+      "item_type": "inflatable_wing_board",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingdebutant",
+        "dropzone2026",
+        "great-deals-20",
+        "great-deals-40",
+        "main_collection:occasions-planches-gonflables-wingboard"
+      ],
+      "updated_at": "2026-05-21T09:32:48+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15483178189175-57106103533943",
+      "title": "Wing foil Board Inflatable HIPE Stunt - 5'6 WHITE Second Rate 13830",
+      "variant_title": "5'6 / WHITE",
+      "price_eur": 375.0,
+      "compare_at_price_eur": 699.0,
+      "discount_percent": 46.4,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-stunt-5-sc13830",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-BOARD-INFLATABLE-HIPE_STUNT-GONGWING-01_481c2e59-9f41-4624-85f8-d07b5d12dfa4.jpg?v=1779268181",
+      "collection": "Inflatable Wing Boards",
+      "item_type": "inflatable_wing_board",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingdebutant",
+        "dropzone2026",
+        "great-deals-20",
+        "great-deals-40",
+        "main_collection:occasions-planches-gonflables-wingboard"
+      ],
+      "updated_at": "2026-05-21T09:32:48+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15483151810935-57106011292023",
+      "title": "Foil Carbon Mast HM 86 cm V2 - 86 cm Second Hand 13825",
+      "variant_title": "86 cm",
+      "price_eur": 415.0,
+      "compare_at_price_eur": 829.0,
+      "discount_percent": 49.9,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-allvator-carbon-mast-hm-86cm-oc13825",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/gong-foil-allvator-carbon-mast-hm-86cm_IMG_1_ea99a709-367d-4e6c-9697-8b62e13a35b3.png?v=1779264821",
+      "collection": "Masts",
+      "item_type": "mast",
+      "product_type": "second_life",
+      "tags": [
+        "dropzone2026",
+        "great-deals-40",
+        "main_collection:occasions-mats"
+      ],
+      "updated_at": "2026-05-21T09:32:48+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15483152007543-57106012340599",
+      "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 13826",
+      "variant_title": "112 | 13 mm",
+      "price_eur": 949.0,
+      "compare_at_price_eur": 1499.0,
+      "discount_percent": 36.7,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-ypra-race-oc13826",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-MASTS-PRO_TEAM_SERIES-YPRA_RACE-GONFOIL-01_2c2b0a36-be4c-4353-9f7d-c5583d4402cf.jpg?v=1779264915",
+      "collection": "Masts",
+      "item_type": "mast",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "main_collection:occasions-mats"
+      ],
+      "updated_at": "2026-05-21T09:32:48+02:00",
+      "is_new": true
+    },
     {
       "id": "15454336254327-57004703285623",
       "title": "Casque De Protection - XS Blue profond Second Rate 13487",
@@ -24,7 +155,7 @@
         "promotions-accessoires-sup",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:49+02:00",
       "is_new": false
     },
     {
@@ -46,7 +177,7 @@
         "promotions-accessoires-sup",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:49+02:00",
       "is_new": false
     },
     {
@@ -68,7 +199,7 @@
         "promotions-accessoires-sup",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:49+02:00",
       "is_new": false
     },
     {
@@ -90,7 +221,7 @@
         "promotions-accessoires-surf",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:49+02:00",
       "is_new": false
     },
     {
@@ -112,7 +243,7 @@
         "promotions-accessoires-surf",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:49+02:00",
       "is_new": false
     },
     {
@@ -132,7 +263,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -153,7 +284,7 @@
         "great-deals-30",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -173,7 +304,7 @@
         "great-deals-over-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -192,7 +323,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -212,7 +343,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -231,7 +362,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -250,7 +381,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -270,7 +401,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -289,7 +420,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -308,7 +439,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -328,7 +459,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -348,7 +479,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -368,7 +499,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -388,7 +519,7 @@
         "crm_wingdebutant",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -408,7 +539,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -427,7 +558,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -447,7 +578,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -466,7 +597,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -486,7 +617,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -505,7 +636,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -524,7 +655,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -545,7 +676,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -568,7 +699,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -587,7 +718,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -611,7 +742,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -634,7 +765,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -658,7 +789,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -679,7 +810,7 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -703,7 +834,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -727,7 +858,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -751,7 +882,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -772,7 +903,7 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-05-20T09:28:59+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -791,7 +922,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -810,7 +941,7 @@
       "tags": [
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -833,7 +964,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -856,7 +987,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -879,7 +1010,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -902,7 +1033,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -923,7 +1054,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -944,7 +1075,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -967,7 +1098,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -988,7 +1119,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -1009,7 +1140,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -1029,7 +1160,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -1050,7 +1181,7 @@
         "dropzone2026",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -1070,7 +1201,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     },
     {
@@ -1089,7 +1220,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-05-20T09:28:57+02:00",
+      "updated_at": "2026-05-21T09:32:47+02:00",
       "is_new": false
     },
     {
@@ -1109,7 +1240,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-05-20T09:28:58+02:00",
+      "updated_at": "2026-05-21T09:32:48+02:00",
       "is_new": false
     }
   ]

@@ -2,11 +2,44 @@
 import argparse
 import json
 import re
+import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
 import requests
+
+
+def _default_headers() -> dict[str, str]:
+    return {
+        "User-Agent": (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": "application/json,text/plain,*/*",
+        "Accept-Language": "en-US,en;q=0.9,de;q=0.8",
+        "Referer": "https://www.gong-galaxy.com/en/",
+        "Connection": "keep-alive",
+    }
+
+
+def _fetch_via_curl(json_url: str, headers: dict[str, str], timeout_seconds: int = 20) -> dict[str, Any]:
+    cmd = [
+        "curl",
+        "--silent",
+        "--show-error",
+        "--fail",
+        "--location",
+        "--compressed",
+        "--max-time",
+        str(timeout_seconds),
+    ]
+    for key, value in headers.items():
+        cmd.extend(["-H", f"{key}: {value}"])
+    cmd.append(json_url)
+
+    result = subprocess.run(cmd, check=True, capture_output=True, text=True)
+    return json.loads(result.stdout)
 
 
 def money_to_eur(value: Any) -> float | None:
@@ -46,16 +79,16 @@ def save_json(path: Path, data: Any) -> None:
 
 
 def fetch_collection_products(json_url: str) -> list[dict[str, Any]]:
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-        ),
-        "Accept": "application/json,text/plain,*/*",
-    }
-    response = requests.get(json_url, headers=headers, timeout=20)
-    response.raise_for_status()
-    data = response.json()
+    headers = _default_headers()
+    try:
+        response = requests.get(json_url, headers=headers, timeout=20)
+        response.raise_for_status()
+        data = response.json()
+    except requests.exceptions.HTTPError as err:
+        if err.response is None or err.response.status_code != 403:
+            raise
+        print(f"HTTP 403 for {json_url}. Retrying via curl fallback...")
+        data = _fetch_via_curl(json_url, headers=headers, timeout_seconds=25)
     return data.get("products", [])
 
 
@@ -65,6 +98,7 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
 
     items: list[dict[str, Any]] = []
     dedupe: set[str] = set()
+    successful_collections = 0
 
     for collection in collections:
         collection_name = collection.get("name", "Unknown")
@@ -73,7 +107,13 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
         if not json_url:
             continue
 
-        products = fetch_collection_products(json_url)
+        try:
+            products = fetch_collection_products(json_url)
+            successful_collections += 1
+        except (requests.RequestException, subprocess.SubprocessError, json.JSONDecodeError) as err:
+            print(f"Warning: failed to fetch collection '{collection_name}' ({json_url}): {err}")
+            continue
+
         for product in products:
             handle = product.get("handle", "")
             if not handle:
@@ -119,6 +159,9 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
                     "is_new": item_id not in seen_ids,
                 }
                 items.append(item)
+
+    if successful_collections == 0:
+        raise RuntimeError("All collection requests failed. Source may be temporarily blocking CI traffic.")
 
     items.sort(key=lambda x: (not x["is_new"], x["price_eur"] is None, x["price_eur"] or 0))
     return items

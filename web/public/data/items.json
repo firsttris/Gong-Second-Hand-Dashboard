@@ -1,217 +1,348 @@
 {
-  "generated_at": "2026-06-04T07:52:03.900403+00:00",
+  "generated_at": "2026-06-05T07:44:25.736109+00:00",
   "source": "gong-galaxy",
-  "total_items": 75,
+  "total_items": 81,
   "interests": [],
-  "new_items": 10,
+  "new_items": 16,
   "items": [
     {
-      "id": "15490821259639-57146975060343",
-      "title": "Wing foil Board Inflatable HIPE First - 5'5 BLUE Second Hand 14042",
-      "variant_title": "5'5 / BLUE",
-      "price_eur": 209.0,
-      "compare_at_price_eur": 335.0,
-      "discount_percent": 37.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-first-5-oc14042",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/01-25-1500-WING-BOARD-INFLATABLE-HIPE_FIRST-GONGWING-HOVER.png?v=1773315556",
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingdebutant",
-        "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-planches-gonflables-wingboard"
-      ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": true
-    },
-    {
-      "id": "15491074294135-57147918680439",
-      "title": "Wing foil Board Inflatable HIPE First - 5'5 BLUE Second Hand 14053",
-      "variant_title": "5'5 / BLUE",
-      "price_eur": 209.0,
-      "compare_at_price_eur": 335.0,
-      "discount_percent": 37.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-first-5-oc14053",
-      "image_url": null,
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingdebutant",
-        "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-planches-gonflables-wingboard"
-      ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": true
-    },
-    {
-      "id": "15491074261367-57147918582135",
-      "title": "Wing foil Board Inflatable HIPE First - 5'0 Second Hand 14052",
-      "variant_title": "5'0",
-      "price_eur": 219.0,
-      "compare_at_price_eur": 299.0,
-      "discount_percent": 26.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wingfoil-inflatable-hipe-first-26-oc14052",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-BOARD-INFLATABLE-HIPE_FIRST-GONGWING-01_f96f96d2-8e88-4556-8a63-900264bcdba7.jpg?v=1780557734",
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-planches-gonflables-wingboard"
-      ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": true
-    },
-    {
-      "id": "15490875687287-57147114619255",
-      "title": "Wing foil Board Inflatable HIPE Perf - 5'3 Blue Second Hand 14046",
-      "variant_title": "5'3 / Blue",
+      "id": "15491465740663-57149556457847",
+      "title": "Wing Neutra - 3 m\u00b2 Navy Second Hand 13957",
+      "variant_title": "3 m\u00b2 / Navy",
       "price_eur": 249.0,
-      "compare_at_price_eur": 599.0,
-      "discount_percent": 58.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-board-inflatable-hipe-perf-1-oc14046",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-WING_BOARD-HIPE-PERF-5_3-GONGWING-01_42503047-9ade-43cd-9e42-662a2600a855.png?v=1780498471",
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingdebutant",
-        "dropzone2026",
-        "great-deals-40",
-        "great-deals-50",
-        "main_collection:occasions-planches-gonflables-wingboard"
-      ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": true
-    },
-    {
-      "id": "15491076456823-57147922612599",
-      "title": "Wing foil Board Inflatable HIPE Cruzader - 7'6 Blue / Green Second Hand 14057",
-      "variant_title": "7'6 / Blue / Green",
-      "price_eur": 319.0,
-      "compare_at_price_eur": 729.0,
+      "compare_at_price_eur": 569.0,
       "discount_percent": 56.2,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-cruzader-oc14057",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-WING_BOARD-HIPE-CRUZADER-7_0-GONGWING-01_e4e60049-ab3b-43ca-88d3-d7900cef824f.png?v=1780558497",
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-2-oc13957",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-23-T-WINGS_2024_GONGWING_NEUTRA2024_NAVY_5M_1_4a95e41d-11d3-4b21-b0d1-fe277ba4c8e1.png?v=1780644314",
+      "collection": "Wings",
+      "item_type": "wing",
       "product_type": "second_life",
       "tags": [
-        "crm_wingintermediaire",
-        "main_collection:occasions-planches-gonflables-wingboard"
+        "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": true
     },
     {
-      "id": "15491077931383-57147925135735",
-      "title": "Wing foil Board Inflatable HIPE Perf - 5'5 BLUE Second Hand 14058",
-      "variant_title": "5'5 / BLUE",
-      "price_eur": 319.0,
-      "compare_at_price_eur": 629.0,
-      "discount_percent": 49.3,
+      "id": "15491468165495-57149561045367",
+      "title": "Wing Droid UPE Aramid - 4,5 m\u00b2 White / Green Second Hand 13976",
+      "variant_title": "4,5 m\u00b2 / White / Green",
+      "price_eur": 339.0,
+      "compare_at_price_eur": 859.0,
+      "discount_percent": 60.5,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-perf-5-oc14058",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/01-25-1500-WING-BOARD-INFLATABLE-HIPE_PERF-GONGWING-HOVER_8097295e-f593-469f-bf50-c8d797f55d07.png?v=1780558562",
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingdebutant",
-        "great-deals-30",
-        "great-deals-40",
-        "main_collection:occasions-planches-gonflables-wingboard"
-      ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": true
-    },
-    {
-      "id": "15491075113335-57147920286071",
-      "title": "Wing foil Board Inflatable HIPE Freefly - 5'8 Second Hand 14055",
-      "variant_title": "5'8",
-      "price_eur": 329.0,
-      "compare_at_price_eur": 469.0,
-      "discount_percent": 29.9,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-hipe-board-hipe-freefly-26-oc14055",
-      "image_url": null,
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-planches-gonflables-wingboard"
-      ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": true
-    },
-    {
-      "id": "15487836914039-57127898579319",
-      "title": "Wing Droid Aramid X - 3,5 m\u00b2 WHITE / GREEN Second Hand 13867",
-      "variant_title": "3,5 m\u00b2 / WHITE / GREEN",
-      "price_eur": 349.0,
-      "compare_at_price_eur": 899.0,
-      "discount_percent": 61.2,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-oc13867",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-TEAM_SERIES-ARAMID_X-DROID-GREEN-5M-GONGWING-01_9be14c94-df7d-49bb-a212-59a3b5181ba8.png?v=1779953385",
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-upe-aramid-oc13976",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-T-WING-UPE_ARAMID-DROID-GREEN-5M-GONGWING-01_184c0679-8945-415c-8531-886e41353d1f.png?v=1780645235",
       "collection": "Wings",
       "item_type": "wing",
       "product_type": "second_life",
       "tags": [
         "crm_wingexpert",
+        "dropzone2026",
+        "great-deals-20",
+        "great-deals-40",
+        "great-deals-50",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": true
     },
     {
-      "id": "15490874671479-57147107541367",
-      "title": "Wing foil Board Inflatable HIPE Cruzader - 7'11 Blue / Green Second Hand 14043",
-      "variant_title": "7'11 / Blue / Green",
+      "id": "15491464659319-57149549543799",
+      "title": "Wing Plus - 5 m\u00b2 White Second Hand 13951",
+      "variant_title": "5 m\u00b2 / White",
       "price_eur": 349.0,
-      "compare_at_price_eur": 749.0,
-      "discount_percent": 53.4,
+      "compare_at_price_eur": 679.0,
+      "discount_percent": 48.6,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-cruzader-oc14043",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-WING_BOARD-HIPE-CRUZADER-7_0-GONGWING-01_29378ff0-ee25-47b2-87bb-65bccd3dfe6c.png?v=1780498376",
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingintermediaire",
-        "main_collection:occasions-planches-gonflables-wingboard"
-      ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": true
-    },
-    {
-      "id": "15491074425207-57147918877047",
-      "title": "Wing foil Board Inflatable HIPE Diamond - 5'10 WHITE Second Hand 14054",
-      "variant_title": "5'10 / WHITE",
-      "price_eur": 419.0,
-      "compare_at_price_eur": 719.0,
-      "discount_percent": 41.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-diamond-5-oc14054",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-BOARD-INFLATABLE-HIPE_DIAMOND-GONGWING-01_6ca7ad49-3d49-4a28-94c2-1b7b5936808f.jpg?v=1780557824",
-      "collection": "Inflatable Wing Boards",
-      "item_type": "inflatable_wing_board",
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-5-oc13951",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-WING-PERF_SERIES-PLUS-5-WHITE-GONGWING-01_643075c9-7233-4c68-b7b1-4aac6b8bb6ee.jpg?v=1780643927",
+      "collection": "Wings",
+      "item_type": "wing",
       "product_type": "second_life",
       "tags": [
         "crm_wingdebutant",
         "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-planches-gonflables-wingboard"
+        "great-deals-30",
+        "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491467739511-57149559636343",
+      "title": "Wing Neutra UPE Aramid - 5 m\u00b2 White / Green Second Hand 13972",
+      "variant_title": "5 m\u00b2 / White / Green",
+      "price_eur": 349.0,
+      "compare_at_price_eur": 889.0,
+      "discount_percent": 60.7,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-upe-aramid-oc13972",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-WING-UPE_ARAMID-NEUTRA-GREEN-5M-GONGWING-01_6a5b13ee-e75b-4e52-b303-6d5f18a71cf2.png?v=1780645072",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingdebutant",
+        "dropzone2026",
+        "great-deals-30",
+        "great-deals-40",
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-06-05T09:44:23+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491465019767-57149550657911",
+      "title": "Wing Droid UPE Aramid - 6 m\u00b2 White / Green Second Hand 13955",
+      "variant_title": "6 m\u00b2 / White / Green",
+      "price_eur": 399.0,
+      "compare_at_price_eur": 979.0,
+      "discount_percent": 59.2,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-upe-aramid-oc13955",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-T-WING-UPE_ARAMID-DROID-GREEN-5M-GONGWING-01_f3827e72-acf5-4d6e-ac5d-7faf5022f29d.png?v=1780644058",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "dropzone2026",
+        "great-deals-20",
+        "great-deals-40",
+        "great-deals-50",
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-06-05T09:44:23+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491467247991-57149559013751",
+      "title": "Wing Droid Aramid X - Aramid X 3,5 m\u00b2 / Pink Second Hand 13970",
+      "variant_title": "Aramid X / 3,5 m\u00b2 / Pink",
+      "price_eur": 549.0,
+      "compare_at_price_eur": 939.0,
+      "discount_percent": 41.5,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-5-oc13970",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-ARAMID_X-DROID-PINK-GONGWING-01_380ac8f1-bd9b-4369-a530-9d99ede1f7f0.jpg?v=1780644866",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "dropzone2026",
+        "great-deals-20",
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-06-05T09:44:23+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491465773431-57149556523383",
+      "title": "Wing Droid Aramid X - Aramid X 4 m\u00b2 / White Second Hand 13958",
+      "variant_title": "Aramid X / 4 m\u00b2 / White",
+      "price_eur": 569.0,
+      "compare_at_price_eur": 969.0,
+      "discount_percent": 41.3,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-5-oc13958",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-ARAMID_X-DROID-WHITE-GONGWING-01_17142fcf-064a-4dac-8638-7ba4c1bbcc48.jpg?v=1780644338",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "dropzone2026",
+        "great-deals-20",
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-06-05T09:44:23+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491467477367-57149559341431",
+      "title": "Wing Droid Aramid X - Aramid X 4 m\u00b2 / Pink Second Hand 13971",
+      "variant_title": "Aramid X / 4 m\u00b2 / Pink",
+      "price_eur": 579.0,
+      "compare_at_price_eur": 969.0,
+      "discount_percent": 40.2,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-5-oc13971",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-ARAMID_X-DROID-PINK-GONGWING-01_a4f754cd-f9a5-4e6a-98ff-cc535f04d36b.jpg?v=1780644970",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "dropzone2026",
+        "great-deals-20",
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-06-05T09:44:23+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491467116919-57149558849911",
+      "title": "Wing Neutra Aramid - Aramid 4,5 m\u00b2 / Sky blue Second Hand 13969",
+      "variant_title": "Aramid / 4,5 m\u00b2 / Sky blue",
+      "price_eur": 629.0,
+      "compare_at_price_eur": 839.0,
+      "discount_percent": 25.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-aramid-26nhnb-oc13969",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-TEAM_SERIES-2026-ARAMID-NEUTRA-4_5-SKYBLUE-GONGWING-NHNB-01_9e15dec4-ff2e-4e32-8f69-583c03e1d782.png?v=1780644840",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-06-05T09:44:23+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491468263799-57149561373047",
+      "title": "Wing Droid Aramid X - Aramid X 4,5 m\u00b2 / Black Second Hand 13977",
+      "variant_title": "Aramid X / 4,5 m\u00b2 / Black",
+      "price_eur": 649.0,
+      "compare_at_price_eur": 939.0,
+      "discount_percent": 30.9,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc13977",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-BLACK-GONGWING-NHNB-01_a1aea332-5248-4810-8e9f-ba8f5d8634a2.png?v=1780645271",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-06-05T09:44:23+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491199730039-57148521873783",
+      "title": "Wing Foil Board Lethal FSP Pro - FSP PRO 4'10 Second Hand 14077",
+      "variant_title": "FSP PRO / 4'10",
+      "price_eur": 699.0,
+      "compare_at_price_eur": 999.0,
+      "discount_percent": 30.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-lethal-fsp-pro-26-oc14077",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_PRO-LETHAL-4_10-GONGWING-01_cbefd688-9a7a-423a-93a0-64904b1f3ddf.png?v=1780575311",
+      "collection": "Rigid Wingboards",
+      "item_type": "rigid_board",
+      "product_type": "second_life",
+      "tags": [
+        "board_rigide",
+        "main_collection:occasions-planches-rigides-wingboard",
+        "OVERSIZE"
+      ],
+      "updated_at": "2026-06-05T09:44:24+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491199828343-57148522004855",
+      "title": "Wing Foil Board Lethal FSP Pro - FSP PRO 4'10 Second Hand 14078",
+      "variant_title": "FSP PRO / 4'10",
+      "price_eur": 699.0,
+      "compare_at_price_eur": 999.0,
+      "discount_percent": 30.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-lethal-fsp-pro-26-oc14078",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_PRO-LETHAL-4_10-GONGWING-01_2874d102-00f2-4ef7-9fed-5faacaa49dbc.png?v=1780575331",
+      "collection": "Rigid Wingboards",
+      "item_type": "rigid_board",
+      "product_type": "second_life",
+      "tags": [
+        "board_rigide",
+        "main_collection:occasions-planches-rigides-wingboard",
+        "OVERSIZE"
+      ],
+      "updated_at": "2026-06-05T09:44:24+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491199926647-57148522135927",
+      "title": "Wing Foil Board Lemon FSP Pro - FSP PRO 4'9 Refurbished 14079",
+      "variant_title": "FSP PRO / 4'9",
+      "price_eur": 749.0,
+      "compare_at_price_eur": 949.0,
+      "discount_percent": 21.1,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-lemon-fsp-pro-26-rc14079",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_PRO-LEMON-4_9-GONGWING-01_092937e1-7cb6-49be-936e-713caadeb30f.png?v=1780575352",
+      "collection": "Rigid Wingboards",
+      "item_type": "rigid_board",
+      "product_type": "second_life",
+      "tags": [
+        "board_rigide",
+        "main_collection:occasions-planches-rigides-wingboard",
+        "OVERSIZE"
+      ],
+      "updated_at": "2026-06-05T09:44:24+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491194847607-57148508012919",
+      "title": "Wing Foil Board Lethal FSP Pro - FSP PRO 5'0 Second Hand 14067",
+      "variant_title": "FSP PRO / 5'0",
+      "price_eur": 799.0,
+      "compare_at_price_eur": 1049.0,
+      "discount_percent": 23.8,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-lethal-fsp-pro-26-oc14067",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_PRO-LETHAL-4_10-GONGWING-01_d4b56bf3-1746-4bca-8080-7fc23d98d2de.png?v=1780574732",
+      "collection": "Rigid Wingboards",
+      "item_type": "rigid_board",
+      "product_type": "second_life",
+      "tags": [
+        "board_rigide",
+        "main_collection:occasions-planches-rigides-wingboard",
+        "OVERSIZE"
+      ],
+      "updated_at": "2026-06-05T09:44:24+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491138814327-57148219752823",
+      "title": "Wing Foil Board Cruzader Diamond FSP Pro - FSP PRO 6'6 Second Hand 14065",
+      "variant_title": "FSP PRO / 6'6",
+      "price_eur": 849.0,
+      "compare_at_price_eur": 1169.0,
+      "discount_percent": 27.4,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-cruzader-diamond-fsp-pro-26-oc14065",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_PRO-DIAMOND-5_6-GONGWING-01_0545102c-9010-4a5c-b083-4cda09268302.png?v=1780565066",
+      "collection": "Rigid Wingboards",
+      "item_type": "rigid_board",
+      "product_type": "second_life",
+      "tags": [
+        "board_rigide",
+        "main_collection:occasions-planches-rigides-wingboard",
+        "OVERSIZE"
+      ],
+      "updated_at": "2026-06-05T09:44:24+02:00",
+      "is_new": true
+    },
+    {
+      "id": "15491465871735-57149556687223",
+      "title": "Wing Droid SP Aramid CZ - Aramid CZ 5 m\u00b2 / Sky blue Second Hand 13959",
+      "variant_title": "Aramid CZ / 5 m\u00b2 / Sky blue",
+      "price_eur": 979.0,
+      "compare_at_price_eur": 1279.0,
+      "discount_percent": 23.5,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc-oc13959",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-4_5-SKYBLUE-GONGWING-NHNB-01_71cb3467-cf28-417e-972f-5019d417dd4e.png?v=1780644377",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": true
     },
     {
@@ -233,7 +364,7 @@
         "promotions-accessoires-sup",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -255,7 +386,7 @@
         "promotions-accessoires-surf",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -276,7 +407,7 @@
         "great-deals-30",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -296,7 +427,7 @@
         "great-deals-over-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -320,7 +451,7 @@
         "great-deals-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -340,7 +471,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -359,7 +490,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -378,7 +509,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -398,26 +529,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15487837929847-57127912243575",
-      "title": "Foil Stab Ypra Surf-Freestyle V3 - S Second Hand 13877",
-      "variant_title": "S",
-      "price_eur": 119.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 29.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-surf-freestyle-oc13877",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-SURF_FREESTYLE-S-33-GONGFOIL-01_b25a7126-9734-4b82-924e-58de79c23213.png?v=1779953420",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -436,7 +548,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -455,7 +567,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -475,7 +587,71 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
+      "is_new": false
+    },
+    {
+      "id": "15490821259639-57146975060343",
+      "title": "Wing foil Board Inflatable HIPE First - 5'5 BLUE Second Hand 14042",
+      "variant_title": "5'5 / BLUE",
+      "price_eur": 209.0,
+      "compare_at_price_eur": 335.0,
+      "discount_percent": 37.6,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-first-5-oc14042",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/01-25-1500-WING-BOARD-INFLATABLE-HIPE_FIRST-GONGWING-HOVER.png?v=1773315556",
+      "collection": "Inflatable Wing Boards",
+      "item_type": "inflatable_wing_board",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingdebutant",
+        "dropzone2026",
+        "great-deals-20",
+        "main_collection:occasions-planches-gonflables-wingboard"
+      ],
+      "updated_at": "2026-06-05T09:44:25+02:00",
+      "is_new": false
+    },
+    {
+      "id": "15491074261367-57147918582135",
+      "title": "Wing foil Board Inflatable HIPE First - 5'0 Second Hand 14052",
+      "variant_title": "5'0",
+      "price_eur": 219.0,
+      "compare_at_price_eur": 299.0,
+      "discount_percent": 26.8,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wingfoil-inflatable-hipe-first-26-oc14052",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-BOARD-INFLATABLE-HIPE_FIRST-GONGWING-01_f96f96d2-8e88-4556-8a63-900264bcdba7.jpg?v=1780557734",
+      "collection": "Inflatable Wing Boards",
+      "item_type": "inflatable_wing_board",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-planches-gonflables-wingboard"
+      ],
+      "updated_at": "2026-06-05T09:44:25+02:00",
+      "is_new": false
+    },
+    {
+      "id": "15490875687287-57147114619255",
+      "title": "Wing foil Board Inflatable HIPE Perf - 5'3 Blue Second Hand 14046",
+      "variant_title": "5'3 / Blue",
+      "price_eur": 249.0,
+      "compare_at_price_eur": 599.0,
+      "discount_percent": 58.4,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-board-inflatable-hipe-perf-1-oc14046",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-WING_BOARD-HIPE-PERF-5_3-GONGWING-01_42503047-9ade-43cd-9e42-662a2600a855.png?v=1780498471",
+      "collection": "Inflatable Wing Boards",
+      "item_type": "inflatable_wing_board",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingdebutant",
+        "dropzone2026",
+        "great-deals-40",
+        "great-deals-50",
+        "main_collection:occasions-planches-gonflables-wingboard"
+      ],
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -495,7 +671,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -515,7 +691,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -534,7 +710,26 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
+      "is_new": false
+    },
+    {
+      "id": "15487847203191-57128090173815",
+      "title": "Foil Front Wing Ypra Surf-Freestyle V3 - M Second Hand 13880",
+      "variant_title": "M",
+      "price_eur": 299.0,
+      "compare_at_price_eur": 435.0,
+      "discount_percent": 31.3,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-front-wing-ypra-surf-freestyle-oc13880",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-FRONT_WINGS-V3-YPRA_SURF_FREESTYLE-M-68-GONGWING-01_516d104d-383a-4c17-bad9-28fc3c87f2d4.png?v=1779953760",
+      "collection": "Front Wings",
+      "item_type": "front_wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-frontwing"
+      ],
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -555,30 +750,29 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
-      "id": "15489853849975-57139949207927",
-      "title": "Wing Plus - 6 m\u00b2 Pink / Blue Second Hand 13919",
-      "variant_title": "6 m\u00b2 / Pink / Blue",
-      "price_eur": 329.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 52.2,
+      "id": "15491077931383-57147925135735",
+      "title": "Wing foil Board Inflatable HIPE Perf - 5'5 BLUE Second Hand 14058",
+      "variant_title": "5'5 / BLUE",
+      "price_eur": 319.0,
+      "compare_at_price_eur": 629.0,
+      "discount_percent": 49.3,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-oc13919",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-PERF_SERIES_V2-PLUS-PINK-5M-GONGWING-01_265b3387-19e7-407d-a22c-b755bbde2dea.png?v=1780322954",
-      "collection": "Wings",
-      "item_type": "wing",
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-inflatable-hipe-perf-5-oc14058",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/01-25-1500-WING-BOARD-INFLATABLE-HIPE_PERF-GONGWING-HOVER_8097295e-f593-469f-bf50-c8d797f55d07.png?v=1780558562",
+      "collection": "Inflatable Wing Boards",
+      "item_type": "inflatable_wing_board",
       "product_type": "second_life",
       "tags": [
         "crm_wingdebutant",
-        "dropzone2026",
         "great-deals-30",
         "great-deals-40",
-        "main_collection:occasions-wings"
+        "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -601,7 +795,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -625,7 +819,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -646,7 +840,7 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -670,7 +864,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -694,51 +888,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15488036733303-57129077735799",
-      "title": "Surf Foil Board Scura EPS Pro - 5'10 Second Hand 14011",
-      "variant_title": "5'10",
-      "price_eur": 399.0,
-      "compare_at_price_eur": 599.0,
-      "discount_percent": 33.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-surf-foil-board-scura-eps-pro-oc14011",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-SURF_FOIL-EPS_PRO-SCURA-4_8-01_b339fb3f-8e8a-4267-99e3-6194c711f63b.png?v=1779975454",
-      "collection": "Surf Foil Boards",
-      "item_type": "surf_foil_board",
-      "product_type": "second_life",
-      "tags": [
-        "board_rigide",
-        "crm_surfoil",
-        "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-planche-surffoil",
-        "OVERSIZE"
-      ],
-      "updated_at": "2026-06-04T09:52:03+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15487238865271-57125506711927",
-      "title": "Wing Neutra Aramid X - 3,5 m\u00b2 WHITE / SKY BLUE Second Hand 13857",
-      "variant_title": "3,5 m\u00b2 / WHITE / SKY BLUE",
-      "price_eur": 439.0,
-      "compare_at_price_eur": 889.0,
-      "discount_percent": 50.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-aramid-x-oc13857",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-TEAM_SERIES-ARAMID_X-NEUTRA-BLUE-5M-GONGWING-01_4c5d8d10-d7f6-4ae4-8982-0c7ac7ccf194.png?v=1779866843",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:25+02:00",
       "is_new": false
     },
     {
@@ -762,7 +912,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -781,7 +931,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -804,7 +954,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -827,7 +977,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -850,7 +1000,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -873,30 +1023,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15487860146551-57128426504567",
-      "title": "Wing Pulse Race Aramid CZ - Second Choix - Aramid CZ 5 m\u00b2 / Sky blue Second Hand 13893",
-      "variant_title": "Aramid CZ / 5 m\u00b2 / Sky blue",
-      "price_eur": 599.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 60.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5-oc13893",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PULSE_RACE-SKYBLUES-GONGWING-01_ed46bd58-7b0c-43ca-9cc0-7333e7731601.jpg?v=1779954549",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -917,7 +1044,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -938,7 +1065,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -961,7 +1088,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -984,7 +1111,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1005,7 +1132,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -1029,7 +1156,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -1050,7 +1177,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -1073,7 +1200,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1093,7 +1220,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -1116,7 +1243,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1139,7 +1266,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1162,7 +1289,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1186,7 +1313,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1210,7 +1337,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1234,7 +1361,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1254,7 +1381,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -1274,7 +1401,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -1297,7 +1424,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1320,7 +1447,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1344,7 +1471,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1368,7 +1495,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1392,7 +1519,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1413,7 +1540,7 @@
         "dropzone2026",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -1433,7 +1560,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     },
     {
@@ -1457,7 +1584,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1481,7 +1608,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1505,7 +1632,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1529,7 +1656,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1553,7 +1680,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1577,7 +1704,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1601,7 +1728,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1620,7 +1747,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-04T09:52:01+02:00",
+      "updated_at": "2026-06-05T09:44:23+02:00",
       "is_new": false
     },
     {
@@ -1640,7 +1767,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-04T09:52:02+02:00",
+      "updated_at": "2026-06-05T09:44:24+02:00",
       "is_new": false
     }
   ]

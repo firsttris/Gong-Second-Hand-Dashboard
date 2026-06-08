@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T07:35:59.507060+00:00",
+  "generated_at": "2026-06-08T08:02:15.204063+00:00",
   "source": "gong-galaxy",
-  "total_items": 46,
+  "total_items": 34,
   "interests": [],
   "new_items": 0,
   "items": [
@@ -24,7 +24,7 @@
         "promotions-accessoires-surf",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-06-08T09:35:59+02:00",
+      "updated_at": "2026-06-08T10:02:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57004708462967"
@@ -33,33 +33,6 @@
       "variant_sizes": [
         "Light Pink"
       ],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15491471933815",
-      "title": "Foil Alu Mast 55 cm V3 - 19 mm Second Hand 14029",
-      "variant_title": "19 mm",
-      "price_eur": 45.0,
-      "compare_at_price_eur": 65.0,
-      "discount_percent": 30.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-alu-mast-v3-55cm-oc14029",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-MAST_V3-ALU-PERF_SERIES-19-55-01_27514247-cfa8-4c5a-97eb-e33eb78d6110.jpg?v=1780646482",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingintermediaire",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57149571924343"
-      ],
-      "variant_base": "19 mm",
-      "variant_sizes": [],
       "variant_colors": [],
       "is_new": false
     },
@@ -80,7 +53,7 @@
         "main_collection:occasions-accessoires-wing",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-06-08T09:35:59+02:00",
+      "updated_at": "2026-06-08T10:02:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57149577363831"
@@ -89,33 +62,6 @@
       "variant_sizes": [
         "WHITE"
       ],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15491472064887",
-      "title": "Foil Alu Mast 70 cm V3 - 19 mm Second Hand 14030",
-      "variant_title": "19 mm",
-      "price_eur": 55.0,
-      "compare_at_price_eur": 79.0,
-      "discount_percent": 30.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-alu-mast-v3-70cm-oc14030",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-MAST_V3-ALU-PERF_SERIES-19-70-01_93f6200f-616f-4c57-999b-85ff9ae85609.jpg?v=1780646515",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingintermediaire",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57149572383095"
-      ],
-      "variant_base": "19 mm",
-      "variant_sizes": [],
       "variant_colors": [],
       "is_new": false
     },
@@ -137,7 +83,7 @@
         "great-deals-30",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
+      "updated_at": "2026-06-08T10:02:12+02:00",
       "variant_count": 1,
       "variant_ids": [
         "54778560184695"
@@ -164,7 +110,7 @@
         "great-deals-over-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
+      "updated_at": "2026-06-08T10:02:12+02:00",
       "variant_count": 1,
       "variant_ids": [
         "48524377162047"
@@ -195,141 +141,10 @@
         "great-deals-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
+      "updated_at": "2026-06-08T10:02:12+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128007532919"
-      ],
-      "variant_base": "XS",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15355493187959",
-      "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 12681",
-      "variant_title": "XS",
-      "price_eur": 119.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 29.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-freestyle-oc12681",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-FREESTYLE-XS-30-GONGFOIL-01_549ab249-53b9-49e7-82db-ae6bf1dfacee.png?v=1769780392",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-30",
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "56636581249399"
-      ],
-      "variant_base": "XS",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15427367272823",
-      "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 13261",
-      "variant_title": "XS",
-      "price_eur": 119.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 29.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-freestyle-oc13261",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-FREESTYLE-XS-30-GONGFOIL-01_79c48928-db18-4f66-aea4-c117272c5b27.png?v=1774274187",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "56924036596087"
-      ],
-      "variant_base": "XS",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15427372974455",
-      "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 13266",
-      "variant_title": "XS",
-      "price_eur": 119.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 29.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-freestyle-oc13266",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-FREESTYLE-XS-30-GONGFOIL-01_290b4e63-4731-4c32-bcca-3fbc4a69d6ae.png?v=1774274898",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "56924054978935"
-      ],
-      "variant_base": "XS",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15488547783031",
-      "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 13265",
-      "variant_title": "XS",
-      "price_eur": 119.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 29.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-freestyle-oc13265",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-FREESTYLE-XS-30-GONGFOIL-01_2b6fd2a6-7a7a-484f-8161-9584110794a3.png?v=1780059616",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57130662166903"
-      ],
-      "variant_base": "XS",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15454456217975",
-      "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 13517",
-      "variant_title": "XS",
-      "price_eur": 125.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 26.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-freestyle-oc13517",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-FREESTYLE-XS-30-GONGFOIL-01_94830c68-3522-4210-ac45-7dc336ac61c2.png?v=1776083928",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57005386531191"
       ],
       "variant_base": "XS",
       "variant_sizes": [],
@@ -353,7 +168,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-06-08T09:35:58+02:00",
+      "updated_at": "2026-06-08T10:02:13+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57019388166519"
@@ -379,7 +194,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57149556457847"
@@ -408,7 +223,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
+      "updated_at": "2026-06-08T10:02:12+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128122286455"
@@ -435,7 +250,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
+      "updated_at": "2026-06-08T10:02:12+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57019355464055"
@@ -463,7 +278,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:58+02:00",
+      "updated_at": "2026-06-08T10:02:13+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56849428283767"
@@ -493,7 +308,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:58+02:00",
+      "updated_at": "2026-06-08T10:02:13+02:00",
       "variant_count": 1,
       "variant_ids": [
         "49652761690431"
@@ -524,7 +339,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:58+02:00",
+      "updated_at": "2026-06-08T10:02:13+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56853053735287"
@@ -552,7 +367,7 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-06-08T09:35:58+02:00",
+      "updated_at": "2026-06-08T10:02:13+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57008221684087"
@@ -585,7 +400,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:58+02:00",
+      "updated_at": "2026-06-08T10:02:13+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57066272260471"
@@ -616,7 +431,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:58+02:00",
+      "updated_at": "2026-06-08T10:02:13+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57066272686455"
@@ -647,7 +462,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57109253456247"
@@ -677,7 +492,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56859023638903"
@@ -711,7 +526,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56758691987831"
@@ -745,7 +560,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "55979856822647"
@@ -777,7 +592,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56848809492855"
@@ -805,7 +620,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56849502011767"
@@ -835,7 +650,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128278163831"
@@ -869,7 +684,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56959926075767"
@@ -904,7 +719,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57129087402359"
@@ -934,7 +749,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57148521873783"
@@ -964,7 +779,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56936385446263"
@@ -996,7 +811,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128258634103"
@@ -1027,7 +842,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
+      "updated_at": "2026-06-08T10:02:12+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57140042957175"
@@ -1055,7 +870,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57148219752823"
@@ -1087,7 +902,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 5,
       "variant_ids": [
         "54882535047543",
@@ -1129,7 +944,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 13,
       "variant_ids": [
         "54893623312759",
@@ -1162,60 +977,6 @@
       "is_new": false
     },
     {
-      "id": "product-15398740951415",
-      "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 12958",
-      "variant_title": "112 | 13 mm",
-      "price_eur": 949.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 36.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-ypra-race-oc12958",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-MASTS-PRO_TEAM_SERIES-YPRA_RACE-GONFOIL-01_eec261dd-1639-4cd5-9547-c6c990a41d89.jpg?v=1772031702",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "56795045790071"
-      ],
-      "variant_base": "112 | 13 mm",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15483152007543",
-      "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 13826",
-      "variant_title": "112 | 13 mm",
-      "price_eur": 949.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 36.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-ypra-race-oc13826",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-MASTS-PRO_TEAM_SERIES-YPRA_RACE-GONFOIL-01_2c2b0a36-be4c-4353-9f7d-c5583d4402cf.jpg?v=1779264915",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57106012340599"
-      ],
-      "variant_base": "112 | 13 mm",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
       "id": "product-15491220767095",
       "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
       "variant_title": "Aramid CZ / 3 m\u00b2 / Sky blue / Aramid CZ / 3,5 m\u00b2 / Sky blue / Aramid CZ / 4 m\u00b2 / Sky blue (+16 more variants)",
@@ -1232,7 +993,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 19,
       "variant_ids": [
         "57148638953847",
@@ -1290,7 +1051,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57149556687223"
@@ -1302,61 +1063,6 @@
       "variant_colors": [
         "Sky blue"
       ],
-      "is_new": false
-    },
-    {
-      "id": "product-15387255243127",
-      "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 12803",
-      "variant_title": "112 | 13 mm",
-      "price_eur": 995.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 33.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-ypra-race-oc12803",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-MASTS-PRO_TEAM_SERIES-YPRA_RACE-GONFOIL-01_5c4bedca-6fb0-4a61-b037-9f2667ba1918.jpg?v=1771337540",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "56750159593847"
-      ],
-      "variant_base": "112 | 13 mm",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15398740689271",
-      "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 12957",
-      "variant_title": "112 | 13 mm",
-      "price_eur": 995.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 33.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-ypra-race-oc12957",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-MASTS-PRO_TEAM_SERIES-YPRA_RACE-GONFOIL-01_36c60386-b395-40a9-9de1-ad98170bf0de.jpg?v=1772031679",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "56795044151671"
-      ],
-      "variant_base": "112 | 13 mm",
-      "variant_sizes": [],
-      "variant_colors": [],
       "is_new": false
     },
     {
@@ -1375,7 +1081,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:35:56+02:00",
+      "updated_at": "2026-06-08T10:02:11+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57011866632567"
@@ -1387,33 +1093,6 @@
       "variant_colors": [
         "Pink"
       ],
-      "is_new": false
-    },
-    {
-      "id": "product-15458055389559",
-      "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 13603",
-      "variant_title": "112 | 13 mm",
-      "price_eur": 1119.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 25.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-ypra-race-oc13603",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-MASTS-PRO_TEAM_SERIES-YPRA_RACE-GONFOIL-01_dd0b8b4d-1025-46d7-974c-b4bfd8c8d257.jpg?v=1776428141",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-08T09:35:57+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57019387904375"
-      ],
-      "variant_base": "112 | 13 mm",
-      "variant_sizes": [],
-      "variant_colors": [],
       "is_new": false
     }
   ]

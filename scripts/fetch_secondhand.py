@@ -127,20 +127,6 @@ def _unique_preserve_order(values: list[str]) -> list[str]:
     return unique
 
 
-def _common_prefix_tokens(token_lists: list[list[str]]) -> list[str]:
-    if not token_lists:
-        return []
-    prefix = token_lists[0][:]
-    for tokens in token_lists[1:]:
-        idx = 0
-        while idx < len(prefix) and idx < len(tokens) and prefix[idx].lower() == tokens[idx].lower():
-            idx += 1
-        prefix = prefix[:idx]
-        if not prefix:
-            break
-    return prefix
-
-
 def _build_variant_facets(variant_titles: list[str]) -> dict[str, Any]:
     token_lists = [_split_variant_tokens(title) for title in variant_titles]
     token_lists = [tokens for tokens in token_lists if tokens]
@@ -151,14 +137,14 @@ def _build_variant_facets(variant_titles: list[str]) -> dict[str, Any]:
             "variant_colors": [],
         }
 
-    prefix_tokens = _common_prefix_tokens(token_lists)
-    remainder_lists = [tokens[len(prefix_tokens):] for tokens in token_lists]
-
-    size_values = _unique_preserve_order([tokens[0] for tokens in remainder_lists if len(tokens) >= 1])
-    color_values = _unique_preserve_order([tokens[1] for tokens in remainder_lists if len(tokens) >= 2])
+    base_values = _unique_preserve_order([tokens[0] for tokens in token_lists if len(tokens) >= 1])
+    size_values = _unique_preserve_order([tokens[1] for tokens in token_lists if len(tokens) >= 2])
+    color_values = _unique_preserve_order([
+        " / ".join(tokens[2:]) for tokens in token_lists if len(tokens) >= 3
+    ])
 
     return {
-        "variant_base": " / ".join(prefix_tokens),
+        "variant_base": " / ".join(base_values),
         "variant_sizes": size_values,
         "variant_colors": color_values,
     }

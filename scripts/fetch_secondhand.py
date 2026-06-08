@@ -92,6 +92,19 @@ def fetch_collection_products(json_url: str) -> list[dict[str, Any]]:
     return data.get("products", [])
 
 
+def _summarize_variant_titles(variant_titles: list[str], max_titles: int = 3) -> str:
+    cleaned = [title.strip() for title in variant_titles if title and title.strip()]
+    unique_titles = list(dict.fromkeys(cleaned))
+    if not unique_titles:
+        return ""
+    if len(unique_titles) <= max_titles:
+        return " / ".join(unique_titles)
+    preview = " / ".join(unique_titles[:max_titles])
+    remaining = len(unique_titles) - max_titles
+    suffix = "variant" if remaining == 1 else "variants"
+    return f"{preview} (+{remaining} more {suffix})"
+
+
 def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, Any]]:
     site_base = config.get("site_base_url", "https://www.gong-galaxy.com").rstrip("/")
     collections = config.get("collections", [])
@@ -119,46 +132,61 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
             if not handle:
                 continue
 
+            product_id = str(product.get("id") or handle)
+            if product_id in dedupe:
+                continue
+            dedupe.add(product_id)
+
             product_url = f"{site_base}/en/products/{handle}"
             image_url = None
             if product.get("images"):
                 image_url = product["images"][0].get("src")
 
-            for variant in product.get("variants", []):
-                if not variant.get("available", False):
-                    continue
+            available_variants = [v for v in product.get("variants", []) if v.get("available", False)]
+            if not available_variants:
+                continue
 
-                item_id = f"{product.get('id')}-{variant.get('id')}"
-                if item_id in dedupe:
-                    continue
-                dedupe.add(item_id)
+            variant_ids = [str(v.get("id")) for v in available_variants if v.get("id") is not None]
+            price_candidates = [
+                (v, money_to_eur(v.get("price")))
+                for v in available_variants
+            ]
+            priced_variants = [(v, p) for v, p in price_candidates if p is not None]
 
-                title = product.get("title", "Untitled")
-                variant_title = variant.get("title", "")
-                tags = product.get("tags", [])
+            if priced_variants:
+                reference_variant, price_eur = min(priced_variants, key=lambda vp: vp[1])
+            else:
+                reference_variant = available_variants[0]
+                price_eur = None
 
-                price_eur = money_to_eur(variant.get("price"))
-                compare_eur = money_to_eur(variant.get("compare_at_price"))
-                discount = discount_percent(price_eur, compare_eur)
+            compare_eur = money_to_eur(reference_variant.get("compare_at_price"))
+            discount = discount_percent(price_eur, compare_eur)
 
-                item = {
-                    "id": item_id,
-                    "title": title,
-                    "variant_title": variant_title,
-                    "price_eur": price_eur,
-                    "compare_at_price_eur": compare_eur,
-                    "discount_percent": discount,
-                    "available": True,
-                    "url": product_url,
-                    "image_url": image_url,
-                    "collection": collection_name,
-                    "item_type": collection_type,
-                    "product_type": product.get("product_type", ""),
-                    "tags": tags if isinstance(tags, list) else [],
-                    "updated_at": product.get("updated_at"),
-                    "is_new": item_id not in seen_ids,
-                }
-                items.append(item)
+            title = product.get("title", "Untitled")
+            variant_title = _summarize_variant_titles([str(v.get("title", "")) for v in available_variants])
+            tags = product.get("tags", [])
+            item_id = f"product-{product_id}"
+
+            item = {
+                "id": item_id,
+                "title": title,
+                "variant_title": variant_title,
+                "price_eur": price_eur,
+                "compare_at_price_eur": compare_eur,
+                "discount_percent": discount,
+                "available": True,
+                "url": product_url,
+                "image_url": image_url,
+                "collection": collection_name,
+                "item_type": collection_type,
+                "product_type": product.get("product_type", ""),
+                "tags": tags if isinstance(tags, list) else [],
+                "updated_at": product.get("updated_at"),
+                "variant_count": len(available_variants),
+                "variant_ids": variant_ids,
+                "is_new": (item_id not in seen_ids) or any((f"variant-{variant_id}" not in seen_ids) for variant_id in variant_ids),
+            }
+            items.append(item)
 
     if successful_collections == 0:
         raise RuntimeError("All collection requests failed. Source may be temporarily blocking CI traffic.")
@@ -199,7 +227,13 @@ def main() -> None:
 
     save_json(output_path, payload)
 
-    updated_seen = sorted(set(seen_ids).union({item["id"] for item in items}))
+    current_item_ids = {item["id"] for item in items}
+    current_variant_ids = {
+        f"variant-{variant_id}"
+        for item in items
+        for variant_id in item.get("variant_ids", [])
+    }
+    updated_seen = sorted(set(seen_ids).union(current_item_ids).union(current_variant_ids))
     save_json(history_path, {"seen_ids": updated_seen, "updated_at": now})
 
     print(f"Wrote {len(items)} items to {output_path}")

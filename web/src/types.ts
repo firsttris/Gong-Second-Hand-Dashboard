@@ -10,6 +10,8 @@ export type DashboardItem = {
   id: string;
   title: string;
   variant_title: string;
+  variant_count?: number;
+  variant_ids?: string[];
   price_eur: number | null;
   compare_at_price_eur: number | null;
   discount_percent: number | null;

@@ -280,6 +280,11 @@ export default function App() {
                   <span className="rounded-full bg-zinc-900/8 px-2 py-1 font-mono text-[11px]">
                     {item.collection}
                   </span>
+                  {!!item.variant_count && item.variant_count > 1 && (
+                    <span className="rounded-full bg-emerald-500/15 px-2 py-1 font-mono text-[11px] text-emerald-700">
+                      {item.variant_count} variants
+                    </span>
+                  )}
                   {item.is_new && (
                     <span className="rounded-full bg-sky-500/15 px-2 py-1 font-mono text-[11px] text-sky-700">
                       New
@@ -289,6 +294,9 @@ export default function App() {
 
                 <h3 className="mt-2 text-lg leading-snug font-semibold">{item.title}</h3>
                 {item.variant_title && <p className="mt-1 text-sm text-zinc-700">{item.variant_title}</p>}
+                {!!item.variant_count && item.variant_count > 1 && (
+                  <p className="mt-1 text-xs font-mono text-zinc-500">Grouped product listing</p>
+                )}
 
                 <div className="mt-3">
                   <p className="text-2xl leading-none font-bold text-zinc-900">{eur(netPrice)} ex MwSt</p>

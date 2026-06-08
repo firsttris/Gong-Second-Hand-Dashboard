@@ -31,6 +31,7 @@ export type DashboardItem = {
     | "fuselage"
     | "lowkite"
     | "surf_foil_board"
+    | "sup_foil_board"
     | "inflatable_wing_board"
     | "wing_accessory"
     | "other";

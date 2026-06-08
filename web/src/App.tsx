@@ -117,6 +117,9 @@ export default function App() {
     if (value === "surf_foil_board") {
       return "Surf Foil Boards";
     }
+    if (value === "sup_foil_board") {
+      return "SUP Foil Boards";
+    }
     if (value === "inflatable_wing_board") {
       return "Inflatable Wing Boards";
     }

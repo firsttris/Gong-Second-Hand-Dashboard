@@ -42,6 +42,11 @@
       "json_url": "https://www.gong-galaxy.com/en/collections/occasions-planche-surffoil/products.json?limit=250&filter.v.availability=1"
     },
     {
+      "name": "SUP Foil Boards",
+      "type": "sup_foil_board",
+      "json_url": "https://www.gong-galaxy.com/en/collections/occasions-planche-supfoil/products.json?limit=250&filter.v.availability=1&sort_by=manual"
+    },
+    {
       "name": "Inflatable Wing Boards",
       "type": "inflatable_wing_board",
       "json_url": "https://www.gong-galaxy.com/en/collections/occasions-planches-gonflables-wingboard/products.json?limit=250&filter.v.availability=1"

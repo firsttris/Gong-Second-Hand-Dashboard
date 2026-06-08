@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-08T07:24:57.335441+00:00",
+  "generated_at": "2026-06-08T07:29:16.581741+00:00",
   "source": "gong-galaxy",
   "total_items": 46,
   "interests": [],
-  "new_items": 46,
+  "new_items": 0,
   "items": [
     {
       "id": "product-15454337466743",
@@ -24,12 +24,15 @@
         "promotions-accessoires-surf",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-06-08T09:24:57+02:00",
+      "updated_at": "2026-06-08T09:29:16+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57004708462967"
       ],
-      "is_new": true
+      "variant_base": "XL / Light Pink",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15491471933815",
@@ -48,12 +51,15 @@
         "crm_wingintermediaire",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57149571924343"
       ],
-      "is_new": true
+      "variant_base": "19 mm",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15491472818551",
@@ -72,12 +78,15 @@
         "main_collection:occasions-accessoires-wing",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-06-08T09:24:57+02:00",
+      "updated_at": "2026-06-08T09:29:16+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57149577363831"
       ],
-      "is_new": true
+      "variant_base": "5'6 / WHITE",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15491472064887",
@@ -96,12 +105,15 @@
         "crm_wingintermediaire",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57149572383095"
       ],
-      "is_new": true
+      "variant_base": "19 mm",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-14842988953975",
@@ -121,12 +133,15 @@
         "great-deals-30",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "54778560184695"
       ],
-      "is_new": true
+      "variant_base": "S",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-9383215104319",
@@ -145,12 +160,15 @@
         "great-deals-over-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "48524377162047"
       ],
-      "is_new": true
+      "variant_base": "S",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15487842779511",
@@ -173,12 +191,15 @@
         "great-deals-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128007532919"
       ],
-      "is_new": true
+      "variant_base": "XS",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15355493187959",
@@ -197,12 +218,15 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56636581249399"
       ],
-      "is_new": true
+      "variant_base": "XS",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15427367272823",
@@ -220,12 +244,15 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56924036596087"
       ],
-      "is_new": true
+      "variant_base": "XS",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15427372974455",
@@ -243,12 +270,15 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56924054978935"
       ],
-      "is_new": true
+      "variant_base": "XS",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15488547783031",
@@ -266,12 +296,15 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57130662166903"
       ],
-      "is_new": true
+      "variant_base": "XS",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15454456217975",
@@ -289,12 +322,15 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57005386531191"
       ],
-      "is_new": true
+      "variant_base": "XS",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15458055422327",
@@ -313,12 +349,15 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57019388166519"
       ],
-      "is_new": true
+      "variant_base": "Unique",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15491465740663",
@@ -336,12 +375,15 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57149556457847"
       ],
-      "is_new": true
+      "variant_base": "3 m\u00b2 / Navy",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15487848513911",
@@ -360,12 +402,15 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128122286455"
       ],
-      "is_new": true
+      "variant_base": "3XS",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15458044215671",
@@ -384,12 +429,15 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57019355464055"
       ],
-      "is_new": true
+      "variant_base": "3XS",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15411183321463",
@@ -409,12 +457,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56849428283767"
       ],
-      "is_new": true
+      "variant_base": "4'0",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-9683003965759",
@@ -436,12 +487,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "49652761690431"
       ],
-      "is_new": true
+      "variant_base": "Taille unique",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15412341604727",
@@ -464,12 +518,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56853053735287"
       ],
-      "is_new": true
+      "variant_base": "4'4",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15455266013559",
@@ -489,12 +546,15 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57008221684087"
       ],
-      "is_new": true
+      "variant_base": "4 m\u00b2 / White",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15472348987767",
@@ -517,12 +577,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57066272260471"
       ],
-      "is_new": true
+      "variant_base": "5'8\"",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15472349118839",
@@ -545,12 +608,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57066272686455"
       ],
-      "is_new": true
+      "variant_base": "5'8\"",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15483763523959",
@@ -573,12 +639,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57109253456247"
       ],
-      "is_new": true
+      "variant_base": "4'8",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15413605892471",
@@ -600,12 +669,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56859023638903"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ / 3,5 m\u00b2 / Sky blue",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15389790404983",
@@ -627,12 +699,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56758691987831"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ / 3,5 m\u00b2 / Black",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15190990029175",
@@ -654,12 +729,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "55979856822647"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ / 3,5 m\u00b2 / Black",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15411034489207",
@@ -679,12 +757,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56848809492855"
       ],
-      "is_new": true
+      "variant_base": "4'0",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15411199410551",
@@ -704,12 +785,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56849502011767"
       ],
-      "is_new": true
+      "variant_base": "4'4",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15487854444919",
@@ -731,12 +815,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128278163831"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ / 6 m\u00b2 / Sky blue",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15439337455991",
@@ -758,12 +845,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56959926075767"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ / 3,5 m\u00b2 / PINK",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15488040173943",
@@ -786,12 +876,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57129087402359"
       ],
-      "is_new": true
+      "variant_base": "7'0 XL / Grey",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15491199730039",
@@ -811,12 +904,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57148521873783"
       ],
-      "is_new": true
+      "variant_base": "FSP PRO / 4'10",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15430416892279",
@@ -836,12 +932,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56936385446263"
       ],
-      "is_new": true
+      "variant_base": "FSP PRO / 4'10",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15487853658487",
@@ -863,12 +962,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128258634103"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ / 6 m\u00b2 / Sky blue",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15489873838455",
@@ -887,12 +989,15 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57140042957175"
       ],
-      "is_new": true
+      "variant_base": "5XL",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15491138814327",
@@ -912,12 +1017,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57148219752823"
       ],
-      "is_new": true
+      "variant_base": "FSP PRO / 6'6",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-14889530655095",
@@ -939,7 +1047,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 5,
       "variant_ids": [
         "54882535047543",
@@ -948,7 +1056,17 @@
         "54882535375223",
         "54882535506295"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ",
+      "variant_sizes": [
+        "3,5 m\u00b2",
+        "5 m\u00b2",
+        "5,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Sky blue",
+        "Pink"
+      ],
+      "is_new": false
     },
     {
       "id": "product-14889530818935",
@@ -971,7 +1089,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 13,
       "variant_ids": [
         "54893623312759",
@@ -988,7 +1106,20 @@
         "54893623640439",
         "54893623673207"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ",
+      "variant_sizes": [
+        "3,5 m\u00b2",
+        "4 m\u00b2",
+        "4,5 m\u00b2",
+        "5 m\u00b2",
+        "5,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Sky blue",
+        "Black",
+        "PINK"
+      ],
+      "is_new": false
     },
     {
       "id": "product-15398740951415",
@@ -1007,12 +1138,15 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56795045790071"
       ],
-      "is_new": true
+      "variant_base": "112 | 13 mm",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15483152007543",
@@ -1031,12 +1165,15 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57106012340599"
       ],
-      "is_new": true
+      "variant_base": "112 | 13 mm",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15491220767095",
@@ -1055,7 +1192,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 19,
       "variant_ids": [
         "57148638953847",
@@ -1078,7 +1215,24 @@
         "57148639543671",
         "57148639576439"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ",
+      "variant_sizes": [
+        "3 m\u00b2",
+        "3,5 m\u00b2",
+        "4 m\u00b2",
+        "4,5 m\u00b2",
+        "5 m\u00b2",
+        "5,5 m\u00b2",
+        "6 m\u00b2",
+        "6,5 m\u00b2",
+        "7 m\u00b2",
+        "7,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Sky blue",
+        "Pink"
+      ],
+      "is_new": false
     },
     {
       "id": "product-15491465871735",
@@ -1096,12 +1250,15 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57149556687223"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ / 5 m\u00b2 / Sky blue",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15387255243127",
@@ -1121,12 +1278,15 @@
         "dropzone2026",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56750159593847"
       ],
-      "is_new": true
+      "variant_base": "112 | 13 mm",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15398740689271",
@@ -1145,12 +1305,15 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56795044151671"
       ],
-      "is_new": true
+      "variant_base": "112 | 13 mm",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15456407847287",
@@ -1168,12 +1331,15 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-08T09:24:55+02:00",
+      "updated_at": "2026-06-08T09:29:14+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57011866632567"
       ],
-      "is_new": true
+      "variant_base": "Aramid CZ / 4,5 m\u00b2 / Pink",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     },
     {
       "id": "product-15458055389559",
@@ -1192,12 +1358,15 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-08T09:24:56+02:00",
+      "updated_at": "2026-06-08T09:29:15+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57019387904375"
       ],
-      "is_new": true
+      "variant_base": "112 | 13 mm",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
     }
   ]
 }

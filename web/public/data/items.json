@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-07T07:37:15.419087+00:00",
+  "generated_at": "2026-06-08T07:24:57.335441+00:00",
   "source": "gong-galaxy",
-  "total_items": 81,
+  "total_items": 46,
   "interests": [],
-  "new_items": 0,
+  "new_items": 46,
   "items": [
     {
-      "id": "15454337466743-57004708462967",
+      "id": "product-15454337466743",
       "title": "Casque Headguard + - XL Light Pink Second Rate 13502",
       "variant_title": "XL / Light Pink",
       "price_eur": 29.0,
@@ -24,11 +24,15 @@
         "promotions-accessoires-surf",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-06-07T09:37:15+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:57+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57004708462967"
+      ],
+      "is_new": true
     },
     {
-      "id": "15491471933815-57149571924343",
+      "id": "product-15491471933815",
       "title": "Foil Alu Mast 55 cm V3 - 19 mm Second Hand 14029",
       "variant_title": "19 mm",
       "price_eur": 45.0,
@@ -44,11 +48,15 @@
         "crm_wingintermediaire",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57149571924343"
+      ],
+      "is_new": true
     },
     {
-      "id": "15491472818551-57149577363831",
+      "id": "product-15491472818551",
       "title": "Wingfoil Day Bag - 5'6 WHITE Second Rate 14037",
       "variant_title": "5'6 / WHITE",
       "price_eur": 49.0,
@@ -64,11 +72,15 @@
         "main_collection:occasions-accessoires-wing",
         "promotions-accessoires-wing"
       ],
-      "updated_at": "2026-06-07T09:37:15+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:57+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57149577363831"
+      ],
+      "is_new": true
     },
     {
-      "id": "15491472064887-57149572383095",
+      "id": "product-15491472064887",
       "title": "Foil Alu Mast 70 cm V3 - 19 mm Second Hand 14030",
       "variant_title": "19 mm",
       "price_eur": 55.0,
@@ -84,11 +96,15 @@
         "crm_wingintermediaire",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57149572383095"
+      ],
+      "is_new": true
     },
     {
-      "id": "14842988953975-54778560184695",
+      "id": "product-14842988953975",
       "title": "Foil Allvator Front Wing Pro Ypra Freestyle Surf S 70 Second Hand 8974",
       "variant_title": "S",
       "price_eur": 99.0,
@@ -105,11 +121,15 @@
         "great-deals-30",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "54778560184695"
+      ],
+      "is_new": true
     },
     {
-      "id": "9383215104319-48524377162047",
+      "id": "product-9383215104319",
       "title": "GONG | Foil Allvator Front Wing Pro Ypra Freestyle Surf S 70 Refurbished 7189",
       "variant_title": "S",
       "price_eur": 99.0,
@@ -125,11 +145,15 @@
         "great-deals-over-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "48524377162047"
+      ],
+      "is_new": true
     },
     {
-      "id": "15487842779511-57128007532919",
+      "id": "product-15487842779511",
       "title": "Foil Front Wing Fluid V2 - XS Second Hand 13879",
       "variant_title": "XS",
       "price_eur": 119.0,
@@ -149,11 +173,15 @@
         "great-deals-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57128007532919"
+      ],
+      "is_new": true
     },
     {
-      "id": "15355493187959-56636581249399",
+      "id": "product-15355493187959",
       "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 12681",
       "variant_title": "XS",
       "price_eur": 119.0,
@@ -169,11 +197,15 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56636581249399"
+      ],
+      "is_new": true
     },
     {
-      "id": "15427367272823-56924036596087",
+      "id": "product-15427367272823",
       "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 13261",
       "variant_title": "XS",
       "price_eur": 119.0,
@@ -188,11 +220,15 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56924036596087"
+      ],
+      "is_new": true
     },
     {
-      "id": "15427372974455-56924054978935",
+      "id": "product-15427372974455",
       "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 13266",
       "variant_title": "XS",
       "price_eur": 119.0,
@@ -207,11 +243,15 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56924054978935"
+      ],
+      "is_new": true
     },
     {
-      "id": "15488547783031-57130662166903",
+      "id": "product-15488547783031",
       "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 13265",
       "variant_title": "XS",
       "price_eur": 119.0,
@@ -226,11 +266,15 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57130662166903"
+      ],
+      "is_new": true
     },
     {
-      "id": "15454456217975-57005386531191",
+      "id": "product-15454456217975",
       "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 13517",
       "variant_title": "XS",
       "price_eur": 125.0,
@@ -245,11 +289,15 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57005386531191"
+      ],
+      "is_new": true
     },
     {
-      "id": "15458055422327-57019388166519",
+      "id": "product-15458055422327",
       "title": "Foil Fuselage Micro V3 - Unique Second Hand 13604",
       "variant_title": "Unique",
       "price_eur": 185.0,
@@ -265,11 +313,15 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-06-07T09:37:14+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57019388166519"
+      ],
+      "is_new": true
     },
     {
-      "id": "15491465740663-57149556457847",
+      "id": "product-15491465740663",
       "title": "Wing Neutra - 3 m\u00b2 Navy Second Hand 13957",
       "variant_title": "3 m\u00b2 / Navy",
       "price_eur": 249.0,
@@ -284,11 +336,15 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57149556457847"
+      ],
+      "is_new": true
     },
     {
-      "id": "15487848513911-57128122286455",
+      "id": "product-15487848513911",
       "title": "Foil Front Wing Fluid H V3 - 3XS Second Hand 13881",
       "variant_title": "3XS",
       "price_eur": 275.0,
@@ -304,11 +360,15 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57128122286455"
+      ],
+      "is_new": true
     },
     {
-      "id": "15458044215671-57019355464055",
+      "id": "product-15458044215671",
       "title": "Foil Front Wing Fluid H V3 - 3XS Second Hand 13595",
       "variant_title": "3XS",
       "price_eur": 275.0,
@@ -324,11 +384,15 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57019355464055"
+      ],
+      "is_new": true
     },
     {
-      "id": "15411183321463-56849428283767",
+      "id": "product-15411183321463",
       "title": "Factory Surf Foil 4\u20190 Lethal Light FSP Pro Custom Second Hand 13082",
       "variant_title": "4'0",
       "price_eur": 299.0,
@@ -345,11 +409,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:14+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56849428283767"
+      ],
+      "is_new": true
     },
     {
-      "id": "9683003965759-49652761690431",
+      "id": "product-9683003965759",
       "title": "GONG | Factory Surf Foil 4'5 Matata Carbone Innegra FSP Pro Custom Second Hand 8349",
       "variant_title": "Taille unique",
       "price_eur": 349.0,
@@ -368,11 +436,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:14+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "49652761690431"
+      ],
+      "is_new": true
     },
     {
-      "id": "15412341604727-56853053735287",
+      "id": "product-15412341604727",
       "title": "Surf Foil Board Scura FSP Pro - 4'4 Second Hand 13138",
       "variant_title": "4'4",
       "price_eur": 369.0,
@@ -392,11 +464,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:14+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56853053735287"
+      ],
+      "is_new": true
     },
     {
-      "id": "15455266013559-57008221684087",
+      "id": "product-15455266013559",
       "title": "Lowkite Pulse - 4 m\u00b2 White Second Hand 13553",
       "variant_title": "4 m\u00b2 / White",
       "price_eur": 395.0,
@@ -413,11 +489,15 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-06-07T09:37:14+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57008221684087"
+      ],
+      "is_new": true
     },
     {
-      "id": "15472348987767-57066272260471",
+      "id": "product-15472348987767",
       "title": "Surf Foil Board NOTW EPS Pro - 5'8\" Refurbished 13743",
       "variant_title": "5'8\"",
       "price_eur": 399.0,
@@ -437,11 +517,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:14+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57066272260471"
+      ],
+      "is_new": true
     },
     {
-      "id": "15472349118839-57066272686455",
+      "id": "product-15472349118839",
       "title": "Surf Foil Board NOTW EPS Pro - 5'8\" Second Hand 13744",
       "variant_title": "5'8\"",
       "price_eur": 399.0,
@@ -461,11 +545,15 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:14+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57066272686455"
+      ],
+      "is_new": true
     },
     {
-      "id": "15483763523959-57109253456247",
+      "id": "product-15483763523959",
       "title": "Wing Foil Board Lemon FSP 2X - 4'8 Second Rate 13988",
       "variant_title": "4'8",
       "price_eur": 449.0,
@@ -485,11 +573,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57109253456247"
+      ],
+      "is_new": true
     },
     {
-      "id": "15413605892471-56859023638903",
+      "id": "product-15413605892471",
       "title": "Wing Pulse Race Aramid CZ - Aramid CZ 3,5 m\u00b2 / Sky blue Second Hand 13073",
       "variant_title": "Aramid CZ / 3,5 m\u00b2 / Sky blue",
       "price_eur": 599.0,
@@ -508,11 +600,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56859023638903"
+      ],
+      "is_new": true
     },
     {
-      "id": "15389790404983-56758691987831",
+      "id": "product-15389790404983",
       "title": "Wing Pulse Race Aramid CZ - Aramid CZ 3,5 m\u00b2 / Black Second Hand 12837",
       "variant_title": "Aramid CZ / 3,5 m\u00b2 / Black",
       "price_eur": 599.0,
@@ -531,11 +627,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56758691987831"
+      ],
+      "is_new": true
     },
     {
-      "id": "15190990029175-55979856822647",
+      "id": "product-15190990029175",
       "title": "Wing Pulse Race Aramid CZ - Aramid CZ 3,5 m\u00b2 / Black Second Hand 11886",
       "variant_title": "Aramid CZ / 3,5 m\u00b2 / Black",
       "price_eur": 599.0,
@@ -554,11 +654,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "55979856822647"
+      ],
+      "is_new": true
     },
     {
-      "id": "15411034489207-56848809492855",
+      "id": "product-15411034489207",
       "title": "Factory Wingfoil 4'0 Lemon FSP Pro Second Hand 13080",
       "variant_title": "4'0",
       "price_eur": 599.0,
@@ -575,11 +679,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56848809492855"
+      ],
+      "is_new": true
     },
     {
-      "id": "15411199410551-56849502011767",
+      "id": "product-15411199410551",
       "title": "Factory Wingfoil 4\u20194 Lemon FSP Pro  Second Hand 13083",
       "variant_title": "4'4",
       "price_eur": 599.0,
@@ -596,11 +704,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56849502011767"
+      ],
+      "is_new": true
     },
     {
-      "id": "15487854444919-57128278163831",
+      "id": "product-15487854444919",
       "title": "Wing Pulse Race Aramid CZ - Second Choix - Aramid CZ 6 m\u00b2 / Sky blue Second Hand 13886",
       "variant_title": "Aramid CZ / 6 m\u00b2 / Sky blue",
       "price_eur": 639.0,
@@ -619,11 +731,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57128278163831"
+      ],
+      "is_new": true
     },
     {
-      "id": "15439337455991-56959926075767",
+      "id": "product-15439337455991",
       "title": "Wing Pulse Race Aramid CZ - Aramid CZ 3,5 m\u00b2 / PINK Second Hand 13434",
       "variant_title": "Aramid CZ / 3,5 m\u00b2 / PINK",
       "price_eur": 649.0,
@@ -642,11 +758,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56959926075767"
+      ],
+      "is_new": true
     },
     {
-      "id": "15488040173943-57129087402359",
+      "id": "product-15488040173943",
       "title": "Wing Foil Board Cruzader Point LW FSP Pro - 7'0 XL Grey Second Rate 14014",
       "variant_title": "7'0 XL / Grey",
       "price_eur": 689.0,
@@ -666,11 +786,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57129087402359"
+      ],
+      "is_new": true
     },
     {
-      "id": "15491199730039-57148521873783",
+      "id": "product-15491199730039",
       "title": "Wing Foil Board Lethal FSP Pro - FSP PRO 4'10 Second Hand 14077",
       "variant_title": "FSP PRO / 4'10",
       "price_eur": 699.0,
@@ -687,11 +811,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57148521873783"
+      ],
+      "is_new": true
     },
     {
-      "id": "15430416892279-56936385446263",
+      "id": "product-15430416892279",
       "title": "Wing Foil Board Mint FSP Pro - FSP PRO 4'10 Refurbished 13369",
       "variant_title": "FSP PRO / 4'10",
       "price_eur": 699.0,
@@ -708,32 +836,15 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491199926647-57148522135927",
-      "title": "Wing Foil Board Lemon FSP Pro - FSP PRO 4'9 Refurbished 14079",
-      "variant_title": "FSP PRO / 4'9",
-      "price_eur": 749.0,
-      "compare_at_price_eur": 949.0,
-      "discount_percent": 21.1,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-lemon-fsp-pro-26-rc14079",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_PRO-LEMON-4_9-GONGWING-01_092937e1-7cb6-49be-936e-713caadeb30f.png?v=1780575352",
-      "collection": "Rigid Wingboards",
-      "item_type": "rigid_board",
-      "product_type": "second_life",
-      "tags": [
-        "board_rigide",
-        "main_collection:occasions-planches-rigides-wingboard",
-        "OVERSIZE"
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56936385446263"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "15487853658487-57128258634103",
+      "id": "product-15487853658487",
       "title": "Wing Pulse Race Aramid CZ - Second Choix - Aramid CZ 6 m\u00b2 / Sky blue Second Hand 13885",
       "variant_title": "Aramid CZ / 6 m\u00b2 / Sky blue",
       "price_eur": 799.0,
@@ -752,11 +863,15 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57128258634103"
+      ],
+      "is_new": true
     },
     {
-      "id": "15489873838455-57140042957175",
+      "id": "product-15489873838455",
       "title": "Foil Front Wing Sirus V3 - 5XL Refurbished 13933",
       "variant_title": "5XL",
       "price_eur": 799.0,
@@ -772,11 +887,15 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57140042957175"
+      ],
+      "is_new": true
     },
     {
-      "id": "15491138814327-57148219752823",
+      "id": "product-15491138814327",
       "title": "Wing Foil Board Cruzader Diamond FSP Pro - FSP PRO 6'6 Second Hand 14065",
       "variant_title": "FSP PRO / 6'6",
       "price_eur": 849.0,
@@ -793,13 +912,17 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57148219752823"
+      ],
+      "is_new": true
     },
     {
-      "id": "14889530655095-54882535047543",
+      "id": "product-14889530655095",
       "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3,5 m\u00b2 / Sky blue",
+      "variant_title": "Aramid CZ / 3,5 m\u00b2 / Sky blue / Aramid CZ / 5 m\u00b2 / Sky blue / Aramid CZ / 5,5 m\u00b2 / Sky blue (+2 more variants)",
       "price_eur": 859.0,
       "compare_at_price_eur": 1239.0,
       "discount_percent": 30.7,
@@ -816,59 +939,21 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530655095-54882535375223",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3,5 m\u00b2 / Pink",
-      "price_eur": 859.0,
-      "compare_at_price_eur": 1239.0,
-      "discount_percent": 30.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-DROID_SP-GONGWING-TB.png?v=1737476625",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 5,
+      "variant_ids": [
+        "54882535047543",
+        "54882535145847",
+        "54882535178615",
+        "54882535375223",
+        "54882535506295"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "14889530655095-54882535145847",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5 m\u00b2 / Sky blue",
-      "price_eur": 929.0,
-      "compare_at_price_eur": 1339.0,
-      "discount_percent": 30.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-DROID_SP-GONGWING-TB.png?v=1737476625",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623312759",
+      "id": "product-14889530818935",
       "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3,5 m\u00b2 / Sky blue",
+      "variant_title": "Aramid CZ / 3,5 m\u00b2 / Sky blue / Aramid CZ / 4 m\u00b2 / Sky blue / Aramid CZ / 4,5 m\u00b2 / Sky blue (+10 more variants)",
       "price_eur": 939.0,
       "compare_at_price_eur": 1349.0,
       "discount_percent": 30.4,
@@ -886,59 +971,27 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623083383",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3,5 m\u00b2 / Black",
-      "price_eur": 939.0,
-      "compare_at_price_eur": 1349.0,
-      "discount_percent": 30.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 13,
+      "variant_ids": [
+        "54893623312759",
+        "54893623345527",
+        "54893623378295",
+        "54893623411063",
+        "54893623083383",
+        "54893623116151",
+        "54893623148919",
+        "54893623181687",
+        "54893623542135",
+        "54893623574903",
+        "54893623607671",
+        "54893623640439",
+        "54893623673207"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "14889530818935-54893623542135",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3,5 m\u00b2 / PINK",
-      "price_eur": 939.0,
-      "compare_at_price_eur": 1349.0,
-      "discount_percent": 30.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15398740951415-56795045790071",
+      "id": "product-15398740951415",
       "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 12958",
       "variant_title": "112 | 13 mm",
       "price_eur": 949.0,
@@ -954,11 +1007,15 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56795045790071"
+      ],
+      "is_new": true
     },
     {
-      "id": "15483152007543-57106012340599",
+      "id": "product-15483152007543",
       "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 13826",
       "variant_title": "112 | 13 mm",
       "price_eur": 949.0,
@@ -974,13 +1031,17 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57106012340599"
+      ],
+      "is_new": true
     },
     {
-      "id": "15491220767095-57148638953847",
+      "id": "product-15491220767095",
       "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3 m\u00b2 / Sky blue",
+      "variant_title": "Aramid CZ / 3 m\u00b2 / Sky blue / Aramid CZ / 3,5 m\u00b2 / Sky blue / Aramid CZ / 4 m\u00b2 / Sky blue (+16 more variants)",
       "price_eur": 959.0,
       "compare_at_price_eur": 1119.0,
       "discount_percent": 14.3,
@@ -994,77 +1055,33 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639281527",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3 m\u00b2 / Pink",
-      "price_eur": 959.0,
-      "compare_at_price_eur": 1119.0,
-      "discount_percent": 14.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 19,
+      "variant_ids": [
+        "57148638953847",
+        "57148638986615",
+        "57148639019383",
+        "57148639052151",
+        "57148639084919",
+        "57148639117687",
+        "57148639150455",
+        "57148639183223",
+        "57148639215991",
+        "57148639248759",
+        "57148639281527",
+        "57148639314295",
+        "57148639347063",
+        "57148639379831",
+        "57148639412599",
+        "57148639445367",
+        "57148639478135",
+        "57148639543671",
+        "57148639576439"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "14889530655095-54882535178615",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5,5 m\u00b2 / Sky blue",
-      "price_eur": 959.0,
-      "compare_at_price_eur": 1379.0,
-      "discount_percent": 30.5,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-DROID_SP-GONGWING-TB.png?v=1737476625",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530655095-54882535506295",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5,5 m\u00b2 / Pink",
-      "price_eur": 959.0,
-      "compare_at_price_eur": 1379.0,
-      "discount_percent": 30.5,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-DROID_SP-GONGWING-TB.png?v=1737476625",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491465871735-57149556687223",
+      "id": "product-15491465871735",
       "title": "Wing Droid SP Aramid CZ - Aramid CZ 5 m\u00b2 / Sky blue Second Hand 13959",
       "variant_title": "Aramid CZ / 5 m\u00b2 / Sky blue",
       "price_eur": 979.0,
@@ -1079,123 +1096,15 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623345527",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4 m\u00b2 / Sky blue",
-      "price_eur": 979.0,
-      "compare_at_price_eur": 1399.0,
-      "discount_percent": 30.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57149556687223"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "14889530818935-54893623116151",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4 m\u00b2 / Black",
-      "price_eur": 979.0,
-      "compare_at_price_eur": 1399.0,
-      "discount_percent": 30.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623574903",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4 m\u00b2 / PINK",
-      "price_eur": 979.0,
-      "compare_at_price_eur": 1399.0,
-      "discount_percent": 30.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148638986615",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3,5 m\u00b2 / Sky blue",
-      "price_eur": 989.0,
-      "compare_at_price_eur": 1159.0,
-      "discount_percent": 14.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639314295",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 3,5 m\u00b2 / Pink",
-      "price_eur": 989.0,
-      "compare_at_price_eur": 1159.0,
-      "discount_percent": 14.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15387255243127-56750159593847",
+      "id": "product-15387255243127",
       "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 12803",
       "variant_title": "112 | 13 mm",
       "price_eur": 995.0,
@@ -1212,11 +1121,15 @@
         "dropzone2026",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56750159593847"
+      ],
+      "is_new": true
     },
     {
-      "id": "15398740689271-56795044151671",
+      "id": "product-15398740689271",
       "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 12957",
       "variant_title": "112 | 13 mm",
       "price_eur": 995.0,
@@ -1232,259 +1145,15 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623378295",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4,5 m\u00b2 / Sky blue",
-      "price_eur": 1009.0,
-      "compare_at_price_eur": 1449.0,
-      "discount_percent": 30.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "56795044151671"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "14889530818935-54893623148919",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4,5 m\u00b2 / Black",
-      "price_eur": 1009.0,
-      "compare_at_price_eur": 1449.0,
-      "discount_percent": 30.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623607671",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4,5 m\u00b2 / PINK",
-      "price_eur": 1009.0,
-      "compare_at_price_eur": 1449.0,
-      "discount_percent": 30.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639019383",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4 m\u00b2 / Sky blue",
-      "price_eur": 1019.0,
-      "compare_at_price_eur": 1189.0,
-      "discount_percent": 14.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639347063",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4 m\u00b2 / Pink",
-      "price_eur": 1019.0,
-      "compare_at_price_eur": 1189.0,
-      "discount_percent": 14.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639052151",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4,5 m\u00b2 / Sky blue",
-      "price_eur": 1049.0,
-      "compare_at_price_eur": 1229.0,
-      "discount_percent": 14.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639379831",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 4,5 m\u00b2 / Pink",
-      "price_eur": 1049.0,
-      "compare_at_price_eur": 1229.0,
-      "discount_percent": 14.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623411063",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5 m\u00b2 / Sky blue",
-      "price_eur": 1049.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 30.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623181687",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5 m\u00b2 / Black",
-      "price_eur": 1049.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 30.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623640439",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5 m\u00b2 / PINK",
-      "price_eur": 1049.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 30.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "14889530818935-54893623673207",
-      "title": "GONG | Wing Pulse Race Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5,5 m\u00b2 / PINK",
-      "price_eur": 1079.0,
-      "compare_at_price_eur": 1549.0,
-      "discount_percent": 30.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-race-aramid-cz-5",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-ARAMID_CZ-PLUSE_RACE-GONGWING-TB_5556bc27-c5f5-403e-b26a-ebc8f59a6299.png?v=1779782493",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15456407847287-57011866632567",
+      "id": "product-15456407847287",
       "title": "Wing Droid SP Aramid CZ - Aramid CZ 4,5 m\u00b2 / Pink Second Rate 13568",
       "variant_title": "Aramid CZ / 4,5 m\u00b2 / Pink",
       "price_eur": 1089.0,
@@ -1499,51 +1168,15 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639084919",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5 m\u00b2 / Sky blue",
-      "price_eur": 1089.0,
-      "compare_at_price_eur": 1279.0,
-      "discount_percent": 14.9,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
+      "updated_at": "2026-06-08T09:24:55+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57011866632567"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "15491220767095-57148639412599",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5 m\u00b2 / Pink",
-      "price_eur": 1089.0,
-      "compare_at_price_eur": 1279.0,
-      "discount_percent": 14.9,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15458055389559-57019387904375",
+      "id": "product-15458055389559",
       "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 13603",
       "variant_title": "112 | 13 mm",
       "price_eur": 1119.0,
@@ -1559,188 +1192,12 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-07T09:37:13+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639117687",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5,5 m\u00b2 / Sky blue",
-      "price_eur": 1129.0,
-      "compare_at_price_eur": 1319.0,
-      "discount_percent": 14.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
+      "updated_at": "2026-06-08T09:24:56+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57019387904375"
       ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639445367",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 5,5 m\u00b2 / Pink",
-      "price_eur": 1129.0,
-      "compare_at_price_eur": 1319.0,
-      "discount_percent": 14.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639150455",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 6 m\u00b2 / Sky blue",
-      "price_eur": 1159.0,
-      "compare_at_price_eur": 1359.0,
-      "discount_percent": 14.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639478135",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 6 m\u00b2 / Pink",
-      "price_eur": 1159.0,
-      "compare_at_price_eur": 1359.0,
-      "discount_percent": 14.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639183223",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 6,5 m\u00b2 / Sky blue",
-      "price_eur": 1189.0,
-      "compare_at_price_eur": 1399.0,
-      "discount_percent": 15.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639215991",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 7 m\u00b2 / Sky blue",
-      "price_eur": 1229.0,
-      "compare_at_price_eur": 1439.0,
-      "discount_percent": 14.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639543671",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 7 m\u00b2 / Pink",
-      "price_eur": 1229.0,
-      "compare_at_price_eur": 1439.0,
-      "discount_percent": 14.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639248759",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 7,5 m\u00b2 / Sky blue",
-      "price_eur": 1269.0,
-      "compare_at_price_eur": 1489.0,
-      "discount_percent": 14.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
-    },
-    {
-      "id": "15491220767095-57148639576439",
-      "title": "GONG | Wing Droid SP Aramid CZ - Second Choice",
-      "variant_title": "Aramid CZ / 7,5 m\u00b2 / Pink",
-      "price_eur": 1269.0,
-      "compare_at_price_eur": 1489.0,
-      "discount_percent": 14.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-sc",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/00-25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-GONGWING-TB.png?v=1780577810",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "",
-      "tags": [
-        "main_collection:occasions-wings",
-        "main_collection:wing-foil-wings"
-      ],
-      "updated_at": "2026-06-07T09:37:12+02:00",
-      "is_new": false
+      "is_new": true
     }
   ]
 }

@@ -263,6 +263,10 @@ export default function App() {
 
         {filtered.map((item) => {
           const netPrice = withoutFrenchVat(item.price_eur);
+          const hasStructuredVariants =
+            !!item.variant_base ||
+            (Array.isArray(item.variant_sizes) && item.variant_sizes.length > 0) ||
+            (Array.isArray(item.variant_colors) && item.variant_colors.length > 0);
 
           return (
             <article
@@ -293,7 +297,48 @@ export default function App() {
                 </div>
 
                 <h3 className="mt-2 text-lg leading-snug font-semibold">{item.title}</h3>
-                {item.variant_title && <p className="mt-1 text-sm text-zinc-700">{item.variant_title}</p>}
+                {hasStructuredVariants ? (
+                  <div className="mt-2 space-y-2">
+                    {item.variant_base && (
+                      <div className="flex flex-wrap items-center gap-1.5">
+                        <span className="font-mono text-[11px] text-zinc-500">Material</span>
+                        <span className="rounded-full bg-zinc-100 px-2 py-1 text-[11px] font-semibold text-zinc-800">
+                          {item.variant_base}
+                        </span>
+                      </div>
+                    )}
+
+                    {!!item.variant_sizes?.length && (
+                      <div className="flex flex-wrap items-center gap-1.5">
+                        <span className="font-mono text-[11px] text-zinc-500">Groessen</span>
+                        {item.variant_sizes.map((size) => (
+                          <span
+                            key={`${item.id}-size-${size}`}
+                            className="rounded-full bg-blue-500/10 px-2 py-1 text-[11px] font-semibold text-blue-800"
+                          >
+                            {size}
+                          </span>
+                        ))}
+                      </div>
+                    )}
+
+                    {!!item.variant_colors?.length && (
+                      <div className="flex flex-wrap items-center gap-1.5">
+                        <span className="font-mono text-[11px] text-zinc-500">Farben</span>
+                        {item.variant_colors.map((color) => (
+                          <span
+                            key={`${item.id}-color-${color}`}
+                            className="rounded-full bg-orange-500/10 px-2 py-1 text-[11px] font-semibold text-orange-800"
+                          >
+                            {color}
+                          </span>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                ) : (
+                  item.variant_title && <p className="mt-1 text-sm text-zinc-700">{item.variant_title}</p>
+                )}
                 {!!item.variant_count && item.variant_count > 1 && (
                   <p className="mt-1 text-xs font-mono text-zinc-500">Grouped product listing</p>
                 )}

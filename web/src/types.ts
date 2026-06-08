@@ -12,6 +12,9 @@ export type DashboardItem = {
   variant_title: string;
   variant_count?: number;
   variant_ids?: string[];
+  variant_base?: string;
+  variant_sizes?: string[];
+  variant_colors?: string[];
   price_eur: number | null;
   compare_at_price_eur: number | null;
   discount_percent: number | null;

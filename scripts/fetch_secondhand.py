@@ -105,6 +105,65 @@ def _summarize_variant_titles(variant_titles: list[str], max_titles: int = 3) ->
     return f"{preview} (+{remaining} more {suffix})"
 
 
+def _split_variant_tokens(title: str) -> list[str]:
+    raw = str(title or "").strip()
+    if not raw or raw.lower() == "default title":
+        return []
+    return [token.strip() for token in raw.split("/") if token and token.strip()]
+
+
+def _unique_preserve_order(values: list[str]) -> list[str]:
+    unique: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        normalized = value.strip()
+        if not normalized:
+            continue
+        key = normalized.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(normalized)
+    return unique
+
+
+def _common_prefix_tokens(token_lists: list[list[str]]) -> list[str]:
+    if not token_lists:
+        return []
+    prefix = token_lists[0][:]
+    for tokens in token_lists[1:]:
+        idx = 0
+        while idx < len(prefix) and idx < len(tokens) and prefix[idx].lower() == tokens[idx].lower():
+            idx += 1
+        prefix = prefix[:idx]
+        if not prefix:
+            break
+    return prefix
+
+
+def _build_variant_facets(variant_titles: list[str]) -> dict[str, Any]:
+    token_lists = [_split_variant_tokens(title) for title in variant_titles]
+    token_lists = [tokens for tokens in token_lists if tokens]
+    if not token_lists:
+        return {
+            "variant_base": "",
+            "variant_sizes": [],
+            "variant_colors": [],
+        }
+
+    prefix_tokens = _common_prefix_tokens(token_lists)
+    remainder_lists = [tokens[len(prefix_tokens):] for tokens in token_lists]
+
+    size_values = _unique_preserve_order([tokens[0] for tokens in remainder_lists if len(tokens) >= 1])
+    color_values = _unique_preserve_order([tokens[1] for tokens in remainder_lists if len(tokens) >= 2])
+
+    return {
+        "variant_base": " / ".join(prefix_tokens),
+        "variant_sizes": size_values,
+        "variant_colors": color_values,
+    }
+
+
 def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, Any]]:
     site_base = config.get("site_base_url", "https://www.gong-galaxy.com").rstrip("/")
     collections = config.get("collections", [])
@@ -163,7 +222,9 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
             discount = discount_percent(price_eur, compare_eur)
 
             title = product.get("title", "Untitled")
-            variant_title = _summarize_variant_titles([str(v.get("title", "")) for v in available_variants])
+            variant_titles = [str(v.get("title", "")) for v in available_variants]
+            variant_title = _summarize_variant_titles(variant_titles)
+            variant_facets = _build_variant_facets(variant_titles)
             tags = product.get("tags", [])
             item_id = f"product-{product_id}"
 
@@ -184,6 +245,9 @@ def build_items(config: dict[str, Any], seen_ids: set[str]) -> list[dict[str, An
                 "updated_at": product.get("updated_at"),
                 "variant_count": len(available_variants),
                 "variant_ids": variant_ids,
+                "variant_base": variant_facets["variant_base"],
+                "variant_sizes": variant_facets["variant_sizes"],
+                "variant_colors": variant_facets["variant_colors"],
                 "is_new": (item_id not in seen_ids) or any((f"variant-{variant_id}" not in seen_ids) for variant_id in variant_ids),
             }
             items.append(item)

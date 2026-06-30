@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T08:03:09.994651+00:00",
+  "generated_at": "2026-06-30T07:32:38.022896+00:00",
   "source": "gong-galaxy",
-  "total_items": 50,
+  "total_items": 42,
   "interests": [],
-  "new_items": 6,
+  "new_items": 0,
   "items": [
     {
       "id": "product-15505854464375",
@@ -22,7 +22,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57225207415159"
@@ -30,141 +30,7 @@
       "variant_base": "M",
       "variant_sizes": [],
       "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15505855283575",
-      "title": "Foil Stab Veloce H V3 - XL Second Hand 14273",
-      "variant_title": "XL",
-      "price_eur": 115.0,
-      "compare_at_price_eur": 179.0,
-      "discount_percent": 35.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-veloce-h-oc14273",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-STAB-VELOCE-H-M36-01_11822895-4ecd-4ef2-a4f7-7a95292c85a5.png?v=1782486450",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57225209348471"
-      ],
-      "variant_base": "XL",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15505854628215",
-      "title": "Foil Stab Ypra Surf-Freestyle V3 - S Second Hand 14271",
-      "variant_title": "S",
-      "price_eur": 119.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 29.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-surf-freestyle-oc14271",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-SURF_FREESTYLE-S-33-GONGFOIL-01_11b66e85-d1df-42cb-8cb1-0dddfc0ea8d1.png?v=1782486355",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57225207841143"
-      ],
-      "variant_base": "S",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15505854824823",
-      "title": "Foil Stab Fluid H V3 - L Second Hand 14272",
-      "variant_title": "L",
-      "price_eur": 125.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 26.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-fluid-h-oc14272",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-STAB-FLUID-H-M35-04-2_ac62186a-4e45-4655-8ffe-c3b3b0b62c00.jpg?v=1782486403",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57225208168823"
-      ],
-      "variant_base": "L",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15505855512951",
-      "title": "Foil Carbon Mast HM 92 cm V3 - 13 mm Second Hand 14274",
-      "variant_title": "13 mm",
-      "price_eur": 549.0,
-      "compare_at_price_eur": 849.0,
-      "discount_percent": 35.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-92-hm-oc14274",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-MASTS-HM-9220_13-01_629e9aa4-4c90-4926-821f-66a57c50577c.png?v=1782486482",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57225214722423"
-      ],
-      "variant_base": "13 mm",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15505855644023",
-      "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 14275",
-      "variant_title": "112 | 13 mm",
-      "price_eur": 899.0,
-      "compare_at_price_eur": 1499.0,
-      "discount_percent": 40.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-ypra-race-oc14275",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-MASTS-PRO_TEAM_SERIES-YPRA_RACE-GONFOIL-01_8ceb6ffb-3adb-48c9-84b2-c174449f9b1b.jpg?v=1782486506",
-      "collection": "Masts",
-      "item_type": "mast",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-mats"
-      ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57225215017335"
-      ],
-      "variant_base": "112 | 13 mm",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "product-9383215104319",
@@ -183,7 +49,7 @@
         "great-deals-over-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "48524377162047"
@@ -213,7 +79,7 @@
         "great-deals-50",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57193437790583"
@@ -244,7 +110,7 @@
         "great-deals-50",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128007532919"
@@ -271,7 +137,7 @@
         "great-deals-30",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56636581249399"
@@ -297,7 +163,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56924036596087"
@@ -323,7 +189,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56924054978935"
@@ -334,28 +200,27 @@
       "is_new": false
     },
     {
-      "id": "product-15502095843703",
-      "title": "Foil Stab Fluid H V3 - XL Second Hand 14216",
-      "variant_title": "XL",
+      "id": "product-15505854628215",
+      "title": "Foil Stab Ypra Surf-Freestyle V3 - S Second Hand 14271",
+      "variant_title": "S",
       "price_eur": 119.0,
       "compare_at_price_eur": 169.0,
       "discount_percent": 29.6,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-fluid-h-oc14216",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-STAB-FLUID-H-M35-04-2_fd97ea4c-ae6c-4082-bf77-5e503437f258.jpg?v=1782112405",
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-surf-freestyle-oc14271",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-SURF_FREESTYLE-S-33-GONGFOIL-01_11b66e85-d1df-42cb-8cb1-0dddfc0ea8d1.png?v=1782486355",
       "collection": "Stabs",
       "item_type": "stab",
       "product_type": "second_life",
       "tags": [
-        "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
-        "57207352459639"
+        "57225207841143"
       ],
-      "variant_base": "XL",
+      "variant_base": "S",
       "variant_sizes": [],
       "variant_colors": [],
       "is_new": false
@@ -376,7 +241,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57207350329719"
@@ -385,33 +250,6 @@
       "variant_sizes": [
         "XS"
       ],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15503702983031",
-      "title": "Foil Stab Fluid H V3 - XL Second Hand 14228",
-      "variant_title": "XL",
-      "price_eur": 125.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 26.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-fluid-h-oc14228",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-STAB-FLUID-H-M35-04-2_8ebf7f0f-1842-4bb0-8512-df3ef28cdd8b.jpg?v=1782285787",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-stabs"
-      ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57215705612663"
-      ],
-      "variant_base": "XL",
-      "variant_sizes": [],
       "variant_colors": [],
       "is_new": false
     },
@@ -432,7 +270,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57019388166519"
@@ -459,7 +297,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57157802033527"
@@ -486,7 +324,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128122286455"
@@ -514,7 +352,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:09+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56849428283767"
@@ -541,7 +379,7 @@
         "great-deals-20",
         "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-06-29T10:03:09+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "55918686699895"
@@ -571,7 +409,7 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-06-29T10:03:09+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57008221684087"
@@ -605,7 +443,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57220760568183"
@@ -634,7 +472,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57220758274423"
@@ -665,42 +503,12 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:09+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56853053735287"
       ],
       "variant_base": "4'4",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15503704621431",
-      "title": "Foil Front Wing Curve H V2 - 4XL Second Rate 14238",
-      "variant_title": "4XL",
-      "price_eur": 419.0,
-      "compare_at_price_eur": 649.0,
-      "discount_percent": 35.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-allvator-front-wing-curve-h-sc14238",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-23-FRONT_WING-145-4XL-CURVE_H-GONGFOIL-01_d0e769d2-b49e-48f4-af8b-b7c71c8c9d4a.png?v=1782286158",
-      "collection": "Front Wings",
-      "item_type": "front_wing",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "dropzone2026",
-        "great-deals-20",
-        "LONGSIZE",
-        "main_collection:occasions-frontwing"
-      ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57215711871351"
-      ],
-      "variant_base": "4XL",
       "variant_sizes": [],
       "variant_colors": [],
       "is_new": false
@@ -726,7 +534,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57195054236023"
@@ -758,7 +566,7 @@
         "OVERSIZE",
         "planche-rigides-wingfoil"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57220819583351"
@@ -788,7 +596,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57193491431799"
@@ -822,7 +630,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56859023638903"
@@ -856,7 +664,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56758691987831"
@@ -890,7 +698,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "55979856822647"
@@ -922,7 +730,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56848809492855"
@@ -950,7 +758,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56849502011767"
@@ -978,7 +786,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57220365222263"
@@ -1009,43 +817,13 @@
         "great-deals-40",
         "main_collection:occasions-planche-supfoil"
       ],
-      "updated_at": "2026-06-29T10:03:09+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "55982174372215"
       ],
       "variant_base": "9'6",
       "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15504678388087",
-      "title": "Wing Foil Board Mint FSP 2X - FSP 2X 5'4 Refurbished 14257",
-      "variant_title": "FSP 2X / 5'4",
-      "price_eur": 639.0,
-      "compare_at_price_eur": 849.0,
-      "discount_percent": 24.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-mint-fsp-2x-26-rc14257",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_2X-MINT-5_0-GONGWING-01_1a4fdcf4-60e2-4766-a566-4aeeef722dd8.png?v=1782381221",
-      "collection": "Rigid Wingboards",
-      "item_type": "rigid_board",
-      "product_type": "second_life",
-      "tags": [
-        "board_rigide",
-        "main_collection:occasions-planches-rigides-wingboard",
-        "OVERSIZE"
-      ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57220372103543"
-      ],
-      "variant_base": "FSP 2X",
-      "variant_sizes": [
-        "5'4"
-      ],
       "variant_colors": [],
       "is_new": false
     },
@@ -1067,7 +845,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56936385446263"
@@ -1100,7 +878,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57129087402359"
@@ -1130,7 +908,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57195054858615"
@@ -1160,7 +938,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57148521873783"
@@ -1189,7 +967,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56795045790071"
@@ -1217,7 +995,7 @@
         "dropzone2026",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56750159593847"
@@ -1247,7 +1025,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "54882535047543"
@@ -1278,7 +1056,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57106012340599"
@@ -1305,10 +1083,37 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56795044151671"
+      ],
+      "variant_base": "112 | 13 mm",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15505855644023",
+      "title": "Foil Mast Ypra Race 112 cm - 112 13 mm Second Hand 14275",
+      "variant_title": "112 | 13 mm",
+      "price_eur": 899.0,
+      "compare_at_price_eur": 1499.0,
+      "discount_percent": 40.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-mast-ypra-race-oc14275",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-MASTS-PRO_TEAM_SERIES-YPRA_RACE-GONFOIL-01_8ceb6ffb-3adb-48c9-84b2-c174449f9b1b.jpg?v=1782486506",
+      "collection": "Masts",
+      "item_type": "mast",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "main_collection:occasions-mats"
+      ],
+      "updated_at": "2026-06-30T09:32:37+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57225215017335"
       ],
       "variant_base": "112 | 13 mm",
       "variant_sizes": [],
@@ -1336,7 +1141,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 13,
       "variant_ids": [
         "54893623312759",
@@ -1385,7 +1190,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-06-29T10:03:08+02:00",
+      "updated_at": "2026-06-30T09:32:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57019387904375"
@@ -1412,7 +1217,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 19,
       "variant_ids": [
         "57148638953847",
@@ -1470,7 +1275,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
+      "updated_at": "2026-06-30T09:32:36+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57177855623543"
@@ -1478,36 +1283,6 @@
       "variant_base": "Aramid CZ",
       "variant_sizes": [
         "5,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Pink"
-      ],
-      "is_new": false
-    },
-    {
-      "id": "product-15456407847287",
-      "title": "Wing Droid SP Aramid CZ - Aramid CZ 4,5 m\u00b2 / Pink Second Rate 13568",
-      "variant_title": "Aramid CZ / 4,5 m\u00b2 / Pink",
-      "price_eur": 1089.0,
-      "compare_at_price_eur": 1309.0,
-      "discount_percent": 16.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26-sc13568",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-4_5-PINK-GONGWING-01_b961d81d-b2cf-4cc3-83b7-874dd8b7c79b.png?v=1776258514",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-06-29T10:03:07+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57011866632567"
-      ],
-      "variant_base": "Aramid CZ",
-      "variant_sizes": [
-        "4,5 m\u00b2"
       ],
       "variant_colors": [
         "Pink"

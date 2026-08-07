@@ -1,550 +1,129 @@
 {
-  "generated_at": "2026-08-06T07:03:49.345945+00:00",
+  "generated_at": "2026-08-07T06:31:24.491859+00:00",
   "source": "gong-galaxy",
-  "total_items": 58,
+  "total_items": 47,
   "interests": [],
-  "new_items": 17,
+  "new_items": 4,
   "items": [
     {
-      "id": "product-15523454484855",
-      "title": "Lowkite Plus - 4 m\u00b2 Yellow Second Hand 14644",
-      "variant_title": "4 m\u00b2 / Yellow",
-      "price_eur": 179.0,
-      "compare_at_price_eur": 399.0,
-      "discount_percent": 55.1,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-oc14644",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-PLUS-4-YELLOW-GONGLOWKITE-01_2d7f2f28-6f8b-4809-9852-a8a01940bdb3.jpg?v=1785938512",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "crm_lowkite",
-        "dropzone2026",
-        "great-deals-30",
-        "great-deals-40",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353340125559"
-      ],
-      "variant_base": "4 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523452158327",
-      "title": "Lowkite Plus - 5 m\u00b2 Yellow Second Hand 14635",
-      "variant_title": "5 m\u00b2 / Yellow",
-      "price_eur": 209.0,
-      "compare_at_price_eur": 439.0,
-      "discount_percent": 52.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-oc14635",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-PLUS-4-YELLOW-GONGLOWKITE-01_a37c1953-6424-4f26-84f2-77305a69fb33.jpg?v=1785938033",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "crm_lowkite",
-        "dropzone2026",
-        "great-deals-30",
-        "great-deals-40",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353329410423"
-      ],
-      "variant_base": "5 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523454746999",
-      "title": "Lowkite Plus - STW 18 3 m\u00b2 / Yellow Second Hand 14645",
-      "variant_title": "STW 18 / 3 m\u00b2 / Yellow",
-      "price_eur": 215.0,
-      "compare_at_price_eur": 369.0,
-      "discount_percent": 41.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-6-oc14645",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-LOWKITE-2026-PLUS-YELLOW-GONGLOWKITE-01_13348c71-deb2-434e-9786-37fe7a8cf0a5.jpg?v=1785938552",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353341895031"
-      ],
-      "variant_base": "STW 18",
-      "variant_sizes": [
-        "3 m\u00b2"
-      ],
-      "variant_colors": [
-        "Yellow"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15523455140215",
-      "title": "Lowkite Plus - 3 m\u00b2 Yellow Second Hand 14648",
-      "variant_title": "3 m\u00b2 / Yellow",
-      "price_eur": 225.0,
-      "compare_at_price_eur": 389.0,
-      "discount_percent": 42.2,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14648",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_d6742ef2-b1b9-4621-8e45-9aab5ea62b78.jpg?v=1785938649",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353345827191"
-      ],
-      "variant_base": "3 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523454878071",
-      "title": "Lowkite Plus - 3 m\u00b2 Yellow Second Hand 14646",
-      "variant_title": "3 m\u00b2 / Yellow",
-      "price_eur": 229.0,
-      "compare_at_price_eur": 389.0,
-      "discount_percent": 41.1,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14646",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_4a57a860-0088-4f6f-bb87-5b1ac724af95.jpg?v=1785938588",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353342845303"
-      ],
-      "variant_base": "3 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523455402359",
-      "title": "Lowkite Plus - STW 18 2 m\u00b2 / Pink Second Hand 14651",
-      "variant_title": "STW 18 / 2 m\u00b2 / Pink",
-      "price_eur": 239.0,
-      "compare_at_price_eur": 329.0,
-      "discount_percent": 27.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-6-oc14651",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-LOWKITE-2026-PLUS-PINK-GONGLOWKITE-01_55a658ab-bf02-4a34-a8d4-7b5ed385fc13.jpg?v=1785938731",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353346679159"
-      ],
-      "variant_base": "STW 18",
-      "variant_sizes": [
-        "2 m\u00b2"
-      ],
-      "variant_colors": [
-        "Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15523453075831",
-      "title": "Lowkite Plus - 4 m\u00b2 Yellow Second Hand 14639",
-      "variant_title": "4 m\u00b2 / Yellow",
-      "price_eur": 245.0,
-      "compare_at_price_eur": 429.0,
+      "id": "product-15523928310135",
+      "title": "Wing Foil Board Lance Wood 2X - 5'6 Second Rate 14667",
+      "variant_title": "5'6",
+      "price_eur": 399.0,
+      "compare_at_price_eur": 699.0,
       "discount_percent": 42.9,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14639",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_e3f65da3-8b3f-454a-837a-44f37dc603a2.jpg?v=1785938153",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-lance-wood-2x-5-sc14667",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-WING-WING_BOARD-WOOD_2X-LANCE-5_6-GONGWING-01_8913cbd4-66fd-4139-93aa-2cf7074246dd.png?v=1786019473",
+      "collection": "Rigid Wingboards",
+      "item_type": "rigid_board",
       "product_type": "second_life",
       "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353331540343"
-      ],
-      "variant_base": "4 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523318825335",
-      "title": "Lowkite Neutra - 3 m\u00b2 Black Second Hand 14633",
-      "variant_title": "3 m\u00b2 / Black",
-      "price_eur": 255.0,
-      "compare_at_price_eur": 469.0,
-      "discount_percent": 45.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-neutra-v2-oc14633",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-NEUTRA-BLACK-GONGLOWKITE-01_21b3ef86-c12c-4211-95f6-db1b40246288.jpg?v=1785921605",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57352630010231"
-      ],
-      "variant_base": "3 m\u00b2",
-      "variant_sizes": [
-        "Black"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523453206903",
-      "title": "Lowkite Plus - 4 m\u00b2 Yellow Second Hand 14640",
-      "variant_title": "4 m\u00b2 / Yellow",
-      "price_eur": 255.0,
-      "compare_at_price_eur": 429.0,
-      "discount_percent": 40.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14640",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_26ea30e9-dc14-48fd-9806-967c8ec615c2.jpg?v=1785938197",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353331802487"
-      ],
-      "variant_base": "4 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523454255479",
-      "title": "Lowkite Plus - 4 m\u00b2 Yellow Second Hand 14642",
-      "variant_title": "4 m\u00b2 / Yellow",
-      "price_eur": 255.0,
-      "compare_at_price_eur": 429.0,
-      "discount_percent": 40.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14642",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_52d27108-8f5c-4c33-a2bb-9fac2327d200.jpg?v=1785938448",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353334751607"
-      ],
-      "variant_base": "4 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523454419319",
-      "title": "Lowkite Plus - 4 m\u00b2 Yellow Second Hand 14643",
-      "variant_title": "4 m\u00b2 / Yellow",
-      "price_eur": 255.0,
-      "compare_at_price_eur": 429.0,
-      "discount_percent": 40.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14643",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_5fdaf02e-c8eb-4cf5-8904-30e3ba2ffc21.jpg?v=1785938475",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353335832951"
-      ],
-      "variant_base": "4 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523455009143",
-      "title": "Lowkite Plus - 3 m\u00b2 Yellow Second Hand 14647",
-      "variant_title": "3 m\u00b2 / Yellow",
-      "price_eur": 259.0,
-      "compare_at_price_eur": 389.0,
-      "discount_percent": 33.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14647",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_d62c567f-0f4b-45ab-ba2e-3ac444f4f2c9.jpg?v=1785938617",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353343893879"
-      ],
-      "variant_base": "3 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523455304055",
-      "title": "Lowkite Plus - STW 18 2,5 m\u00b2 / Sky Blue Second Hand 14650",
-      "variant_title": "STW 18 / 2,5 m\u00b2 / Sky Blue",
-      "price_eur": 259.0,
-      "compare_at_price_eur": 349.0,
-      "discount_percent": 25.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-6-oc14650",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-LOWKITE-2026-PLUS-SKYBLUE-GONGLOWKITE-01_e87bcefc-9a39-40e8-ae39-690f237cea88.jpg?v=1785938704",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353346515319"
-      ],
-      "variant_base": "STW 18",
-      "variant_sizes": [
-        "2,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Sky Blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15523318399351",
-      "title": "Lowkite Neutra - 4 m\u00b2 Pink Second Hand 14630",
-      "variant_title": "4 m\u00b2 / Pink",
-      "price_eur": 275.0,
-      "compare_at_price_eur": 509.0,
-      "discount_percent": 46.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-neutra-v2-oc14630",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-NEUTRA-PINK-GONGLOWKITE-01_cd94aea2-d325-477f-a76e-4b965a293dfd.jpg?v=1785921519",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57352629223799"
-      ],
-      "variant_base": "4 m\u00b2",
-      "variant_sizes": [
-        "Pink"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523452322167",
-      "title": "Lowkite Plus - 5 m\u00b2 Yellow Second Hand 14636",
-      "variant_title": "5 m\u00b2 / Yellow",
-      "price_eur": 275.0,
-      "compare_at_price_eur": 469.0,
-      "discount_percent": 41.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14636",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_0b099f86-8ba1-42df-bd74-d24495d7699a.jpg?v=1785938066",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353329738103"
-      ],
-      "variant_base": "5 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523452649847",
-      "title": "Lowkite Plus - 5 m\u00b2 Yellow Second Hand 14637",
-      "variant_title": "5 m\u00b2 / Yellow",
-      "price_eur": 319.0,
-      "compare_at_price_eur": 469.0,
-      "discount_percent": 32.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14637",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_e0bcbbd6-2f14-44df-a2ea-c3f3dc4d81fb.jpg?v=1785938092",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "great-deals-20",
-        "main_ collection:lowkite-lowkites",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353330590071"
-      ],
-      "variant_base": "5 m\u00b2",
-      "variant_sizes": [
-        "Yellow"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15523451830647",
-      "title": "Lowkite Droid - 5 m\u00b2 White Second Hand 14634",
-      "variant_title": "5 m\u00b2 / White",
-      "price_eur": 479.0,
-      "compare_at_price_eur": 599.0,
-      "discount_percent": 20.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-droid-oc14634",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-DROID-5-WHITE-GONGLOWKITE-01_17be9170-b96b-4055-bb1a-7734514eb17d.jpg?v=1785937959",
-      "collection": "Lowkites",
-      "item_type": "lowkite",
-      "product_type": "second_life",
-      "tags": [
-        "crm_lowkite",
-        "main_ collection:lowkite-lowkite",
-        "main_collection:occasions-lowkite"
-      ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57353324233079"
-      ],
-      "variant_base": "5 m\u00b2",
-      "variant_sizes": [
-        "White"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15355493187959",
-      "title": "Foil Stab Ypra Freestyle V3 - XS Second Hand 12681",
-      "variant_title": "XS",
-      "price_eur": 99.0,
-      "compare_at_price_eur": 169.0,
-      "discount_percent": 41.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-ypra-freestyle-oc12681",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-STAB-V3-FREESTYLE-XS-30-GONGFOIL-01_549ab249-53b9-49e7-82db-ae6bf1dfacee.png?v=1769780392",
-      "collection": "Stabs",
-      "item_type": "stab",
-      "product_type": "second_life",
-      "tags": [
+        "board_rigide",
+        "crm_wingdebutant",
+        "dropzone2026",
         "great-deals-30",
-        "main_collection:occasions-stabs"
+        "main_collection:occasions-planches-rigides-wingboard",
+        "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:46+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
-        "56636581249399"
+        "57355198955895"
       ],
-      "variant_base": "XS",
+      "variant_base": "5'6",
       "variant_sizes": [],
       "variant_colors": [],
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "product-15523688513911",
+      "title": "Wing Foil Board Lance WOOD 2X - WOOD 2X 5'7 Second Hand 14655",
+      "variant_title": "WOOD 2X / 5'7",
+      "price_eur": 499.0,
+      "compare_at_price_eur": 699.0,
+      "discount_percent": 28.6,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-lance-wood-2x-26-oc14655",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-WOOD_2X-LANCE-5_7-GONGWING-01_1ede040f-e487-4c78-8cc0-56043c79ed49.png?v=1786010286",
+      "collection": "Rigid Wingboards",
+      "item_type": "rigid_board",
+      "product_type": "second_life",
+      "tags": [
+        "board_rigide",
+        "main_collection:occasions-planches-rigides-wingboard",
+        "OVERSIZE"
+      ],
+      "updated_at": "2026-08-07T08:31:22+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57354595762551"
+      ],
+      "variant_base": "WOOD 2X",
+      "variant_sizes": [
+        "5'7"
+      ],
+      "variant_colors": [],
+      "is_new": true
+    },
+    {
+      "id": "product-15523687760247",
+      "title": "SUP Foil Board NOTW EPS Pro - 8'0 Second Hand 14653",
+      "variant_title": "8'0",
+      "price_eur": 519.0,
+      "compare_at_price_eur": 949.0,
+      "discount_percent": 45.3,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-supfoil-dw-board-notw-oc14653",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-SUP-SUP_FOIL_DW-EPS_PRO_DW-NOTW-8_3-GONGSUP-01_10913148-233d-4e5b-bb48-15ff60fe24ca.png?v=1786010131",
+      "collection": "SUP Foil Boards",
+      "item_type": "sup_foil_board",
+      "product_type": "second_life",
+      "tags": [
+        "board_rigide",
+        "crm_surfoil",
+        "main_collection:occasions-planche-supfoil",
+        "OVERSIZE"
+      ],
+      "updated_at": "2026-08-07T08:31:24+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57354593075575"
+      ],
+      "variant_base": "8'0",
+      "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": true
+    },
+    {
+      "id": "product-15523689955703",
+      "title": "Wing Foil Board Mint FSP 2X - FSP 2X 5'6 Second Rate 14656",
+      "variant_title": "FSP 2X / 5'6",
+      "price_eur": 719.0,
+      "compare_at_price_eur": 849.0,
+      "discount_percent": 15.3,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-mint-fsp-2x-26-sc14656",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_2X-MINT-5_0-GONGWING-01_7f977cdf-903d-4e4d-b16a-ef8b8200e7ff.png?v=1786010665",
+      "collection": "Rigid Wingboards",
+      "item_type": "rigid_board",
+      "product_type": "second_life",
+      "tags": [
+        "board_rigide",
+        "main_collection:occasions-planches-rigides-wingboard",
+        "OVERSIZE"
+      ],
+      "updated_at": "2026-08-07T08:31:22+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57354607231351"
+      ],
+      "variant_base": "FSP 2X",
+      "variant_sizes": [
+        "5'6"
+      ],
+      "variant_colors": [],
+      "is_new": true
     },
     {
       "id": "product-15427367272823",
@@ -562,7 +141,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-08-06T09:03:46+02:00",
+      "updated_at": "2026-08-07T08:31:23+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56924036596087"
@@ -588,7 +167,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-08-06T09:03:46+02:00",
+      "updated_at": "2026-08-07T08:31:23+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56924054978935"
@@ -615,13 +194,73 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57157802033527"
       ],
       "variant_base": "3XS",
       "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15523455140215",
+      "title": "Lowkite Plus - 3 m\u00b2 Yellow Second Hand 14648",
+      "variant_title": "3 m\u00b2 / Yellow",
+      "price_eur": 225.0,
+      "compare_at_price_eur": 389.0,
+      "discount_percent": 42.2,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14648",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_d6742ef2-b1b9-4621-8e45-9aab5ea62b78.jpg?v=1785938649",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "great-deals-20",
+        "main_ collection:lowkite-lowkites",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-08-07T08:31:23+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57353345827191"
+      ],
+      "variant_base": "3 m\u00b2",
+      "variant_sizes": [
+        "Yellow"
+      ],
+      "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15523454878071",
+      "title": "Lowkite Plus - 3 m\u00b2 Yellow Second Hand 14646",
+      "variant_title": "3 m\u00b2 / Yellow",
+      "price_eur": 229.0,
+      "compare_at_price_eur": 389.0,
+      "discount_percent": 41.1,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14646",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_4a57a860-0088-4f6f-bb87-5b1ac724af95.jpg?v=1785938588",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "great-deals-20",
+        "main_ collection:lowkite-lowkites",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-08-07T08:31:23+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57353342845303"
+      ],
+      "variant_base": "3 m\u00b2",
+      "variant_sizes": [
+        "Yellow"
+      ],
       "variant_colors": [],
       "is_new": false
     },
@@ -643,7 +282,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
+      "updated_at": "2026-08-07T08:31:23+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56849428283767"
@@ -670,7 +309,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57128122286455"
@@ -696,7 +335,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57298900550007"
@@ -722,13 +361,103 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57266862096759"
       ],
       "variant_base": "XXS",
       "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15523453206903",
+      "title": "Lowkite Plus - 4 m\u00b2 Yellow Second Hand 14640",
+      "variant_title": "4 m\u00b2 / Yellow",
+      "price_eur": 255.0,
+      "compare_at_price_eur": 429.0,
+      "discount_percent": 40.6,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14640",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_26ea30e9-dc14-48fd-9806-967c8ec615c2.jpg?v=1785938197",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "great-deals-20",
+        "main_ collection:lowkite-lowkites",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-08-07T08:31:23+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57353331802487"
+      ],
+      "variant_base": "4 m\u00b2",
+      "variant_sizes": [
+        "Yellow"
+      ],
+      "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15523454255479",
+      "title": "Lowkite Plus - 4 m\u00b2 Yellow Second Hand 14642",
+      "variant_title": "4 m\u00b2 / Yellow",
+      "price_eur": 255.0,
+      "compare_at_price_eur": 429.0,
+      "discount_percent": 40.6,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14642",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_52d27108-8f5c-4c33-a2bb-9fac2327d200.jpg?v=1785938448",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "great-deals-20",
+        "main_ collection:lowkite-lowkites",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-08-07T08:31:23+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57353334751607"
+      ],
+      "variant_base": "4 m\u00b2",
+      "variant_sizes": [
+        "Yellow"
+      ],
+      "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15523454419319",
+      "title": "Lowkite Plus - 4 m\u00b2 Yellow Second Hand 14643",
+      "variant_title": "4 m\u00b2 / Yellow",
+      "price_eur": 255.0,
+      "compare_at_price_eur": 429.0,
+      "discount_percent": 40.6,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14643",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_5fdaf02e-c8eb-4cf5-8904-30e3ba2ffc21.jpg?v=1785938475",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "great-deals-20",
+        "main_ collection:lowkite-lowkites",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-08-07T08:31:23+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57353335832951"
+      ],
+      "variant_base": "4 m\u00b2",
+      "variant_sizes": [
+        "Yellow"
+      ],
       "variant_colors": [],
       "is_new": false
     },
@@ -748,7 +477,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57249358184823"
@@ -759,6 +488,66 @@
       ],
       "variant_colors": [
         "Black"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15523455009143",
+      "title": "Lowkite Plus - 3 m\u00b2 Yellow Second Hand 14647",
+      "variant_title": "3 m\u00b2 / Yellow",
+      "price_eur": 259.0,
+      "compare_at_price_eur": 389.0,
+      "discount_percent": 33.4,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-v2-oc14647",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-V2-PLUS-GONGLOWKITE-02_d62c567f-0f4b-45ab-ba2e-3ac444f4f2c9.jpg?v=1785938617",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "great-deals-20",
+        "main_ collection:lowkite-lowkites",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-08-07T08:31:23+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57353343893879"
+      ],
+      "variant_base": "3 m\u00b2",
+      "variant_sizes": [
+        "Yellow"
+      ],
+      "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15523455304055",
+      "title": "Lowkite Plus - STW 18 2,5 m\u00b2 / Sky Blue Second Hand 14650",
+      "variant_title": "STW 18 / 2,5 m\u00b2 / Sky Blue",
+      "price_eur": 259.0,
+      "compare_at_price_eur": 349.0,
+      "discount_percent": 25.8,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-plus-6-oc14650",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-LOWKITE-2026-PLUS-SKYBLUE-GONGLOWKITE-01_e87bcefc-9a39-40e8-ae39-690f237cea88.jpg?v=1785938704",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-08-07T08:31:23+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57353346515319"
+      ],
+      "variant_base": "STW 18",
+      "variant_sizes": [
+        "2,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Sky Blue"
       ],
       "is_new": false
     },
@@ -778,39 +567,12 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57266840207735"
       ],
       "variant_base": "XXS",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15522934784375",
-      "title": "Foil Front Wing Veloce H V3 - L Second Hand 14597",
-      "variant_title": "L",
-      "price_eur": 299.0,
-      "compare_at_price_eur": 499.0,
-      "discount_percent": 40.1,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-front-wing-veloce-h-oc14597",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-FRONT_WING-VELOCE_H-M95-01_12c41a17-821e-4cd5-8795-c8439b5bf1ec.png?v=1785836246",
-      "collection": "Front Wings",
-      "item_type": "front_wing",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-frontwing"
-      ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57351240909175"
-      ],
-      "variant_base": "L",
       "variant_sizes": [],
       "variant_colors": [],
       "is_new": false
@@ -832,7 +594,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57351250542967"
@@ -840,37 +602,6 @@
       "variant_base": "M",
       "variant_sizes": [],
       "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15511300342135",
-      "title": "Foil Front Wing Ypra Race V3 - Carbon HM 430 cm\u00b2 / Black Second Hand 14334",
-      "variant_title": "Carbon HM / 430 cm\u00b2 / Black",
-      "price_eur": 429.0,
-      "compare_at_price_eur": 729.0,
-      "discount_percent": 41.2,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-foil-front-wing-ypra-race-oc14334",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-FOIL-FRONT_WING-YPRA_RACE-V3-GONGFOIL-01_230d1ae1-5261-4a8a-8524-749f7b2c4c33.jpg?v=1783410183",
-      "collection": "Front Wings",
-      "item_type": "front_wing",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingexpert",
-        "main_collection:occasions-frontwing"
-      ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57266847973751"
-      ],
-      "variant_base": "Carbon HM",
-      "variant_sizes": [
-        "430 cm\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
       "is_new": false
     },
     {
@@ -894,7 +625,7 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:48+02:00",
+      "updated_at": "2026-08-07T08:31:24+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57289291891063"
@@ -925,13 +656,43 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:48+02:00",
+      "updated_at": "2026-08-07T08:31:24+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57343313772919"
       ],
       "variant_base": "9'0",
       "variant_sizes": [],
+      "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15523451830647",
+      "title": "Lowkite Droid - 5 m\u00b2 White Second Hand 14634",
+      "variant_title": "5 m\u00b2 / White",
+      "price_eur": 479.0,
+      "compare_at_price_eur": 599.0,
+      "discount_percent": 20.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-lowkite-droid-oc14634",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-LOWKITE-DROID-5-WHITE-GONGLOWKITE-01_17be9170-b96b-4055-bb1a-7734514eb17d.jpg?v=1785937959",
+      "collection": "Lowkites",
+      "item_type": "lowkite",
+      "product_type": "second_life",
+      "tags": [
+        "crm_lowkite",
+        "main_ collection:lowkite-lowkite",
+        "main_collection:occasions-lowkite"
+      ],
+      "updated_at": "2026-08-07T08:31:23+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57353324233079"
+      ],
+      "variant_base": "5 m\u00b2",
+      "variant_sizes": [
+        "White"
+      ],
       "variant_colors": [],
       "is_new": false
     },
@@ -951,7 +712,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57352557396343"
@@ -959,36 +720,6 @@
       "variant_base": "Dacron",
       "variant_sizes": [
         "3 m\u00b2"
-      ],
-      "variant_colors": [
-        "Saphir"
-      ],
-      "is_new": false
-    },
-    {
-      "id": "product-15523302965623",
-      "title": "Wing Droid Boom - Dacron 4,5 m\u00b2 / Saphir Second Hand 14621",
-      "variant_title": "Dacron / 4,5 m\u00b2 / Saphir",
-      "price_eur": 499.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 27.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-boom-26nhnb-oc14621",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-DROID_BOOM-4_5-SAPHIR-GONGWING-NHNB-01_ef9146a0-7e19-4a84-8a67-174b727c5576.png?v=1785918149",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57352561754487"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "4,5 m\u00b2"
       ],
       "variant_colors": [
         "Saphir"
@@ -1015,7 +746,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57193491431799"
@@ -1049,7 +780,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56859023638903"
@@ -1083,7 +814,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56758691987831"
@@ -1115,7 +846,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56848809492855"
@@ -1143,7 +874,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56849502011767"
@@ -1169,7 +900,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57352556773751"
@@ -1201,7 +932,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:47+02:00",
+      "updated_at": "2026-08-07T08:31:23+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57318942376311"
@@ -1234,7 +965,7 @@
         "great-deals-40",
         "main_collection:occasions-planche-supfoil"
       ],
-      "updated_at": "2026-08-06T09:03:48+02:00",
+      "updated_at": "2026-08-07T08:31:24+02:00",
       "variant_count": 1,
       "variant_ids": [
         "55982174372215"
@@ -1262,7 +993,7 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:48+02:00",
+      "updated_at": "2026-08-07T08:31:24+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57344127369591"
@@ -1294,38 +1025,10 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:48+02:00",
+      "updated_at": "2026-08-07T08:31:24+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57344149782903"
-      ],
-      "variant_base": "8'8",
-      "variant_sizes": [],
-      "variant_colors": [],
-      "is_new": false
-    },
-    {
-      "id": "product-15508985086327",
-      "title": "SUP Foil Board Fner EPS Pro - 8'8 Second Hand 14311",
-      "variant_title": "8'8",
-      "price_eur": 699.0,
-      "compare_at_price_eur": 999.0,
-      "discount_percent": 30.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-supfoil-dw-board-fner-oc14311",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-SUP_FOIL-DW-EPS_PRO-FNER-GONGSUPFOI-01_ebd33ca7-5e2f-4ec4-9260-19e7bca53b0a.jpg?v=1782993843",
-      "collection": "SUP Foil Boards",
-      "item_type": "sup_foil_board",
-      "product_type": "second_life",
-      "tags": [
-        "board_rigide",
-        "main_collection:occasions-planche-supfoil",
-        "OVERSIZE"
-      ],
-      "updated_at": "2026-08-06T09:03:48+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57255135117687"
       ],
       "variant_base": "8'8",
       "variant_sizes": [],
@@ -1350,7 +1053,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-08-06T09:03:45+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57289617506679"
@@ -1378,7 +1081,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57352561459575"
@@ -1389,38 +1092,6 @@
       ],
       "variant_colors": [
         "Pink"
-      ],
-      "is_new": false
-    },
-    {
-      "id": "product-15521738195319",
-      "title": "SUP Foil Board Sner EPS Pro - EPS PRO 7'0 / White Second Hand 14581",
-      "variant_title": "EPS PRO / 7'0 / White",
-      "price_eur": 779.0,
-      "compare_at_price_eur": 1049.0,
-      "discount_percent": 25.7,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-supfoil-board-sner-eps-pro-oc14581",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-SUP_FOIL_DW-EPS_PRO_DW-SNER-GONGSUPFOIL-01_07bc5d36-7e71-4805-a275-4fe62402d98a.jpg?v=1785483341",
-      "collection": "SUP Foil Boards",
-      "item_type": "sup_foil_board",
-      "product_type": "second_life",
-      "tags": [
-        "board_rigide",
-        "main_collection:occasions-planche-supfoil",
-        "OVERSIZE"
-      ],
-      "updated_at": "2026-08-06T09:03:48+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57344149979511"
-      ],
-      "variant_base": "EPS PRO",
-      "variant_sizes": [
-        "7'0"
-      ],
-      "variant_colors": [
-        "White"
       ],
       "is_new": false
     },
@@ -1440,7 +1111,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57352561656183"
@@ -1472,7 +1143,7 @@
         "dropzone2026",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-08-06T09:03:46+02:00",
+      "updated_at": "2026-08-07T08:31:23+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56750159593847"
@@ -1502,7 +1173,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "54882535047543"
@@ -1533,7 +1204,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-08-06T09:03:46+02:00",
+      "updated_at": "2026-08-07T08:31:23+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57106012340599"
@@ -1560,7 +1231,7 @@
         "crm_wingexpert",
         "main_collection:occasions-mats"
       ],
-      "updated_at": "2026-08-06T09:03:46+02:00",
+      "updated_at": "2026-08-07T08:31:23+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56795044151671"
@@ -1591,7 +1262,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 12,
       "variant_ids": [
         "54893623312759",
@@ -1638,7 +1309,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 18,
       "variant_ids": [
         "57148638953847",
@@ -1695,7 +1366,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57352569225591"
@@ -1725,7 +1396,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57352568963447"
@@ -1755,7 +1426,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-08-06T09:03:44+02:00",
+      "updated_at": "2026-08-07T08:31:22+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57352568504695"

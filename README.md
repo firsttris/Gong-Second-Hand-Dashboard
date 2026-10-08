@@ -119,3 +119,14 @@ Edit `config/preferences.json`.
 
 - Add more `collections` entries.
 - Adjust `include_keywords`, `exclude_keywords`, and `max_price_eur`.
+
+---
+
+<div align="center">
+
+⭐ Like the Gong Second Hand Dashboard? A [star on GitHub](https://github.com/firsttris/Gong-Second-Hand-Dashboard) helps others find it.<br>
+🐛 [Report a bug](https://github.com/firsttris/Gong-Second-Hand-Dashboard/issues/new) · 💡 [Request a feature](https://github.com/firsttris/Gong-Second-Hand-Dashboard/issues/new)
+
+<sub>License: <a href="LICENSE">MIT</a> · © Tristan Teufel and contributors</sub>
+
+</div>

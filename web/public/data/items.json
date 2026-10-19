@@ -1,10 +1,71 @@
 {
-  "generated_at": "2026-10-18T10:48:46.459189+00:00",
+  "generated_at": "2026-10-19T12:49:41.380256+00:00",
   "source": "gong-galaxy",
-  "total_items": 72,
+  "total_items": 74,
   "interests": [],
-  "new_items": 0,
+  "new_items": 2,
   "items": [
+    {
+      "id": "product-15573872542071",
+      "title": "Wing Droid Aramid X - 4,5 m\u00b2 WHITE / GREEN Second Hand 15379",
+      "variant_title": "4,5 m\u00b2 / WHITE / GREEN",
+      "price_eur": 379.0,
+      "compare_at_price_eur": 959.0,
+      "discount_percent": 60.5,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-oc15379",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-TEAM_SERIES-ARAMID_X-DROID-GREEN-5M-GONGWING-01_926e068d-8fef-4701-865b-c96650685cd9.png?v=1755175625",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-10-19T14:49:37+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57544841068919"
+      ],
+      "variant_base": "4,5 m\u00b2",
+      "variant_sizes": [
+        "WHITE"
+      ],
+      "variant_colors": [
+        "GREEN"
+      ],
+      "is_new": true
+    },
+    {
+      "id": "product-15573826339191",
+      "title": "Wing Droid Aramid - Aramid 4 m\u00b2 / Pink Second Hand 15348",
+      "variant_title": "Aramid / 4 m\u00b2 / Pink",
+      "price_eur": 449.0,
+      "compare_at_price_eur": 819.0,
+      "discount_percent": 45.2,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-26nhnb-oc15348",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-TEAM_SERIES-2026-ARAMID-DROID-4_5-PINK-GONGWING-NHNB-01_9ac5a6b2-1dc4-4fef-8386-697b9d7bc87b.png?v=1769532341",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-10-19T14:49:37+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57544357052791"
+      ],
+      "variant_base": "Aramid",
+      "variant_sizes": [
+        "4 m\u00b2"
+      ],
+      "variant_colors": [
+        "Pink"
+      ],
+      "is_new": true
+    },
     {
       "id": "product-15573949841783",
       "title": "Foil Tail Wing Fluid H V3 - L Second Hand 15405",
@@ -21,7 +82,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57545071362423"
@@ -48,7 +109,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519979954551"
@@ -75,7 +136,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519988506999"
@@ -101,7 +162,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57486728200567"
@@ -113,6 +174,33 @@
       "variant_colors": [
         "Black"
       ],
+      "is_new": false
+    },
+    {
+      "id": "product-15566948991351",
+      "title": "Foil Stab Curve H V3 - M Second Hand 15307",
+      "variant_title": "M",
+      "price_eur": 105.0,
+      "compare_at_price_eur": 169.0,
+      "discount_percent": 37.9,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-foil-stab-curve-h-oc15307",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-24-STAB-CURVE-H-M39-04-2_0e2a8de5-6cd6-4eef-be5d-48da07eb35cf.jpg?v=1783104412",
+      "collection": "Stabs",
+      "item_type": "stab",
+      "product_type": "second_life",
+      "tags": [
+        "crm_wingexpert",
+        "main_collection:occasions-stabs"
+      ],
+      "updated_at": "2026-10-19T14:49:39+02:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57513605136759"
+      ],
+      "variant_base": "M",
+      "variant_sizes": [],
+      "variant_colors": [],
       "is_new": false
     },
     {
@@ -132,7 +220,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57442470625655"
@@ -159,7 +247,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519927132535"
@@ -188,7 +276,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519934079351"
@@ -217,7 +305,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519945974135"
@@ -246,7 +334,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519866544503"
@@ -274,7 +362,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57529800425847"
@@ -303,7 +391,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519860908407"
@@ -332,7 +420,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57529677611383"
@@ -358,7 +446,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57545071198583"
@@ -389,7 +477,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519850717559"
@@ -416,7 +504,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519844426103"
@@ -443,7 +531,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519831843191"
@@ -469,7 +557,7 @@
       "tags": [
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:39+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57529792659831"
@@ -498,7 +586,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57517158170999"
@@ -525,7 +613,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519586476407"
@@ -551,7 +639,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57517223575927"
@@ -578,7 +666,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519601582455"
@@ -605,7 +693,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519611806071"
@@ -636,7 +724,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57435781562743"
@@ -663,7 +751,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57517154009463"
@@ -689,7 +777,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57517167772023"
@@ -719,7 +807,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57430575743351"
@@ -747,7 +835,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57435780678007"
@@ -783,7 +871,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57531715486071"
@@ -809,7 +897,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57545074213239"
@@ -841,7 +929,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57511908671863"
@@ -874,7 +962,7 @@
         "great-deals-30",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57544369799543"
@@ -903,7 +991,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57517093650807"
@@ -934,7 +1022,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57529782927735"
@@ -966,7 +1054,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57511896875383"
@@ -998,7 +1086,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57373707338103"
@@ -1029,7 +1117,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519822274935"
@@ -1060,7 +1148,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57517123928439"
@@ -1091,7 +1179,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519815590263"
@@ -1123,7 +1211,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57531723088247"
@@ -1154,7 +1242,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519531983223"
@@ -1185,7 +1273,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519525134711"
@@ -1219,7 +1307,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "56859023638903"
@@ -1251,7 +1339,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57560845517175"
@@ -1282,7 +1370,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519807005047"
@@ -1316,7 +1404,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57545066905975"
@@ -1343,7 +1431,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519798255991"
@@ -1375,7 +1463,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57560815894903"
@@ -1404,7 +1492,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57519721316727"
@@ -1436,7 +1524,7 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57353324233079"
@@ -1466,7 +1554,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57486758871415"
@@ -1496,7 +1584,7 @@
       "tags": [
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57544379498871"
@@ -1528,7 +1616,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57560855413111"
@@ -1560,7 +1648,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57411785818487"
@@ -1572,36 +1660,6 @@
       "variant_colors": [
         "Sky blue"
       ],
-      "is_new": false
-    },
-    {
-      "id": "product-15576326472055",
-      "title": "Wing Foil Board Cruzader Diamond FSP Pro - FSP PRO 5'4 Second Hand 15541",
-      "variant_title": "FSP PRO / 5'4",
-      "price_eur": 549.0,
-      "compare_at_price_eur": 999.0,
-      "discount_percent": 45.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-foil-board-cruzader-diamond-fsp-pro-26-oc15541",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING_BOARD-2026-FSP_PRO-DIAMOND-5_6-GONGWING-01_1344fd2a-944a-4bf4-b2cf-50ce97e5ea17.png?v=1791817129",
-      "collection": "Rigid Wingboards",
-      "item_type": "rigid_board",
-      "product_type": "second_life",
-      "tags": [
-        "board_rigide",
-        "main_collection:occasions-planches-rigides-wingboard",
-        "OVERSIZE"
-      ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57560848040311"
-      ],
-      "variant_base": "FSP PRO",
-      "variant_sizes": [
-        "5'4"
-      ],
-      "variant_colors": [],
       "is_new": false
     },
     {
@@ -1622,7 +1680,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57318942376311"
@@ -1654,7 +1712,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57560830640503"
@@ -1685,7 +1743,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57430582788471"
@@ -1717,7 +1775,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57489028874615"
@@ -1747,7 +1805,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57560853807479"
@@ -1775,7 +1833,7 @@
       "tags": [
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57544380449143"
@@ -1808,7 +1866,7 @@
         "great-deals-40",
         "main_collection:occasions-planche-supfoil"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "55982174372215"
@@ -1836,7 +1894,7 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57448400847223"
@@ -1868,7 +1926,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57560854298999"
@@ -1898,7 +1956,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57511844544887"
@@ -1928,7 +1986,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57560852201847"
@@ -1958,7 +2016,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57488994140535"
@@ -1987,7 +2045,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-10-18T12:48:44+02:00",
+      "updated_at": "2026-10-19T14:49:38+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57140042957175"
@@ -2015,7 +2073,7 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-10-18T12:48:45+02:00",
+      "updated_at": "2026-10-19T14:49:40+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57448393245047"
@@ -2042,7 +2100,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:37+02:00",
       "variant_count": 10,
       "variant_ids": [
         "57148638953847",
@@ -2091,7 +2149,7 @@
         "great-deals-20",
         "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-10-18T12:48:46+02:00",
+      "updated_at": "2026-10-19T14:49:41+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57544338997623"
@@ -2121,7 +2179,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:37+02:00",
       "variant_count": 1,
       "variant_ids": [
         "57352568963447"
@@ -2156,7 +2214,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-10-18T12:48:43+02:00",
+      "updated_at": "2026-10-19T14:49:37+02:00",
       "variant_count": 11,
       "variant_ids": [
         "54893623312759",

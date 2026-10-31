@@ -1,0 +1,36 @@
+// Renovate (GitHub App, https://github.com/apps/renovate): a pull request for each new Node of the
+// Pages build, plus the "Dependency Dashboard" issue listing what is open.
+// Only that: the scraper needs nothing but requests (an open range in requirements.txt), the
+// dashboard is a small Vite app whose packages and the actions are not tracked here, and the Gong
+// collection feeds have no releases to follow. Node is pinned to one major in manual-pages.yml and
+// otherwise ages out unnoticed. Check with
+// `npx --package renovate renovate-config-validator .github/renovate.json5`.
+{
+  $schema: "https://docs.renovatebot.com/renovate-schema.json",
+  extends: ["config:recommended"],
+  enabledManagers: ["custom.regex"],
+  timezone: "Europe/Berlin",
+  labels: ["dependencies"],
+  automerge: false,
+  customManagers: [
+    {
+      // The Node that builds web/ in manual-pages.yml
+      customType: "regex",
+      managerFilePatterns: ["/^\\.github/workflows/[^/]+\\.ya?ml$/"],
+      matchStrings: ['node-version: "(?<currentValue>\\d+)"'],
+      depNameTemplate: "node",
+      datasourceTemplate: "node-version",
+      versioningTemplate: "node",
+    },
+  ],
+  packageRules: [
+    {
+      matchPackageNames: ["node"],
+      groupName: "Node",
+      sourceUrl: "https://github.com/nodejs/node",
+      prBodyNotes: [
+        "The PR's branch has no CI: before merging, run `cd web && npm ci && npm run build` with the new Node (Vite asks for a minimum, see `engines` in web/package.json). Do not start \"Manual Build And Deploy Dashboard\" on this branch: it deploys, notifies and commits data. After merging, its next run builds with the new Node.",
+      ],
+    },
+  ],
+}

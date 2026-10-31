@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Send SMTP test email
         if: env.SMTP_SERVER != '' && env.SMTP_PORT != '' && env.SMTP_USERNAME != '' && env.SMTP_PASSWORD != '' && env.EMAIL_FROM != '' && env.EMAIL_TO != ''
-        uses: dawidd6/action-send-mail@v3
+        uses: dawidd6/action-send-mail@v23
         with:
           server_address: ${{ env.SMTP_SERVER }}
           server_port: ${{ env.SMTP_PORT }}

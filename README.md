@@ -39,8 +39,8 @@ python scripts/fetch_secondhand.py \
 
 ```bash
 cd web
-npm install
-npm run dev
+bun install
+bun run dev
 ```
 
 ## Deploy to GitHub Pages

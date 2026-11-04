@@ -1,34 +1,25 @@
-// Renovate (GitHub App, https://github.com/apps/renovate): a pull request for each new Node of the
-// Pages build, plus the "Dependency Dashboard" issue listing what is open. Node is pinned to one
-// major in manual-pages.yml and otherwise ages out unnoticed.
+// Renovate (GitHub App, https://github.com/apps/renovate): a pull request for each new Bun of the
+// Pages build (packageManager in web/package.json), plus the "Dependency Dashboard" issue listing
+// what is open.
 // Everything else (the other packages, the actions, the images) comes with the shared settings of
 // firsttris/workflows (renovate/default.json5): minor and patch updates once a month in one pull
 // request that merges itself when CI is green, majors on request in the dashboard.
-// Check with `npx --package renovate renovate-config-validator .github/renovate.json5`.
+// Check with `bunx --package renovate renovate-config-validator .github/renovate.json5`.
 {
   $schema: "https://docs.renovatebot.com/renovate-schema.json",
   extends: ["github>firsttris/workflows//renovate/default.json5"],
   // Its pull requests run no CI, so nothing merges itself
   automerge: false,
   lockFileMaintenance: { automerge: false },
-  customManagers: [
-    {
-      // The Node that builds web/ in manual-pages.yml
-      customType: "regex",
-      managerFilePatterns: ["/^\\.github/workflows/[^/]+\\.ya?ml$/"],
-      matchStrings: ['node-version: "(?<currentValue>\\d+)"'],
-      depNameTemplate: "node",
-      datasourceTemplate: "node-version",
-      versioningTemplate: "node",
-    },
-  ],
   packageRules: [
     {
-      matchPackageNames: ["node"],
-      groupName: "Node",
-      sourceUrl: "https://github.com/nodejs/node",
+      // Bun: packageManager in web/package.json, which Renovate's npm manager reads as the
+      // dependency `bun`
+      matchPackageNames: ["bun", "oven/bun", "docker.io/oven/bun"],
+      groupName: "Bun",
+      sourceUrl: "https://github.com/oven-sh/bun",
       prBodyNotes: [
-        "The PR's branch has no CI: before merging, run `cd web && npm ci && npm run build` with the new Node (Vite asks for a minimum, see `engines` in web/package.json). Do not start \"Manual Build And Deploy Dashboard\" on this branch: it deploys, notifies and commits data. After merging, its next run builds with the new Node.",
+        "The PR's branch has no CI: before merging, run `cd web && bun install --frozen-lockfile && bun run build` with the new Bun (`packageManager` in web/package.json is the Bun that setup-bun installs in manual-pages.yml). Do not start \"Manual Build And Deploy Dashboard\" on this branch: it deploys, notifies and commits data. After merging, its next run builds with the new Bun.",
       ],
       schedule: ["at any time"],
       automerge: false,

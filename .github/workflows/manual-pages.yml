@@ -100,17 +100,18 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: refresh second hand data"
           git push || true
 
-      - name: Setup Node
-        uses: actions/setup-node@v7
+      # The Bun of packageManager in web/package.json
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          node-version: "26"
+          bun-version-file: web/package.json
 
       - name: Install frontend dependencies
-        run: npm install
+        run: bun install --frozen-lockfile
         working-directory: web
 
       - name: Build frontend
-        run: npm run build
+        run: bun run build
         working-directory: web
 
       - name: Setup Pages

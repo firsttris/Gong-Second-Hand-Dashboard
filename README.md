@@ -14,7 +14,7 @@ Small dashboard for Gong second-hand items, deployed to GitHub Pages.
 - `scripts/fetch_secondhand.py`: Python scraper and matcher.
 - `scripts/detect_new_items.py`: helper script that exports `new_items` and `has_new` for workflow steps.
 - `config/preferences.json`: your collections and interests.
-- `web/`: React + TypeScript dashboard (Vite); at build time the `react` imports run on [TanStack Redact](https://github.com/TanStack/redact), a smaller React 19 compatible runtime.
+- `web/`: React + TypeScript dashboard (Vite); a Vite plugin points the `react` imports to [TanStack Redact](https://github.com/TanStack/redact), a smaller React 19 compatible runtime.
 - `.github/workflows/manual-pages.yml`: manual GitHub Pages deployment.
 - `.github/workflows/email-test.yml`: manual SMTP test email workflow.
 

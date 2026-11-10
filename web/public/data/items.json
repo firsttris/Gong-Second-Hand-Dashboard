@@ -1,157 +1,35 @@
 {
-  "generated_at": "2026-11-09T15:54:26.405303+00:00",
+  "generated_at": "2026-11-10T14:42:24.769959+00:00",
   "source": "gong-galaxy",
-  "total_items": 117,
+  "total_items": 101,
   "interests": [],
-  "new_items": 35,
+  "new_items": 2,
   "items": [
     {
-      "id": "product-15604062486903",
-      "title": "Wing Neutra Boom - Dacron 4 m\u00b2 / Black Occasion 15795",
-      "variant_title": "Dacron / 4 m\u00b2 / Black",
-      "price_eur": 389.0,
-      "compare_at_price_eur": 649.0,
-      "discount_percent": 40.1,
+      "id": "product-15518051369335",
+      "title": "Wing Pulse Aramid CZ - 4 m2 White / Sky Blue Second Hand 14466",
+      "variant_title": "4 m2 / White / Sky Blue",
+      "price_eur": 289.0,
+      "compare_at_price_eur": 999.0,
+      "discount_percent": 71.1,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-boom-26nhnb-oc15795",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_BOOM-4_5-BLACK-GONGWING-NHNB-01_f14972d7-3dbf-4f1e-9669-2e0e3d057ca7.png?v=1770109658",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728100958583"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "4 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604064551287",
-      "title": "Wing Plus - Dacron 5 m\u00b2 / White Occasion 15803",
-      "variant_title": "Dacron / 5 m\u00b2 / White",
-      "price_eur": 389.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 43.5,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc15803",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-WHITE-GONGWING-01_e4a03859-e1e0-4131-8454-1378000f4ce8.png?v=1765377135",
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-pulse-dp-upe-aramid-oc14466",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-T-24-WING-UPE_ARAMID-PULSE_DP-BLEU_CIEL-5M-GONGWING-01_7b1c326a-489b-4614-acb8-48fc5b689a20.png?v=1784705629",
       "collection": "Wings",
       "item_type": "wing",
       "product_type": "second_life",
       "tags": [
         "main_collection:occasions-wings",
-        "YGroup_wing-plus"
+        "PIM"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 1,
       "variant_ids": [
-        "57728113967479"
+        "57316860297591"
       ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604063863159",
-      "title": "Wing Neutra - Dacron 3,5 m\u00b2 / Pink Second Hand 15800",
-      "variant_title": "Dacron / 3,5 m\u00b2 / Pink",
-      "price_eur": 399.0,
-      "compare_at_price_eur": 609.0,
-      "discount_percent": 34.5,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-26nhnb-oc15800",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_HANDLES-4_5-PINK-GONGWING-NHNB-01.png?v=1770109650",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728111116663"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "3,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604064223607",
-      "title": "Wing Neutra - 5 m\u00b2 White Second Hand 15801",
-      "variant_title": "5 m\u00b2 / White",
-      "price_eur": 399.0,
-      "compare_at_price_eur": 729.0,
-      "discount_percent": 45.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-5-oc15801",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/1500-25-WING-PERF_SERIES-NEUTRA-5-WHITE-GONGWING-01_b5feac35-931d-453c-97df-5ead91bc5009.jpg?v=1755687089",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "crm_wingintermediaire",
-        "dropzone2026",
-        "great-deals-30",
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728113181047"
-      ],
-      "variant_base": "5 m\u00b2",
+      "variant_base": "4 m2",
       "variant_sizes": [
         "White"
-      ],
-      "variant_colors": [],
-      "is_new": true
-    },
-    {
-      "id": "product-15604064289143",
-      "title": "Wing Plus - Dacron 5 m\u00b2 / Sky Blue Occasion 15802",
-      "variant_title": "Dacron / 5 m\u00b2 / Sky Blue",
-      "price_eur": 399.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 42.1,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc15802",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-SKYBLUE-GONGWING-01_53c3d50f-eb5c-47d6-ad51-c5c339e71f16.png?v=1765377135",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings",
-        "YGroup_wing-plus"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728113312119"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "5 m\u00b2"
       ],
       "variant_colors": [
         "Sky Blue"
@@ -159,899 +37,27 @@
       "is_new": true
     },
     {
-      "id": "product-15604061798775",
-      "title": "Wing Neutra Boom - Dacron 5 m\u00b2 / Black Occasion 15793",
-      "variant_title": "Dacron / 5 m\u00b2 / Black",
-      "price_eur": 419.0,
-      "compare_at_price_eur": 699.0,
-      "discount_percent": 40.1,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-boom-26nhnb-oc15793",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_BOOM-4_5-BLACK-GONGWING-NHNB-01_f14972d7-3dbf-4f1e-9669-2e0e3d057ca7.png?v=1770109658",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728098533751"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604062290295",
-      "title": "Wing Neutra Boom - Dacron 4,5 m\u00b2 / Black Occasion 15794",
-      "variant_title": "Dacron / 4,5 m\u00b2 / Black",
-      "price_eur": 449.0,
-      "compare_at_price_eur": 669.0,
-      "discount_percent": 32.9,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-boom-26nhnb-oc15794",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_BOOM-4_5-BLACK-GONGWING-NHNB-01_f14972d7-3dbf-4f1e-9669-2e0e3d057ca7.png?v=1770109658",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728100237687"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604067172727",
-      "title": "Wing Neutra Boom - Dacron 4,5 m\u00b2 / Mint Occasion 15810",
-      "variant_title": "Dacron / 4,5 m\u00b2 / Mint",
-      "price_eur": 449.0,
-      "compare_at_price_eur": 669.0,
-      "discount_percent": 32.9,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-boom-26nhnb-oc15810",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_BOOM-4_5-MINT-GONGWING-NHNB-01_968e17f4-a2ae-45cc-9d14-bea0376d41a6.png?v=1770109657",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728126386551"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Mint"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604067369335",
-      "title": "Wing Droid Boom - Dacron 4,5 m\u00b2 / White Second Hand 15811",
-      "variant_title": "Dacron / 4,5 m\u00b2 / White",
-      "price_eur": 449.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 34.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-boom-26nhnb-oc15811",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-DROID_BOOM-4_5-WHITE-GONGWING-NHNB-01_e1dd4133-2cee-46ea-a601-035eeaf3a701.png?v=1769421744",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings",
-        "YGroup_wing-droid-boom"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728127140215"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604068057463",
-      "title": "Wing Plus - Dacron 5 m\u00b2 / White Occasion 15812",
-      "variant_title": "Dacron / 5 m\u00b2 / White",
-      "price_eur": 449.0,
-      "compare_at_price_eur": 689.0,
-      "discount_percent": 34.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc15812",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-WHITE-GONGWING-01_e4a03859-e1e0-4131-8454-1378000f4ce8.png?v=1765377135",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings",
-        "YGroup_wing-plus"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728150143351"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604068778359",
-      "title": "Wing Droid - Dacron 4,5 m\u00b2 / Black Occasion 15814",
-      "variant_title": "Dacron / 4,5 m\u00b2 / Black",
-      "price_eur": 449.0,
-      "compare_at_price_eur": 679.0,
-      "discount_percent": 33.9,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-26nhnb-oc15814",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-DROID_HANDLES-4_5-BLACK-GONGWING-NHNB-01_beffed5f-225a-44aa-981a-9394d4bd143a.png?v=1769016204",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728152043895"
-      ],
-      "variant_base": "Dacron",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604070515063",
-      "title": "Wing Droid SP Aramid CZ - Aramid CZ 4,5 m\u00b2 / Sky blue Second Hand 15817",
-      "variant_title": "Aramid CZ / 4,5 m\u00b2 / Sky blue",
-      "price_eur": 479.0,
-      "compare_at_price_eur": 1229.0,
-      "discount_percent": 61.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-oc15817",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-4_5-SKYBLUE-GONGWING-NHNB-01.png?v=1769534001",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728162365815"
-      ],
-      "variant_base": "Aramid CZ",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Sky blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604063076727",
-      "title": "Wing Droid Aramid X - Aramid X 3,5 m\u00b2 / Black Second Hand 15798",
-      "variant_title": "Aramid X / 3,5 m\u00b2 / Black",
-      "price_eur": 499.0,
-      "compare_at_price_eur": 879.0,
-      "discount_percent": 43.2,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc15798",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-BLACK-GONGWING-NHNB-01_67a4b335-d809-4693-91e4-56e3090c9fa0.png?v=1769533401",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728104792439"
-      ],
-      "variant_base": "Aramid X",
-      "variant_sizes": [
-        "3,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604063502711",
-      "title": "Wing Neutra Aramid X - Aramid X 3,5 m\u00b2 / Pink Second Hand 15799",
-      "variant_title": "Aramid X / 3,5 m\u00b2 / Pink",
-      "price_eur": 519.0,
-      "compare_at_price_eur": 869.0,
-      "discount_percent": 40.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-aramid-x-26nhnb-oc15799",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-NEUTRA-4_5-PINK-GONGWING-NHNB-01.png?v=1770109654",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728105480567"
-      ],
-      "variant_base": "Aramid X",
-      "variant_sizes": [
-        "3,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604071530871",
-      "title": "Wing Droid Aramid - Aramid 4 m\u00b2 / Sky blue Second Hand 15818",
-      "variant_title": "Aramid / 4 m\u00b2 / Sky blue",
-      "price_eur": 519.0,
-      "compare_at_price_eur": 819.0,
-      "discount_percent": 36.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-26nhnb-oc15818",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-TEAM_SERIES-2026-ARAMID-DROID-4_5-SKYBLUE-GONGWING-NHNB-01_c4d2c13d-ca5f-4dc3-a5d5-6db88f1ec18b.png?v=1769532341",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728167608695"
-      ],
-      "variant_base": "Aramid",
-      "variant_sizes": [
-        "4 m\u00b2"
-      ],
-      "variant_colors": [
-        "Sky blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604061110647",
-      "title": "Wing Neutra Light - Team Series - Aramid Light 3 m\u00b2 / White Pink Second Hand 15791",
-      "variant_title": "Aramid Light / 3 m\u00b2 / White Pink",
-      "price_eur": 565.0,
-      "compare_at_price_eur": 749.0,
-      "discount_percent": 24.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-light-26-oc15791",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-NEUTRA-PINK-GONGWING-01_00eb9d74-6205-453a-9370-3aae25b25428.jpg?v=1778679064",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728096207223"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "3 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604062814583",
-      "title": "Wing Droid Aramid X - Aramid X 4,5 m\u00b2 / Black Second Hand 15796",
-      "variant_title": "Aramid X / 4,5 m\u00b2 / Black",
-      "price_eur": 569.0,
-      "compare_at_price_eur": 939.0,
-      "discount_percent": 39.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc15796",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-BLACK-GONGWING-NHNB-01_67a4b335-d809-4693-91e4-56e3090c9fa0.png?v=1769533401",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728104268151"
-      ],
-      "variant_base": "Aramid X",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604062880119",
-      "title": "Wing Droid Aramid X - Aramid X 4,5 m\u00b2 / Black Second Hand 15797",
-      "variant_title": "Aramid X / 4,5 m\u00b2 / Black",
-      "price_eur": 575.0,
-      "compare_at_price_eur": 939.0,
-      "discount_percent": 38.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc15797",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-BLACK-GONGWING-NHNB-01_67a4b335-d809-4693-91e4-56e3090c9fa0.png?v=1769533401",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728104366455"
-      ],
-      "variant_base": "Aramid X",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604070056311",
-      "title": "Wing Droid Aramid X - Aramid X 4 m\u00b2 / Sky blue Second Hand 15816",
-      "variant_title": "Aramid X / 4 m\u00b2 / Sky blue",
-      "price_eur": 579.0,
-      "compare_at_price_eur": 909.0,
-      "discount_percent": 36.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc15816",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-SKYBLUE-GONGWING-NHNB-01_6977f9f6-208a-486e-9df8-c153cd0e8026.png?v=1769533400",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728158138743"
-      ],
-      "variant_base": "Aramid X",
-      "variant_sizes": [
-        "4 m\u00b2"
-      ],
-      "variant_colors": [
-        "Sky blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604066648439",
-      "title": "Wing Droid Aramid - Aramid 4,5 m\u00b2 / Black Sky Blue Second Hand 15808",
-      "variant_title": "Aramid / 4,5 m\u00b2 / Black Sky Blue",
+      "id": "product-15540881195383",
+      "title": "Wing Droid Aramid X - Aramid X 5 m\u00b2 / Sky blue Second Hand 14780",
+      "variant_title": "Aramid X / 5 m\u00b2 / Sky blue",
       "price_eur": 589.0,
-      "compare_at_price_eur": 849.0,
-      "discount_percent": 30.6,
+      "compare_at_price_eur": 979.0,
+      "discount_percent": 39.8,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-26nhnb-oc15808",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-TEAM_SERIES-2026-ARAMID-DROID-4_5-BLACK_SKYBLUE-GONGWING-01_a479517d-beea-4e61-9aa7-c2ad38823c7f.png?v=1769532342",
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc14780",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-SKYBLUE-GONGWING-NHNB-01_84ebc088-8215-4a3b-9cb4-bfff26eaecd7.png?v=1787211156",
       "collection": "Wings",
       "item_type": "wing",
       "product_type": "second_life",
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 1,
       "variant_ids": [
-        "57728123076983"
-      ],
-      "variant_base": "Aramid",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black Sky Blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604069761399",
-      "title": "Wing Droid Aramid X - Aramid X 3 m\u00b2 / Pink Second Hand 15815",
-      "variant_title": "Aramid X / 3 m\u00b2 / Pink",
-      "price_eur": 589.0,
-      "compare_at_price_eur": 849.0,
-      "discount_percent": 30.6,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc15815",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-PINK-GONGWING-NHNB-01_008b0133-2199-4133-9aae-cce9512b051a.png?v=1769533401",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728155517303"
+        "57398302867831"
       ],
       "variant_base": "Aramid X",
-      "variant_sizes": [
-        "3 m\u00b2"
-      ],
-      "variant_colors": [
-        "Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604048494967",
-      "title": "Wing Droid Light - Team Series - Aramid Light 4 m\u00b2 / White Sky Blue Second Hand 15782",
-      "variant_title": "Aramid Light / 4 m\u00b2 / White Sky Blue",
-      "price_eur": 595.0,
-      "compare_at_price_eur": 819.0,
-      "discount_percent": 27.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15782",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-SKYBLUE-GONGWING-01_98854471-6895-45d5-b8a5-d1700e00d4c4.jpg?v=1778679943",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57727902187895"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "4 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Sky Blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604050657655",
-      "title": "Wing Droid Light - Team Series - Aramid Light 4 m\u00b2 / White Sky Blue Second Hand 15784",
-      "variant_title": "Aramid Light / 4 m\u00b2 / White Sky Blue",
-      "price_eur": 599.0,
-      "compare_at_price_eur": 819.0,
-      "discount_percent": 26.9,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15784",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-SKYBLUE-GONGWING-01_98854471-6895-45d5-b8a5-d1700e00d4c4.jpg?v=1778679943",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57727935971703"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "4 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Sky Blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604066287991",
-      "title": "Wing Droid Aramid X - Aramid X 4 m\u00b2 / Sky blue Second Hand 15807",
-      "variant_title": "Aramid X / 4 m\u00b2 / Sky blue",
-      "price_eur": 615.0,
-      "compare_at_price_eur": 909.0,
-      "discount_percent": 32.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc15807",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-SKYBLUE-GONGWING-NHNB-01_6977f9f6-208a-486e-9df8-c153cd0e8026.png?v=1769533400",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728122093943"
-      ],
-      "variant_base": "Aramid X",
-      "variant_sizes": [
-        "4 m\u00b2"
-      ],
-      "variant_colors": [
-        "Sky blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604061438327",
-      "title": "Wing Droid Aramid X - Aramid X 5,5 m\u00b2 / Black Second Hand 15792",
-      "variant_title": "Aramid X / 5,5 m\u00b2 / Black",
-      "price_eur": 619.0,
-      "compare_at_price_eur": 1019.0,
-      "discount_percent": 39.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc15792",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-BLACK-GONGWING-NHNB-01_67a4b335-d809-4693-91e4-56e3090c9fa0.png?v=1769533401",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728097485175"
-      ],
-      "variant_base": "Aramid X",
-      "variant_sizes": [
-        "5,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "Black"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604066943351",
-      "title": "Wing Neutra Aramid X - Aramid X 4 m\u00b2 / Pink Second Hand 15809",
-      "variant_title": "Aramid X / 4 m\u00b2 / Pink",
-      "price_eur": 625.0,
-      "compare_at_price_eur": 899.0,
-      "discount_percent": 30.5,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-aramid-x-26nhnb-oc15809",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-NEUTRA-4_5-PINK-GONGWING-NHNB-01.png?v=1770109654",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728125075831"
-      ],
-      "variant_base": "Aramid X",
-      "variant_sizes": [
-        "4 m\u00b2"
-      ],
-      "variant_colors": [
-        "Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604052525431",
-      "title": "Wing Neutra Light - Team Series - Aramid Light 5 m\u00b2 / White Sky Blue Second Hand 15785",
-      "variant_title": "Aramid Light / 5 m\u00b2 / White Sky Blue",
-      "price_eur": 649.0,
-      "compare_at_price_eur": 879.0,
-      "discount_percent": 26.2,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-light-26-oc15785",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-NEUTRA-SKYBLUE-GONGWING-01_b9ba0818-6d11-4e4e-afb1-0810ae7ab96f.jpg?v=1778679063",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57727957795191"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Sky Blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604048855415",
-      "title": "Wing Neutra Light - Team Series - Aramid Light 4,5 m\u00b2 / White Pink Second Hand 15783",
-      "variant_title": "Aramid Light / 4,5 m\u00b2 / White Pink",
-      "price_eur": 659.0,
-      "compare_at_price_eur": 839.0,
-      "discount_percent": 21.5,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-light-26-oc15783",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-NEUTRA-PINK-GONGWING-01_00eb9d74-6205-453a-9370-3aae25b25428.jpg?v=1778679064",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57727902613879"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "4,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604055900535",
-      "title": "Wing Neutra Light - Team Series - Aramid Light 5 m\u00b2 / White Sky Blue Second Hand 15788",
-      "variant_title": "Aramid Light / 5 m\u00b2 / White Sky Blue",
-      "price_eur": 659.0,
-      "compare_at_price_eur": 879.0,
-      "discount_percent": 25.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-light-26-oc15788",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-NEUTRA-SKYBLUE-GONGWING-01_b9ba0818-6d11-4e4e-afb1-0810ae7ab96f.jpg?v=1778679063",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728022577527"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Sky Blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604057473399",
-      "title": "Wing Neutra Light - Team Series - Aramid Light 5,5 m\u00b2 / White Sky Blue Second Hand 15789",
-      "variant_title": "Aramid Light / 5,5 m\u00b2 / White Sky Blue",
-      "price_eur": 685.0,
-      "compare_at_price_eur": 919.0,
-      "discount_percent": 25.5,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-light-26-oc15789",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-NEUTRA-SKYBLUE-GONGWING-01_b9ba0818-6d11-4e4e-afb1-0810ae7ab96f.jpg?v=1778679063",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728044564855"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "5,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Sky Blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604053803383",
-      "title": "Wing Droid Light - Team Series - Aramid Light 6 m\u00b2 / White Pink Second Hand 15786",
-      "variant_title": "Aramid Light / 6 m\u00b2 / White Pink",
-      "price_eur": 725.0,
-      "compare_at_price_eur": 969.0,
-      "discount_percent": 25.2,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15786",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-PINK-GONGWING-01_f6e0a3a4-4cc4-48c8-96db-043619358835.jpg?v=1778679946",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57727986073975"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "6 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604057637239",
-      "title": "Wing Droid Light - Team Series - Aramid Light 6 m\u00b2 / White Pink Second Hand 15790",
-      "variant_title": "Aramid Light / 6 m\u00b2 / White Pink",
-      "price_eur": 729.0,
-      "compare_at_price_eur": 969.0,
-      "discount_percent": 24.8,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15790",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-PINK-GONGWING-01_f6e0a3a4-4cc4-48c8-96db-043619358835.jpg?v=1778679946",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728054362487"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "6 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604046758263",
-      "title": "Wing Droid Light - Team Series - Aramid Light 5,5 m\u00b2 / White Pink Second Hand 15781",
-      "variant_title": "Aramid Light / 5,5 m\u00b2 / White Pink",
-      "price_eur": 749.0,
-      "compare_at_price_eur": 929.0,
-      "discount_percent": 19.4,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15781",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-PINK-GONGWING-01_f6e0a3a4-4cc4-48c8-96db-043619358835.jpg?v=1778679946",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57727839601015"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "5,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Pink"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604054262135",
-      "title": "Wing Droid Light - Team Series - Aramid Light 7,5 m\u00b2 / White Sky Blue Second Hand 15787",
-      "variant_title": "Aramid Light / 7,5 m\u00b2 / White Sky Blue",
-      "price_eur": 865.0,
-      "compare_at_price_eur": 1169.0,
-      "discount_percent": 26.0,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15787",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-SKYBLUE-GONGWING-01_98854471-6895-45d5-b8a5-d1700e00d4c4.jpg?v=1778679943",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57727994954103"
-      ],
-      "variant_base": "Aramid Light",
-      "variant_sizes": [
-        "7,5 m\u00b2"
-      ],
-      "variant_colors": [
-        "White Sky Blue"
-      ],
-      "is_new": true
-    },
-    {
-      "id": "product-15604065993079",
-      "title": "Wing Droid SP Aramid CZ - Aramid CZ 5 m\u00b2 / Sky blue Second Hand 15806",
-      "variant_title": "Aramid CZ / 5 m\u00b2 / Sky blue",
-      "price_eur": 879.0,
-      "compare_at_price_eur": 1279.0,
-      "discount_percent": 31.3,
-      "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-oc15806",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-4_5-SKYBLUE-GONGWING-NHNB-01.png?v=1769534001",
-      "collection": "Wings",
-      "item_type": "wing",
-      "product_type": "second_life",
-      "tags": [
-        "main_collection:occasions-wings"
-      ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
-      "variant_count": 1,
-      "variant_ids": [
-        "57728119964023"
-      ],
-      "variant_base": "Aramid CZ",
       "variant_sizes": [
         "5 m\u00b2"
       ],
@@ -1077,7 +83,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519979954551"
@@ -1104,7 +110,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519988506999"
@@ -1131,7 +137,7 @@
         "crm_wingintermediaire",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676989137271"
@@ -1157,7 +163,7 @@
       "tags": [
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57675645092215"
@@ -1187,7 +193,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57686765568375"
@@ -1218,7 +224,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519866544503"
@@ -1247,7 +253,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519927132535"
@@ -1276,7 +282,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519945974135"
@@ -1305,7 +311,7 @@
         "crm_wingexpert",
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519860908407"
@@ -1333,7 +339,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57529800425847"
@@ -1361,7 +367,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676989366647"
@@ -1391,7 +397,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676985467255"
@@ -1421,7 +427,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57545071198583"
@@ -1451,7 +457,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676989956471"
@@ -1481,7 +487,7 @@
       "tags": [
         "main_collection:occasions-stabs"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676990742903"
@@ -1512,7 +518,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519850717559"
@@ -1539,7 +545,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519844426103"
@@ -1566,7 +572,7 @@
         "crm_wingexpert",
         "main_collection:occasions-fuselages"
       ],
-      "updated_at": "2026-11-09T16:54:24+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519831843191"
@@ -1593,7 +599,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57517158170999"
@@ -1620,7 +626,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519586476407"
@@ -1647,7 +653,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57673247261047"
@@ -1674,7 +680,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676906758519"
@@ -1700,7 +706,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676904661367"
@@ -1727,7 +733,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676936708471"
@@ -1754,7 +760,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57517093650807"
@@ -1785,7 +791,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57529782927735"
@@ -1818,7 +824,7 @@
         "great-deals-20",
         "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-11-09T16:54:26+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57666762015095"
@@ -1846,7 +852,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57676905120119"
@@ -1878,7 +884,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57715140493687"
@@ -1914,7 +920,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57531715486071"
@@ -1940,7 +946,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57673245491575"
@@ -1970,7 +976,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57545074213239"
@@ -2001,7 +1007,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519822274935"
@@ -2032,7 +1038,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57517123928439"
@@ -2062,7 +1068,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57673235136887"
@@ -2092,7 +1098,7 @@
       "tags": [
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57673236185463"
@@ -2123,7 +1129,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519531983223"
@@ -2134,6 +1140,37 @@
       ],
       "variant_colors": [
         "Black"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604064551287",
+      "title": "Wing Plus - Dacron 5 m\u00b2 / White Occasion 15803",
+      "variant_title": "Dacron / 5 m\u00b2 / White",
+      "price_eur": 389.0,
+      "compare_at_price_eur": 689.0,
+      "discount_percent": 43.5,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc15803",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-WHITE-GONGWING-01_e4a03859-e1e0-4131-8454-1378000f4ce8.png?v=1765377135",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings",
+        "YGroup_wing-plus"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728113967479"
+      ],
+      "variant_base": "Dacron",
+      "variant_sizes": [
+        "5 m\u00b2"
+      ],
+      "variant_colors": [
+        "White"
       ],
       "is_new": false
     },
@@ -2158,7 +1195,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57715138199927"
@@ -2166,6 +1203,67 @@
       "variant_base": "7'8\"",
       "variant_sizes": [],
       "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15604063863159",
+      "title": "Wing Neutra - Dacron 3,5 m\u00b2 / Pink Second Hand 15800",
+      "variant_title": "Dacron / 3,5 m\u00b2 / Pink",
+      "price_eur": 399.0,
+      "compare_at_price_eur": 609.0,
+      "discount_percent": 34.5,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-26nhnb-oc15800",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_HANDLES-4_5-PINK-GONGWING-NHNB-01.png?v=1770109650",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728111116663"
+      ],
+      "variant_base": "Dacron",
+      "variant_sizes": [
+        "3,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Pink"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604064289143",
+      "title": "Wing Plus - Dacron 5 m\u00b2 / Sky Blue Occasion 15802",
+      "variant_title": "Dacron / 5 m\u00b2 / Sky Blue",
+      "price_eur": 399.0,
+      "compare_at_price_eur": 689.0,
+      "discount_percent": 42.1,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc15802",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-SKYBLUE-GONGWING-01_53c3d50f-eb5c-47d6-ad51-c5c339e71f16.png?v=1765377135",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings",
+        "YGroup_wing-plus"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728113312119"
+      ],
+      "variant_base": "Dacron",
+      "variant_sizes": [
+        "5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Sky Blue"
+      ],
       "is_new": false
     },
     {
@@ -2188,7 +1286,7 @@
         "LONGSIZE",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57545066905975"
@@ -2215,7 +1313,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519721316727"
@@ -2246,7 +1344,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519807005047"
@@ -2276,7 +1374,7 @@
       "tags": [
         "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-11-09T16:54:26+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57666786361719"
@@ -2303,7 +1401,7 @@
         "crm_wingexpert",
         "main_collection:occasions-frontwing"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57519798255991"
@@ -2335,7 +1433,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57511896875383"
@@ -2351,7 +1449,7 @@
     },
     {
       "id": "product-15529317204343",
-      "title": "Surf Foil Board Mister EPS Pro - EPS PRO 7'9 / Pink Occasion 14739",
+      "title": "Surf Foil Board Mister EPS Pro - EPS PRO 7'9 / Pink Second Hand 14739",
       "variant_title": "EPS PRO / 7'9 / Pink",
       "price_eur": 419.0,
       "compare_at_price_eur": 649.0,
@@ -2367,7 +1465,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57373707338103"
@@ -2401,7 +1499,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 1,
       "variant_ids": [
         "56859023638903"
@@ -2412,6 +1510,128 @@
       ],
       "variant_colors": [
         "Sky blue"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604062290295",
+      "title": "Wing Neutra Boom - Dacron 4,5 m\u00b2 / Black Occasion 15794",
+      "variant_title": "Dacron / 4,5 m\u00b2 / Black",
+      "price_eur": 449.0,
+      "compare_at_price_eur": 669.0,
+      "discount_percent": 32.9,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-boom-26nhnb-oc15794",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-NEUTRA_BOOM-4_5-BLACK-GONGWING-NHNB-01_f14972d7-3dbf-4f1e-9669-2e0e3d057ca7.png?v=1770109658",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728100237687"
+      ],
+      "variant_base": "Dacron",
+      "variant_sizes": [
+        "4,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Black"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604067369335",
+      "title": "Wing Droid Boom - Dacron 4,5 m\u00b2 / White Second Hand 15811",
+      "variant_title": "Dacron / 4,5 m\u00b2 / White",
+      "price_eur": 449.0,
+      "compare_at_price_eur": 689.0,
+      "discount_percent": 34.8,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-boom-26nhnb-oc15811",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-DROID_BOOM-4_5-WHITE-GONGWING-NHNB-01_e1dd4133-2cee-46ea-a601-035eeaf3a701.png?v=1769421744",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings",
+        "YGroup_wing-droid-boom"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728127140215"
+      ],
+      "variant_base": "Dacron",
+      "variant_sizes": [
+        "4,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "White"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604068057463",
+      "title": "Wing Plus - Dacron 5 m\u00b2 / White Occasion 15812",
+      "variant_title": "Dacron / 5 m\u00b2 / White",
+      "price_eur": 449.0,
+      "compare_at_price_eur": 689.0,
+      "discount_percent": 34.8,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-plus-26-oc15812",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-PLUS-5_0-WHITE-GONGWING-01_e4a03859-e1e0-4131-8454-1378000f4ce8.png?v=1765377135",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings",
+        "YGroup_wing-plus"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728150143351"
+      ],
+      "variant_base": "Dacron",
+      "variant_sizes": [
+        "5 m\u00b2"
+      ],
+      "variant_colors": [
+        "White"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604068778359",
+      "title": "Wing Droid - Dacron 4,5 m\u00b2 / Black Occasion 15814",
+      "variant_title": "Dacron / 4,5 m\u00b2 / Black",
+      "price_eur": 449.0,
+      "compare_at_price_eur": 679.0,
+      "discount_percent": 33.9,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-26nhnb-oc15814",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PERF_SERIES-2026-DROID_HANDLES-4_5-BLACK-GONGWING-NHNB-01_beffed5f-225a-44aa-981a-9394d4bd143a.png?v=1769016204",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728152043895"
+      ],
+      "variant_base": "Dacron",
+      "variant_sizes": [
+        "4,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Black"
       ],
       "is_new": false
     },
@@ -2435,7 +1655,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57711520448887"
@@ -2446,6 +1666,36 @@
       ],
       "variant_colors": [
         "Grey"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604070515063",
+      "title": "Wing Droid SP Aramid CZ - Aramid CZ 4,5 m\u00b2 / Sky blue Second Hand 15817",
+      "variant_title": "Aramid CZ / 4,5 m\u00b2 / Sky blue",
+      "price_eur": 479.0,
+      "compare_at_price_eur": 1229.0,
+      "discount_percent": 61.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-oc15817",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-4_5-SKYBLUE-GONGWING-NHNB-01.png?v=1769534001",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728162365815"
+      ],
+      "variant_base": "Aramid CZ",
+      "variant_sizes": [
+        "4,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Sky blue"
       ],
       "is_new": false
     },
@@ -2467,7 +1717,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57560855413111"
@@ -2497,7 +1747,7 @@
         "main_ collection:lowkite-lowkite",
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57353324233079"
@@ -2527,7 +1777,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57486758871415"
@@ -2557,7 +1807,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57715116769655"
@@ -2587,7 +1837,7 @@
       "tags": [
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57544379498871"
@@ -2619,7 +1869,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57632536461687"
@@ -2630,6 +1880,36 @@
       ],
       "variant_colors": [
         "Black"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604063502711",
+      "title": "Wing Neutra Aramid X - Aramid X 3,5 m\u00b2 / Pink Second Hand 15799",
+      "variant_title": "Aramid X / 3,5 m\u00b2 / Pink",
+      "price_eur": 519.0,
+      "compare_at_price_eur": 869.0,
+      "discount_percent": 40.3,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-aramid-x-26nhnb-oc15799",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-NEUTRA-4_5-PINK-GONGWING-NHNB-01.png?v=1770109654",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728105480567"
+      ],
+      "variant_base": "Aramid X",
+      "variant_sizes": [
+        "3,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Pink"
       ],
       "is_new": false
     },
@@ -2653,7 +1933,7 @@
         "LONGSIZE",
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57411785818487"
@@ -2685,7 +1965,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57632551928183"
@@ -2715,7 +1995,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57712311075191"
@@ -2745,7 +2025,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57712359899511"
@@ -2775,7 +2055,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57712419144055"
@@ -2805,7 +2085,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57712499622263"
@@ -2835,7 +2115,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57712552968567"
@@ -2865,7 +2145,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57560830640503"
@@ -2897,7 +2177,7 @@
         "main_collection:occasions-planche-surffoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57318942376311"
@@ -2929,7 +2209,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57712342401399"
@@ -2939,6 +2219,66 @@
         "4'10"
       ],
       "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15604061110647",
+      "title": "Wing Neutra Light - Team Series - Aramid Light 3 m\u00b2 / White Pink Second Hand 15791",
+      "variant_title": "Aramid Light / 3 m\u00b2 / White Pink",
+      "price_eur": 565.0,
+      "compare_at_price_eur": 749.0,
+      "discount_percent": 24.6,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-light-26-oc15791",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-NEUTRA-PINK-GONGWING-01_00eb9d74-6205-453a-9370-3aae25b25428.jpg?v=1778679064",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728096207223"
+      ],
+      "variant_base": "Aramid Light",
+      "variant_sizes": [
+        "3 m\u00b2"
+      ],
+      "variant_colors": [
+        "White Pink"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604062814583",
+      "title": "Wing Droid Aramid X - Aramid X 4,5 m\u00b2 / Black Second Hand 15796",
+      "variant_title": "Aramid X / 4,5 m\u00b2 / Black",
+      "price_eur": 569.0,
+      "compare_at_price_eur": 939.0,
+      "discount_percent": 39.4,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-aramid-x-26nhnb-oc15796",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-ARAMID_X-DROID-4_5-BLACK-GONGWING-NHNB-01_67a4b335-d809-4693-91e4-56e3090c9fa0.png?v=1769533401",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728104268151"
+      ],
+      "variant_base": "Aramid X",
+      "variant_sizes": [
+        "4,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "Black"
+      ],
       "is_new": false
     },
     {
@@ -2959,7 +2299,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57489028874615"
@@ -2989,7 +2329,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57712480256375"
@@ -3019,7 +2359,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57632582074743"
@@ -3049,7 +2389,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57715183518071"
@@ -3059,6 +2399,66 @@
         "6'6"
       ],
       "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15604048494967",
+      "title": "Wing Droid Light - Team Series - Aramid Light 4 m\u00b2 / White Sky Blue Second Hand 15782",
+      "variant_title": "Aramid Light / 4 m\u00b2 / White Sky Blue",
+      "price_eur": 595.0,
+      "compare_at_price_eur": 819.0,
+      "discount_percent": 27.4,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15782",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-SKYBLUE-GONGWING-01_98854471-6895-45d5-b8a5-d1700e00d4c4.jpg?v=1778679943",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57727902187895"
+      ],
+      "variant_base": "Aramid Light",
+      "variant_sizes": [
+        "4 m\u00b2"
+      ],
+      "variant_colors": [
+        "White Sky Blue"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604050657655",
+      "title": "Wing Droid Light - Team Series - Aramid Light 4 m\u00b2 / White Sky Blue Second Hand 15784",
+      "variant_title": "Aramid Light / 4 m\u00b2 / White Sky Blue",
+      "price_eur": 599.0,
+      "compare_at_price_eur": 819.0,
+      "discount_percent": 26.9,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15784",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-SKYBLUE-GONGWING-01_98854471-6895-45d5-b8a5-d1700e00d4c4.jpg?v=1778679943",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57727935971703"
+      ],
+      "variant_base": "Aramid Light",
+      "variant_sizes": [
+        "4 m\u00b2"
+      ],
+      "variant_colors": [
+        "White Sky Blue"
+      ],
       "is_new": false
     },
     {
@@ -3077,7 +2477,7 @@
       "tags": [
         "main_collection:occasions-lowkite"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57544380449143"
@@ -3110,7 +2510,7 @@
         "great-deals-40",
         "main_collection:occasions-planche-supfoil"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "55982174372215"
@@ -3138,7 +2538,7 @@
         "main_collection:occasions-planches-rigides-wingboard",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:23+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57560852201847"
@@ -3151,34 +2551,32 @@
       "is_new": false
     },
     {
-      "id": "product-15553394049399",
-      "title": "SUP Foil Board Xiggy EPS Pro - EPS PRO 6'5 / White Second Hand 15054",
-      "variant_title": "EPS PRO / 6'5 / White",
-      "price_eur": 639.0,
-      "compare_at_price_eur": 949.0,
-      "discount_percent": 32.7,
+      "id": "product-15604052525431",
+      "title": "Wing Neutra Light - Team Series - Aramid Light 5 m\u00b2 / White Sky Blue Second Hand 15785",
+      "variant_title": "Aramid Light / 5 m\u00b2 / White Sky Blue",
+      "price_eur": 649.0,
+      "compare_at_price_eur": 879.0,
+      "discount_percent": 26.2,
       "available": true,
-      "url": "https://www.gong-galaxy.com/en/products/gong-supfoil-board-xiggy-oc15054",
-      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-SUP_FOIL_DW-EPS_PRO_DW-XIGGY-GONGSUPFOIL-01_609952b8-d895-4993-91c8-ccb5a4adffae.jpg?v=1748963055",
-      "collection": "SUP Foil Boards",
-      "item_type": "sup_foil_board",
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-light-26-oc15785",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-NEUTRA-SKYBLUE-GONGWING-01_b9ba0818-6d11-4e4e-afb1-0810ae7ab96f.jpg?v=1778679063",
+      "collection": "Wings",
+      "item_type": "wing",
       "product_type": "second_life",
       "tags": [
-        "board_rigide",
-        "main_collection:occasions-planche-supfoil",
-        "OVERSIZE"
+        "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 1,
       "variant_ids": [
-        "57448400847223"
+        "57727957795191"
       ],
-      "variant_base": "EPS PRO",
+      "variant_base": "Aramid Light",
       "variant_sizes": [
-        "6'5"
+        "5 m\u00b2"
       ],
       "variant_colors": [
-        "White"
+        "White Sky Blue"
       ],
       "is_new": false
     },
@@ -3200,7 +2598,7 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57715096650103"
@@ -3211,6 +2609,36 @@
       ],
       "variant_colors": [
         "White"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604055900535",
+      "title": "Wing Neutra Light - Team Series - Aramid Light 5 m\u00b2 / White Sky Blue Second Hand 15788",
+      "variant_title": "Aramid Light / 5 m\u00b2 / White Sky Blue",
+      "price_eur": 659.0,
+      "compare_at_price_eur": 879.0,
+      "discount_percent": 25.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-neutra-light-26-oc15788",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-NEUTRA-SKYBLUE-GONGWING-01_b9ba0818-6d11-4e4e-afb1-0810ae7ab96f.jpg?v=1778679063",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728022577527"
+      ],
+      "variant_base": "Aramid Light",
+      "variant_sizes": [
+        "5 m\u00b2"
+      ],
+      "variant_colors": [
+        "White Sky Blue"
       ],
       "is_new": false
     },
@@ -3232,7 +2660,7 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57632539443575"
@@ -3264,7 +2692,7 @@
         "main_collection:occasions-planche-supfoil",
         "OVERSIZE"
       ],
-      "updated_at": "2026-11-09T16:54:25+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57448393245047"
@@ -3272,6 +2700,36 @@
       "variant_base": "9'0",
       "variant_sizes": [],
       "variant_colors": [],
+      "is_new": false
+    },
+    {
+      "id": "product-15604057637239",
+      "title": "Wing Droid Light - Team Series - Aramid Light 6 m\u00b2 / White Pink Second Hand 15790",
+      "variant_title": "Aramid Light / 6 m\u00b2 / White Pink",
+      "price_eur": 729.0,
+      "compare_at_price_eur": 969.0,
+      "discount_percent": 24.8,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15790",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-PINK-GONGWING-01_f6e0a3a4-4cc4-48c8-96db-043619358835.jpg?v=1778679946",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728054362487"
+      ],
+      "variant_base": "Aramid Light",
+      "variant_sizes": [
+        "6 m\u00b2"
+      ],
+      "variant_colors": [
+        "White Pink"
+      ],
       "is_new": false
     },
     {
@@ -3291,7 +2749,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 10,
       "variant_ids": [
         "57148638953847",
@@ -3338,7 +2796,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57630884004215"
@@ -3370,7 +2828,7 @@
         "great-deals-20",
         "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-11-09T16:54:26+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57544338997623"
@@ -3400,7 +2858,7 @@
       "tags": [
         "main_collection:occasions-wings"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57352568963447"
@@ -3408,6 +2866,66 @@
       "variant_base": "Aramid CZ",
       "variant_sizes": [
         "6 m\u00b2"
+      ],
+      "variant_colors": [
+        "Sky blue"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604054262135",
+      "title": "Wing Droid Light - Team Series - Aramid Light 7,5 m\u00b2 / White Sky Blue Second Hand 15787",
+      "variant_title": "Aramid Light / 7,5 m\u00b2 / White Sky Blue",
+      "price_eur": 865.0,
+      "compare_at_price_eur": 1169.0,
+      "discount_percent": 26.0,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-light-26-oc15787",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/26-1500-WING-TEAM_SERIES-2026-LIGHT-ARAMID-DROID-SKYBLUE-GONGWING-01_98854471-6895-45d5-b8a5-d1700e00d4c4.jpg?v=1778679943",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57727994954103"
+      ],
+      "variant_base": "Aramid Light",
+      "variant_sizes": [
+        "7,5 m\u00b2"
+      ],
+      "variant_colors": [
+        "White Sky Blue"
+      ],
+      "is_new": false
+    },
+    {
+      "id": "product-15604065993079",
+      "title": "Wing Droid SP Aramid CZ - Aramid CZ 5 m\u00b2 / Sky blue Second Hand 15806",
+      "variant_title": "Aramid CZ / 5 m\u00b2 / Sky blue",
+      "price_eur": 879.0,
+      "compare_at_price_eur": 1279.0,
+      "discount_percent": 31.3,
+      "available": true,
+      "url": "https://www.gong-galaxy.com/en/products/gong-wing-droid-sp-aramid-cz-26nhnb-oc15806",
+      "image_url": "https://cdn.shopify.com/s/files/1/0791/5975/5071/files/25-1500-WING-PRO_TEAM_SERIES-2026-DROID_SP-4_5-SKYBLUE-GONGWING-NHNB-01.png?v=1769534001",
+      "collection": "Wings",
+      "item_type": "wing",
+      "product_type": "second_life",
+      "tags": [
+        "main_collection:occasions-wings"
+      ],
+      "updated_at": "2026-11-10T15:42:22+01:00",
+      "variant_count": 1,
+      "variant_ids": [
+        "57728119964023"
+      ],
+      "variant_base": "Aramid CZ",
+      "variant_sizes": [
+        "5 m\u00b2"
       ],
       "variant_colors": [
         "Sky blue"
@@ -3435,7 +2953,7 @@
         "main_collection:occasions-wings",
         "main_collection:wing-foil-wings"
       ],
-      "updated_at": "2026-11-09T16:54:23+01:00",
+      "updated_at": "2026-11-10T15:42:22+01:00",
       "variant_count": 11,
       "variant_ids": [
         "54893623312759",
@@ -3480,7 +2998,7 @@
       "tags": [
         "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-11-09T16:54:26+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57666839445879"
@@ -3510,7 +3028,7 @@
         "great-deals-30",
         "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-11-09T16:54:26+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57666737766775"
@@ -3542,7 +3060,7 @@
         "great-deals-30",
         "main_collection:occasions-planches-gonflables-wingboard"
       ],
-      "updated_at": "2026-11-09T16:54:26+01:00",
+      "updated_at": "2026-11-10T15:42:24+01:00",
       "variant_count": 1,
       "variant_ids": [
         "57666817687927"
